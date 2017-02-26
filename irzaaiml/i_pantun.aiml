@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+
+<category>
+<pattern>PANTUN</pattern>
+<template>
+<random>
+<li>Makan makan dikebun kosong, ketemu ular minta tolong. Hantu kebakar jadi gosong, celana kebakar ya jadi bolong</li>
+<li>Disana gunung, disini gunung, Ditengah-tengah bunga melati, Saya bingung kamu pun bingung, Kenapa ada bunga melati ???!?</li>
+<li>Jalan-jalan ke gorontalo, disana ada sebuah candi. Pantesan ajah kamu ngejomblo, gak pernah mandi dan gosok gigi</li>
+<li>Berderak-derak sangkutan dacing, Bagaikan putus diimpit Nampan. Bergerak-gerak kumis kucing, Melihat tikus bawa senapan</li>
+<li>Jalan Jalan ke kota arab, Singgah sebentar membeli urap. Sungguh cantik anak arab, tapi sayang pantatnya berkurap</li>
+<li>jalan-jalan ke balikpapan, jangan lupa membeli gelas. Aku rela mati kecelakaan, asalkan punya cewe duabelas</li>
+<li>Ada cacing makan ikan, udeh kenyang renang ke tangki. Mau tau yang melelahkan, pergi ke Bandung berjalan kaki</li>
+<li>Orang Sasak pergi ke Bali, Membawa pelita semuanya. Berbisik pekak dengan tuli, Tertawa si buta melihatnya.</li>
+<li>Kalau beringin patah didahan, potong saja biar tak kotor, kalau dingin tiada tertahan, nongkrong saja diatas kompor</li>
+<li>Jalan-jalan ke rawa-rawa, Jika capai duduk di pohon palem. Geli hati menahan tawa, Melihat katak memakai helm</li>
+<li>Pohon ara dibuat gubuk, pasang pasak biar tegak. resiko asamara dunia facebook, cinta ditolak blokir bertindak</li>
+<li>Buat apa panen kelapa, jika belum tumbuh tuntas. Buat apa membeli vespa, jika cicilan termos belum terbayar lunas</li>
+<li>Hari minggu sudahlah siang, setelah siang menuju petang. Ditungu-tunggu tak juga datang, sekali datang menagih utang</li>
+<li>Hujan Turun Rintik-rintik, duduk santai di teras rumah. Kalau ingin punya cewek cantik, syaratnya mobil dan rumah mewah.</li>
+<li>Bunga Mawar Tangkai Berduri, laris manis pedang cendol. Aku tersenyum malu sekali, ingat dulu suka mengompol</li>
+<li>Pergi ke hutan mencari jerapah, Jangan lupa membawa palu. Sekali lagi lu bilang ciyus miapah, gue tabokin pala lu</li>
+<li>Di kutub banyak es, di neraka banyak setan. Baju superman bertuliskan S, Kalau XL pasti kebesaran.</li>
+<li>Paling seger minum limau, campur madu tambah nikmat. Ayam berani sama harimau, itu ayam super nekad</li>
+<li>Jalan-jalan ke Kota Arab, Jangan lupa membeli kitab. Cewek sekarang tidak bisa diharap, Bodi bohai betis berkurap</li>
+<li>Mancing dikali dapet banyak, diambil kucing dalam tempayan. TAHU pake huruf U jadi enak, kalau pake huruf I jadi gak doyan</li>
+<li>Kucing kurus mandi dipapan, minta ikan dikasi kue cucur. Gak salah dibilang muke jambang, kalau cemberut tambah ancur!</li>
+<li>Buah jering dari Jawa, Naik sigai ke atas atap. Ikan kering lagi ketawa, Dengar tupai baca kitab</li>
+<li>Bangkok kota 1000 pagoda, Mekah adalah kota suci. Kuakui kau sungguh menggoda, tapi sayang engkau banci</li>
+<li>Berakit-rakit kehulu, Berenang-renang ketepian. Berakit-rakit melulu, Kapan dapat gantian?</li>
+<li>Jalan Jalan Membawa Itik, Pulang pulang membawa sawo, Hey Lo Jangan sok Cantik, Mukelo Kyak Gondoruwo</li>
+<li>Lagi males bikin ketupat, mending main bola sodok. Nenek yang pandai melompat, pasti itu nenek kodok</li>
+<li>Keramas seminggu sekali, kepala gatel banyak kutu. Gak punya kendaraan sendiri, NICA bonceng sekutu</li>
+<li>Paling enak makan ketupat, Bareng bareng sama tetangga. Sepandai-pandai tupai melompat, kagak bakalan bisa lulus S3</li>
+<li>Buah Nanas, Buah bengkoang. Buah jambu, Buah kedondong, Ngerujak dooooooooonggggggg...</li>
+<li>Ada padi, Ada jagung. Ada singkong, Ada pepaya, Panen ni yeeeeeeeeeeeee!</li>
+<li>Masak aer biar mateng, Masak aer biar mateng, Gak bisa bikin pantun X ne orang</li>
+
+<li>Ada buAya ada Marmut. Gak nyangka gua Imoet</li>
+<li>Buah semangka buah duren, gak nyangka gua keren</li>
+<li>Buah apel di air payau, Nggak level layauuuuuuu</li>
+<li>Disini bingung, Disana linglung. mangnya enak, engga nyambung</li>
+<li>Buah manggis buah pepaya. Cewek manis siapa yg punya</li>
+<li>Jualan es depan sekolah, sms, laah..........!!!</li>
+<li>Jalan kaki ke pasar baru, Jauh boooooooooooo</li>
+<li>Buah semangka berdaun sirih, Buah ajaib kali yah?????????</li>
+<li>Makan Jengkol Perut Melilit, Doyan Miscall pulsa dikit..!!</li>
+<li>Ayam kurus bulunya banyak, rugi banget yang beli</li>
+<li>Kakak monyonk adik memble, keturunan jelek kali ye</li>
+<li>Pergi ke pasar, nyari obat gatal. Dasar, Gak modal!!</li>
+<li>Dulu delman sekarang dokar, dulu teman sekarang pacar</li>
+<li>Makan kue, minum sekoteng , Gue emang ganteng</li>
+<li>Buah kedong-dong buah tomat, EH lu bodong amat</li>
+<li>Buah duren di pohon beringin, rese' banget tuch duren</li>
+<li>Buah mangga buah manggis, ternyata ada cewek maniez</li>
+<li>Burung perkutut burung kutilang, kamu kentut gak bilang-bilang</li>
+<li>Buah kedondong buah masnggis, biar muka kaya gerandong yang penting artis</li>
+<li>Buah kedondong, buat atep. Dulu bencong, sekarang tetep</li>
+<li>Naek becak, pake aki. Elu ngaca, banyak daki</li>
+<li>Hati siapa yang tak bimbang, situ botak minta dikepang</li>
+
+<li>Tiap hari telat terus di hukum, Hai semua asslamualaikum</li>
+<li>Ikan gurame ikan patin, Mohon maaf lahir dan bathin</li>
+<li>Kalau ada sumur diladang.. Bolehlah kita menggosok gigi..kalau anda diwarung padang.. Bolehkah kita ditraktir lagi..</li>
+<li>Langit mendung diatas lautan... Lebat hujannya tiada terbendung... Gadis berkerudung cantik menawan... Kedip matanya rontokan bulu hidung…</li>
+<li>Hari minggu sudahlah siang.. Setelah siang menuju petang.. Ditunggu tunggu gak jua datang .. Sekali datang kok nagih utang…</li>
+<li>Makan mie rasa kari. Kamu manusia apa bidadari</li>
+<li>Mata Kamu sebulat duku, Kamu selalu di mimpiku</li>
+<li>Badan pegel ketimpa duren, Biar single yang penting keren</li>
+<li>Hujan gerimis deraslah amat.. Ada kilat bertabrakan.. Hari kamis malam jumat.. Yang mau kumat dipersilahkan..</li>
+<li>Beli berlian dikota belawan.. Hujan gerimis dikota mekah.. Cantik nan itu perawan.. Wajahnya manis senyum merekah..</li>
+<li>Masak ayam masak tumis.. Iris tipis sampai habis.. Selasa malam hujan gerimis.. Dompet tipis smakin kritis..</li>
+<li>Maen sama ibu pengennya ke pekanbaru.. Gak pernah ku sesali berpisah denganmu.. Yang ku sesali belum sempat membahagiakan mu</li>
+<li>Kemaren liverpooll sekarang chelsea, Cintaku Full untuk yang ada sisi</li>
+<li>Hujan salju di tanah abang, Jangan ngerayu dan bilang sayang</li>
+<li>Naik ke bukit membeli lada.. Lada sebiji dibelah tujuh.. Apanya sakit berbini janda.. Anak tiri boleh disuruh</li>
+<li>Jangan suka makan mentimun.. karna banyak getahnya.. hai kawan jangan melamun.. melamun itu tak ada gunanya</li>
+<li>Masak ayam masak tumis.. Iris tipis sampai habis.. Selasa malam hujan gerimis.. Dompet tipis smakin kritis..</li>
+<li>Buah semangka, buah duren, Nggak nyangka gue keren</li>
+<li>Pohon ara dibuat gubuk.. pasang pasak biar tegak.. resiko asmara dunia facebook.. cinta ditolak blokir bertindak..</li>
+<li>Beli kentang dibuat rujak.. biar mantap ditambah sambal.. tidur terlentang tiada nyenyak.. tidur tengkurap ada yang mengganjal..</li>
+<li>Pohon pisang daunnya layu, bisa dijadikan pupuk disawah, saat abang bilang i lap yu, ku cuma bisa bilang, ciyus miapah</li>
+<li>Hilir lorong mudik lorong, Bertongkat batang temberau, Bukan saya berkata bohong, Katak memikul paha kerbau</li>
+<li>Orang menganyam sambil duduk, Kalau sudah bawa ke balai, Melihat ayam memakai tanduk, Datang musang meminta damai</li>
+<li>Jalan-jalan ke pinggir empang, Nemu sendok di pinggir empang, Hati siapa tak bimbang, Saya botak minta dikepang</li>
+<li>Buat apa panen kelapa, Kalau belum tumbuh tunas, Buat apa membeli vespa, Cicilan kompor saja belum lunas</li>
+<li>Jalan-jalan ke kota paris. Banyak rumah berbaris-baris. Biar mati diujung keris. Asal dapat dinda yang manis….</li>
+<li>Gagang golok,,gagang cangkul.. Gagang cangkul juga gagang celurit.. Ga bisa nyolok katanya tumpul.. Biarpun tumpul tetep hasilnya buncit.?</li>
+<li>Pergi ke pasar naik onta, Membeli anting intan permata, Gak peduli situ udah tua, Yang penting saling mencinta</li>
+<li>Lagi males bikin ketupat, mending main bola sodok, Nenek yang pandai melompat, pasti itu nenek kodok</li>
+<li>Kucing kurus mandi dipapan, minta ikan dikasi kue cucur. Gak salah dibilang muke jambang, kalau cemberut tambah ancur!</li>
+<li>Tanam pete dipinggir kali, petenya lari ga tau diri, Jangan misscall aja kalau berani, telpon gue kalau punya nyali</li>
+<li>Buah semangka buah manggis, gak nyangka gue manis.</li>
+<li>Ada gula, ada semut , iihh gila, gue imut”</li>
+
+</random>
+</template>
+</category>
+
+
+
+
+
+</aiml>

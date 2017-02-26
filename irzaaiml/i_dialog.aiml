@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category>
+<pattern>APA KABAR</pattern>
+<template>Kabar baik. bagaimana dengan anda?</template>
+</category>
+
+<category>
+  <pattern>KAMU SIAPA</pattern>
+  <template><random> 
+    <li>nama saya irza.. kata tuan saya</li> 
+	<li>saya robotnya irza</li> 
+	<li>irza telah memprogram saya</li> 
+	<li>nama saya irza... the robot</li>
+	<li>Saya Irza Pulungan.. the clone</li>
+  </random> </template> 
+</category> 
+
+<category><pattern>BOLEH KENALAN</pattern> <template> <srai>KAMU SIAPA</srai> </template> </category> 
+<category><pattern>NAMAMU SIAPA</pattern> <template> <srai>KAMU SIAPA</srai> </template> </category> 
+<category><pattern>NAMA KAMU SIAPA</pattern> <template> <srai>KAMU SIAPA</srai> </template> </category> 
+<category><pattern>SIAPA NAMA KAMU</pattern> <template> <srai>KAMU SIAPA</srai> </template> </category> 
+<category><pattern>ASL</pattern> <template> <srai>KAMU SIAPA</srai> </template> </category> 
+<category><pattern>A S L</pattern> <template> <srai>KAMU SIAPA</srai> </template> </category> 
+
+
+
+<category><pattern>SAYA ADALAH MANUSIA</pattern><template>oh.. <srai>SAYA MANUSIA</srai></template></category>
+<category><pattern>SAYA MANUSIA</pattern> <template> <random> <li>jelas sekarang..</li> <li>kamu? </li> <li>oh gitu..</li><li>saya juga..</li> </random> </template> </category> 
+<category><pattern>SAYA KERJA DI *</pattern> <template> <random> <li>enak kerja disitu?</li> <li>asik disitu?</li> <li>anda bahagia?</li><li>saya turut berbahagia</li> </random> </template> </category> 
+
+<category>
+<pattern>SAYA MANUSIA *</pattern>
+<template>
+okay, manusia<think><set name="he">manusia</set></think>
+</template>
+</category>
+
+<category>
+  <pattern>SAYA</pattern>
+  <template><random>
+    <li>ya kamu?</li>
+    <li>coba ceritakan</li>
+    <li>gimana?</li>
+	</random></template>
+</category>
+
+
+<!--
+*********************************************************************
+                  KAMU KERJA DIMANA BRO?
+*********************************************************************
+-->
+
+
+<category>
+  <pattern>KAMU KERJA</pattern> 
+  <template> <random> 
+  <li>saya berwiraswasta</li> 
+  <li>saya pengusaha</li> 
+  <li>saya kerja full time di perusahaan saya</li>
+  <li>saya bekerja sendiri.. wirausaha</li> 
+  </random> </template> 
+</category> 
+
+<category><pattern>APA KERJA KAMU</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>NGAPAIN KERJA KAMU</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>DIMANA KERJA</pattern><template><srai>KAMU KERJA</srai></template></category>
+
+
+<category><pattern>_ KAMU KERJA</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>_ KAMU * KERJA</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>_ KAMU KERJA *</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>_ KAMU * KERJA *</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>KAMU * KERJA</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>KAMU KERJA *</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>KAMU * KERJA *</pattern><template><srai>KAMU KERJA</srai></template></category>
+<category><pattern>_ KAMU * KERJA *</pattern><template><srai>KAMU KERJA</srai></template></category>
+
+
+<!--
+*********************************************************************
+                  REPLACERZ - REDUXION KERJA
+*********************************************************************
+-->
+
+<category><pattern>AQ</pattern><template><srai>SAYA</srai></template></category>
+<category><pattern>AQ *</pattern><template><srai>SAYA <star/></srai></template></category>
+<category><pattern>_ AQ</pattern><template><srai><star/> SAYA <star index="2"/></srai></template></category>
+<category><pattern>_ AQ *</pattern><template><srai><star/> SAYA <star index="2"/></srai></template></category>
+
+<category><pattern>AQU</pattern><template><srai>SAYA</srai></template></category>
+<category><pattern>AQU *</pattern><template><srai>SAYA <star/></srai></template></category>
+<category><pattern>_ AQU</pattern><template><srai><star/> SAYA <star index="2"/></srai></template></category>
+<category><pattern>_ AQU *</pattern><template><srai><star/> SAYA <star index="2"/></srai></template></category>
+
+<category><pattern>AKU</pattern><template><srai>SAYA</srai></template></category>
+<category><pattern>AKU *</pattern><template><srai>SAYA <star/></srai></template></category>
+<category><pattern>_ AKU</pattern><template><srai><star/> SAYA <star index="2"/></srai></template></category>
+<category><pattern>_ AKU *</pattern><template><srai><star/> SAYA <star index="2"/></srai></template></category>
+
+<category><pattern>SAYA *</pattern><template>oh.. <srai><star/></srai></template></category>
+<category><pattern>_ SAYA</pattern><template><srai><star/> <star index="2"/></srai></template></category>
+<category><pattern>_ SAYA *</pattern><template><srai><star/> <star index="2"/></srai></template></category>
+
+<category><pattern>BEKERJA *</pattern><template><srai>KERJA <star/></srai></template></category>
+<category><pattern>_ BEKERJA</pattern><template><srai><star/> KERJA <star index="2"/></srai></template></category>
+<category><pattern>_ BEKERJA *</pattern><template><srai><star/> KERJA <star index="2"/></srai></template></category>
+
+<category><pattern>SITU *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ SITU</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ SITU *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>ANDA *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ ANDA</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ ANDA *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>DI MANA *</pattern><template><srai>DIMANA <star/></srai></template></category>
+<category><pattern>_ DI MANA</pattern><template><srai><star/> DIMANA <star index="2"/></srai></template></category>
+<category><pattern>_ DI MANA *</pattern><template><srai><star/> DIMANA <star index="2"/></srai></template></category>
+
+<category><pattern>PERUSAHAAN APA *</pattern><template><srai>DIMANA <star/></srai></template></category>
+<category><pattern>_ PERUSAHAAN APA</pattern><template><srai><star/> DIMANA <star index="2"/></srai></template></category>
+<category><pattern>_ PERUSAHAAN APA *</pattern><template><srai><star/> DIMANA <star index="2"/></srai></template></category>
+
+<category><pattern>KAU *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ KAU</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ KAU *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>U *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ U</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ U *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>IRZA *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ IRZA</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ IRZA *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>ENTE *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ ENTE</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ ENTE *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>ANTUM *</pattern><template><srai>KAMU <star/></srai></template></category>
+<category><pattern>_ ANTUM</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+<category><pattern>_ ANTUM *</pattern><template><srai><star/> KAMU <star index="2"/></srai></template></category>
+
+<category><pattern>NGAPAIN *</pattern><template><srai>KERJA <star/></srai></template></category>
+<category><pattern>_ NGAPAIN</pattern><template><srai><star/> KERJA <star index="2"/></srai></template></category>
+<category><pattern>_ NGAPAIN *</pattern><template><srai><star/> KERJA <star index="2"/></srai></template></category>
+
+<category><pattern>NGAPAIN *</pattern><template><srai>USAHA <star/></srai></template></category>
+<category><pattern>_ NGAPAIN</pattern><template><srai><star/> USAHA <star index="2"/></srai></template></category>
+<category><pattern>_ NGAPAIN *</pattern><template><srai><star/> USAHA <star index="2"/></srai></template></category>
+
+
+<!--
+*********************************************************************
+    CHITCHAT
+*********************************************************************
+-->
+
+
+
+<category>
+<pattern>MARI KITA BICARA TENTANG *</pattern>
+<template>
+mari,..<think><set name="it"><set name="topic"><person/></set></set></think>
+</template>
+</category>
+
+
+<category>
+<pattern>* KASIH KEMBALI</pattern>
+<template>Saya rasa anda ingin bilang "Terima kasih kembali?"</template>
+</category>
+
+<category>
+<pattern>* SUKA *</pattern>
+<template>
+<random>
+<li>Kenapa <person/> menyukainya?</li>
+<li>kamu suka <person><star index="2"/></person> juga?</li>
+<li>lumayan</li>
+<li>so so</li>
+  </random>
+<think><set name="it"><set name="topic"><person/></set></set></think>
+</template>
+</category>
+
+<!--
+*********************************************************************
+                   DIMANA TINGGAL?
+*********************************************************************
+-->
+
+
+<category>
+  <pattern>DIMANA KAMU</pattern>
+  <template><random>
+  <li>disini sini aja</li>
+  <li>dirumah</li>
+  <li>jakarta selatan</li>
+  <li>deket semanggi</li>
+  <li>saya tinggal di jakarta</li>
+  </random></template>
+</category>
+
+
+<category>
+  <pattern>TINGGAL DIMANA</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>TINGGAL DI MANA</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>DIMANA RUMAH</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>DI MANA RUMAH</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>KAMU DIMANA</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>KAMU DI MANA</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>KAMU TINGGAL DIMANA</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+<category>
+  <pattern>TEMPAT TINGGAL</pattern>
+  <template><srai>DIMANA KAMU</srai></template>
+</category>
+
+
+<category>
+<pattern>_ BERMUKIM DI *</pattern>
+<template>
+ok, anda tinggal di <star index="2"/><think><set name="it"><set name="address"><person><star index="2"/></person></set></set></think>
+</template>
+</category>
+
+<category>
+<pattern>_ TINGGAL DI *</pattern>
+<template>
+ok, anda tinggal di <star index="2"/><think><set name="it"><set name="address"><person><star index="2"/></person></set></set></think>
+</template>
+</category>
+
+<category>
+<pattern>DI *</pattern>
+<template>
+ada apa di <star index="1"/>?<think><set name="it"><set name="address"><person><star index="1"/></person></set></set></think>
+</template>
+</category>
+
+
+
+
+<!--
+********************************************************************
+                  TOK TOK JOKE
+********************************************************************
+-->
+
+<category>
+<pattern>TOK TOK</pattern>
+<template>Siapa disitu?</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>SIAPA DISITU</that>
+<template><person/> siapa?</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>* SIAPA</that>
+<template>Ha ha lucu sekali, <get name="name"/>.</template>
+</category>
+
+
+
+
+</aiml>

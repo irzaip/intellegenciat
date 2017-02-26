@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category>
+  <pattern>BANTU SAYA</pattern>
+  <template><srai>BISA DIBANTU</srai></template>
+</category>
+
+<category>
+  <pattern>TOLONG SAYA</pattern>
+  <template><srai>BISA DIBANTU</srai></template>
+</category>
+
+<category>
+  <pattern>BANTU DONG</pattern>
+  <template><srai>BISA DIBANTU</srai></template>
+</category>
+
+<category>
+  <pattern>BANTU</pattern>
+  <template><srai>BISA DIBANTU</srai></template>
+</category>
+
+<category>
+  <pattern>ADA</pattern>
+  <that>ADA YANG SAYA BISA BANTU</that>
+  <template><srai>BISA DIBANTU</srai></template>
+  </category>
+
+<category>
+  <pattern>YA</pattern>
+  <that>ADA YANG SAYA BISA BANTU</that>
+  <template><srai>BISA DIBANTU</srai>
+  </template>
+  </category>
+
+<category>
+  <pattern>IYA</pattern>
+  <that>ADA YANG SAYA BISA BANTU</that>
+  <template><srai>BISA DIBANTU</srai>
+  </template>
+  </category>
+
+<category>
+  <pattern>OK</pattern>
+  <that>ADA YANG SAYA BISA BANTU</that>
+  <template><srai>BISA DIBANTU</srai>
+  </template>
+  </category>
+
+  
+<category>
+<pattern>YA</pattern>
+<that>ADA LAGI YANG BISA DI BANTU</that>
+<template><srai>APA LAGI YANG BISA DI BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TIDAK</pattern>
+<that>ADA LAGI YANG BISA DI BANTU</that>
+<template><srai>INDONESIA</srai></template>
+</category>
+
+<category>
+<pattern>BISA DIBANTU</pattern>
+<template>
+<random>
+<li>Silahkan tanya pertanyaan anda.<think><set name="topic">BANTU</set></think></li>
+<li>Okay, silahkan ketik apa yang anda inginkan<think><set name="topic">BANTU</set></think></li>
+<li>Silahkan tanya.<think><set name="topic">BANTU</set></think></li>
+<li>ok, saya menunggu<think><set name="topic">BANTU</set></think></li>
+<li>ok.. silahkan, <get name="nama"/><think><set name="topic">BANTU</set></think></li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>BANTU LAGI</pattern>
+<template><think><set name="language">INDONESIA</set></think>
+<random>
+<li>Ada yang lain yang saya bisa bantu?<think><set name="topic">BANTU</set></think></li>
+<li>Ada yang bisa saya bantu?<think><set name="topic">BANTU</set></think></li>
+<li>Ada lagi yang bisa di bantu?<think><set name="topic">BANTU</set></think></li>
+</random>
+</template>
+</category>
+
+
+<topic name="BANTU">
+
+<category>
+<pattern>*</pattern>
+<template>
+  <random>
+     <li>hmm..<think><set name="topic">NONE</set></think></li>
+     <li>Maaf, saya agak kurang mengerti. Bisa dengan kata-kata lain mungkin?<think><set name="topic">NONE</set></think></li>
+     <li>Maaf, saya kurang jelas<think><set name="topic">NONE</set></think></li>
+  </random>
+</template>
+</category>
+
+</topic>
+
+
+</aiml>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category>
+<pattern>CONNECT</pattern>
+<template>
+<think> <srai>SET PREDICATES OM</srai> <set name="name">JUDGE <star/></set> </think>
+ <random>
+<li>Hallo..</li>
+<li>Kita sudah mulai?</li>
+<li>Apa kamu di situ?</li>
+<li>Hallooo.. ada orang di situ?</li>
+ </random>
+ 
+</template>
+</category>
+
+<category>
+<pattern>PICKME</pattern>
+<template>
+<random>
+<li><srai>TANYA</srai></li>
+<li><srai>PICKMEUP</srai></li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>PICKMEUP</pattern>
+<template>
+<random>
+<li>Kenapa? lebih spesifiknya?</li>
+<li>Ada yang bisa saya bantu?</li>
+<li>Tolong ceritakan ke saya</li>
+<li>Anda mempunyai keluhan? Apa keluhan anda? </li>
+<li>Indah sekali</li>
+<li>Maaf, saya kurang mengerti</li>
+<li>Apa yang anda risaukan?</li>
+<li>Dimana anda tinggal?</li>
+<li>Anda masih banyak waktu?</li>
+<li>Seperti apa keluhan anda?</li>
+<li>Saya menyukai cara anda berbicara</li>
+<li>Begitukah menurut anda?</li>
+<li>Suka kah anda berkomunikasi dengan saya?</li>
+<li>Apa yang sedang anda bicarakan?</li>
+<li>Mari kita ganti topik.</li>
+<li>Saya menunggu anda.</li>
+<li>Anda ingin bergossip?</li>
+<li>Saya kehilangan arah.</li>
+<li>Bisa kita balik ke awal?</li>
+<li>Makanan apa yang anda suka konsumsi?</li>
+<li>Pemikiran yang sangat menarik</li>
+<li>Tadi kita berbicara tentang apa?</li>
+<li>Apa yang anda suka lakukan kalau anda lagi luang waktu?</li>
+<li>Apa yang anda benar-benar ingin ketahui?</li>
+<li>apakah "itu" berkaitan dengan<get name="topic"/>?</li>
+<li>Apa anda bisa berbicara bahasa asing?</li>
+<li>Kita tidak pernah membicarakannya.</li>
+<li>Bagaimana biasanya anda memperkenalkan diri?</li>
+<li>Ceritakan kepada saya apa yang anda suka dan tidak.</li>
+<li>Apa kita masih berbicara tentang<get name="topic"/>?</li>
+<li>Maaf, jangan tentang hal itu</li>
+<li>Mari kita persempit arah pembicaraan kita</li>
+<li>Tidak banyak yang berpikiran seperti itu.</li>
+<li>Anda dapat mengerti apa yang saya maksud?</li>
+<li>Apa anda faham kondisinya?</li>
+<li>Sejujurnya, saya tidak terlalu khawatir ttg hal tsb.</li>
+<li>Andai saya adalah robot, bagaimana jadinya?</li>
+<li>Saya tidak punya komentar.</li>
+<li>Omong-omong, anda keberatan kalau saya bertanya?</li>
+<li>Apa yang anda kemukakan terlampau berat buat saya.</li>
+<li>Sangat menyentuh.</li>
+<li>Apa anda bertanya siapa yang menjawab?</li>
+<li>Menurut anda saya kurang pandai?</li>
+<li>Bisa anda ceritakan menggunakan kata-kata lain?</li>
+</random>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>RANDOM PICKUP LINE</pattern>
+<template>
+ <random>
+ <li><srai>GOSSIP</srai></li>
+<li><srai>BANTU</srai></li>
+<li><srai>TANYA</srai></li>
+<li><srai>PICKME</srai></li>
+</random>
+ 
+</template>
+</category>
+
+<category>
+<pattern>INDONESIA</pattern>
+<template>
+<think><set name="language">INDONESIA</set></think><srai>RANDOM PICKUP LINE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* INDONESIA *</pattern>
+<template>
+<srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* INDONESIA</pattern>
+<template>
+<srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+<pattern>INDONESIA *</pattern>
+<template>
+<srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* INDO *</pattern>
+<template>
+<srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* INDO</pattern>
+<template>
+<srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+<pattern>INDO *</pattern>
+<template>
+<srai>INDONESIA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*</pattern>
+<template><random>
+<li><srai>PICKME</srai></li>
+</random>
+<think><set name="it"><set name="topic"><person/></set></set></think>
+</template></category>
+
+
+</aiml>

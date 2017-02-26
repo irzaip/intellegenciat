@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+<category>
+  <pattern>*</pattern>
+  <that>ADA AIR ADALAH IKAN</that>
+  <template>Artinya Ada negeri tentulah ada rakyatnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA AKU DIPANDANG HADAP TIADA AKU DIPANDANG BELAKANG</that>
+  <template>Artinya Kasih sayang hanya waktu berhadapan saja, setelah berjauhan lalu dilupakan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA ANGIN ADA POKOKNYA  POHONNYA</that>
+  <template>Artinya Segala sesuatu mestilah ada asal mulanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA ASAP ADA API</that>
+  <template>Artinya Beberapa hal di dunia ini amat sulit atau bahkan mustahil disembunyikan</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BANGKAI ADALAH HERING</that>
+  <template>Artinya Ada perempuan jahat, adalah lelaki jahat yang mengunjunginya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BATANG MATI ADALAH CENDAWAN TUMBUH</that>
+  <template>Artinya Di mana juga kita tinggal, akan ada rezeki kita.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BATANG CENDAWAN TUMBUH</that>
+  <template>Artinya Tiap-tiap negeri ada undang-undang dan adat resamnya masing-masing.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BERAS TARUH DALAM PADI</that>
+  <template>Artinya Rahasia hendaklah disimpan baik-baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BIDUK SEREMPU PULA</that>
+  <template>Artinya Tidak puas dengan apa yang sudah dimiliki.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BUKIT ADA PAYA</that>
+  <template>Artinya Ada baik, ada jahat; ada miskin, ada kaya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA BUNGA ADA LEBAH</that>
+  <template>Artinya Orang yang kaya akan digerogoti oleh teman-temannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA GULA ADA SEMUT</that>
+  <template>Artinya Di tempat orang mudah mendapat rezeki, banyaklah orang berkumpul.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA HARI ADA NASI</that>
+  <template>Artinya Asal masih hidup, tentu akan beroleh rezeki.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA HUJAN ADA PANAS ADA HARI BOLEH BALAS</that>
+  <template>Artinya Perbuatan jahat itu sewaktu-waktu akan mendapat balasan juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA JARUM HENDAKLAH ADA BENANGNYA</that>
+  <template>Artinya Tiap-tiap suatu itu ada pasangannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA KERAK ADA NASI</that>
+  <template>Artinya Tiap-tiap suatu kejadian itu tentu ada bekasnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA LAUT ADA PERAMPOK</that>
+  <template>Artinya Tiap-tiap suatu itu ada pasangannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA NASI DI BALIK KERAK</that>
+  <template>Artinya Masih ada sesuatu yang belum diselesaikan atau belum diperhatikan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA NYAWA ADA REZEKI</that>
+  <template>Artinya Asal masih hidup, tentu akan beroleh rezeki.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PADANG ADA BELALANG</that>
+  <template>Artinya Ada negeri tentulah ada rakyatnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PADI MASAK ADALAH PIPIT</that>
+  <template>Artinya Di tempat orang mudah mendapat rezeki, banyaklah orang berkumpul.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PADI SEMUA KERJA JADI ADA BERAS SEMUA KERJA DERAS</that>
+  <template>Artinya Orang yang mampu (= kaya, berilmu) segala maksudnya mudah tercapai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PADI SEGALA MENJADI</that>
+  <template>Artinya Orang yang mampu (= kaya, berilmu) segala maksudnya mudah tercapai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PAHA ADA KAKI ADA NYAWA ADA REZEKI</that>
+  <template>Artinya Ssetiap orang mempunyai rezeki dan jodohnya sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PASANG SURUTNYA</that>
+  <template>Artinya Untung dan malang tidak tetap.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA PERSEMBAHAN ADA KURNIA</that>
+  <template>Artinya Berbuat baik dibalas baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA ROTAN  ADA DURI</that>
+  <template>Artinya Dalam kesenangan tentu ada kesusahannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA RUPA ADA HARGA</that>
+  <template>Artinya Harga barang menurut rupanya (= keadaannya).</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA SAMA DIMAKAN TAK ADA SAMA DITAHAN</that>
+  <template>Artinya Baik derita dan bahagia dirasakan bersama-sama.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA SAMPAN HENDAK BERENANG</that>
+  <template>Artinya Sengaja bersusah payah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA SEPERTI TAMPAKNYA APUNGAPUNG</that>
+  <template>Artinya Barang yang dihajati telah ada tetapi belum tentu dapat diambil atau dipakai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA SIRIH HENDAK MAKAN SEPAH</that>
+  <template>Artinya Ada yang baik, hendakkan yang buruk.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA TANGGA HENDAK MEMANJAT TIANG</that>
+  <template>Artinya Berbuat sesuatu dengan tidak menurut aturan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA UANG ABANG DISAYANG TAK ADA UANG ABANG DITENDANG</that>
+  <template>Artinya Melakukan sesuatu yang baik jika ada maunya saja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA UANG ABANG DISAYANG TAK ADA UANG ABANG PAYAH</that>
+  <template>Artinya Seorang yang mampu mencukupi kebutuhan keluarganya akan dipuji banyak orang, tetapi jika ia tidak mampu akan banyak mendapat caci maki.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA UBI ADA BATAS ADA MASA BOLEH BALAS</that>
+  <template>Artinya Perbuatan jahat itu sewaktu-waktu akan mendapat balasan juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA UBI ADA TALAS ADA BUDI ADA BALAS</that>
+  <template>Artinya Berbuat baik dibalas baik, berbuat jahat dibalas jahat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADA UDANG DI BALIK BATU</that>
+  <template>Artinya Ada maksud yang teersembunyi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAKAH BUAYA MENOLAK BANGKAI</that>
+  <template>Artinya Tiada orang yang akan melewatkan rezeki yang sudah di depan mata.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAKAH DARI TELAGABYANG JERNIH ITU MENGALIR AIR YANG KERUH</that>
+  <template>Artinya Didalam jiwa orang yang baik tidak pernah ada niat yang jahat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAKAH KAYU DI RIMBA SAMA TINGGI</that>
+  <template>Artinya Semua yang ada di dunia ini diciptakan Tuhan dengan segala perbedaannya dengan tujuan untuk saling melengkapi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAKAH PERNAH TELAGA YANG KERUH MENGALIR AIRNYA YANG JERNIH</that>
+  <template>Artinya Sifat dari seseorang yang jahat akan tetap menurun ke dalam darah anaknya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT AYAM KE LESUNG ADAT ITIK KE PELIMBAHAN</that>
+  <template>Artinya Semua orang mempunyai tempat dan rezekinya sendiri-sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT BERSENDI SYARAK SYARAK BERSENDI KITABULLAH</that>
+  <template>Artinya Setiap perilaku haruslah mengacu pada aturan dan kaidah agama.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT DIISI JANNJI DILABUH</that>
+  <template>Artinya Peraturan harus dilaksanakan, kesepakatan harus dijalankan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT DIISI LEMBAGA DITUANG</that>
+  <template>Artinya Melakukan sesuatu menurut adat kebiasaan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT DIPAKAI BARU PUSAKA DIPAKAI USANG</that>
+  <template>Artinya Ilmu akan berguna selama-lamanya sedangkan harta duniawi hanya akan musnah dimakan waktu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT GUNUNG TEMPATAN KABUT</that>
+  <template>Artinya Semua permasalahan harus dicari di mana sumbernya permasalahan tersebut berasal.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT HIDUP SANDARMENYANDAR</that>
+  <template>Artinya Setiap orang punya kewajiban untuk saling topang menopang di setiap permasalahan yang dialaminya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT HIDUP TOLONG MENOLONG SYARIAT PALUMEMALU</that>
+  <template>Artinya Semua orang saling membutuhkan satu sama lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT JUARA KALAH MENANG ADATNYA SAUDAGAR LABA RUGI</that>
+  <template>Artinya Setiap daerah mempunyai ciri khasnya masing-masing.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT LAMA PUSAKA USANG</that>
+  <template>Artinya Adat istiadat (kebiasaan) tak pernah berrubah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT LURAH TIMBUNAN SARAP</that>
+  <template>Artinya Orang yang berpangkat biasanya dipenuhi dengan banyak pikiran dan masalah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT MUDA MENANGGUNG RINDU ADAT TUA MENAHAN RAGAM</that>
+  <template>Artinya Sebagai orang muda harus belajar menahan emosi dan orang tua harus memberikan bagi yang muda.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT MUDA MENGGANGU RASA ADAT TUA MENGGANGU RAGAM</that>
+  <template>Artinya Ada saatnya seseorang akan mengerti arti kehidupan setelah Dia melewati berbagai macam peristiwa hidup.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT PENGHULU BERPANDANG LUAS BERALAM LAPANG</that>
+  <template>Artinya Karakter seorang pimpinan adalah berwawasan luas dan mampu memberikan solusi di setiap permasalahan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT PERIUK BERKERAK ADAT LESUNG BERDEDAK  </that>
+  <template>Artinya Tiap-tiap usaha memerlukan ketabahan dan kerajinan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT PULAU LIMBURAN PASANG </that>
+  <template>Artinya Adat hidup ialah bantu-membantu, yang kaya membantu yang miskin dan yang berilmu membantu yang bodoh, yang berkuasa melindungi yang lemah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT RIMBA RAYA SIAPA BERANI DITAATI</that>
+  <template>Artinya Orang yang menyelesaikan masalah hanya menggunakan kekuatannya, bukan akalnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT SEPANJANG JALAN CUPAK SEPANJANG BETUNG </that>
+  <template>Artinya Segala perbuatan ada adat dan peraturannya masing-masing. betung = Sejenis buluh besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT TELUK TIMBUNAN KAPAL  KAPAR KAPAR  KAYUAN YANG HANYUTT DI SUNGAI DAN SEBAGAINYA</that>
+  <template>Artinya Orang yang berpangkat atau berpengaruh biasanya menjadi tempat tumpuan orang mengadukan halnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT TELUK TIMBUNAN KAPAL ADAT MUARA PUPUTAN IKAN</that>
+  <template>Artinya Sesuatu harus tepat meletakannya baik itu masalah sosial maupun individu, dan harus tahu kemana tempat harus bertanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT TUA MENAHAN RAGAM </that>
+  <template>Artinya Orang tua-tua terpaksalah menahan (menderita) bermacam-macam godaan yang tak menyenangkan hati karena perbuatan anak cucunya yang tiada berjalan di atas kebenaran.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT YANG KAWI SYARAK YANG LAZIM KAWI  KUAT SAKTI</that>
+  <template>Artinya Adat kebiasaan merupakan undang-undang yang berlaku dalam pergaulan dan hukum-hukum agama merupakan undang-undang negeri yang berjalan seiring.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ADAT YANG MENURUN SYARAK YANG MENDAKI </that>
+  <template>Artinya Adat dapat menuju kerendahan dan tidak sanggup menghadapi pergolakan masa, tetapi syarak menuju ketinggian dan dapat mengatasi segala gerakan yang menentangnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AGAK LEBIH DARIPADA AGIH </that>
+  <template>Artinya Banyak bicara, sedikit kerja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AGAKAGAK BERTUTUR MALAM HARI </that>
+  <template>Artinya Mesti selalu beringat-ingat ketika memperkatakan sesuatu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AGAMA TANPA ILMU LUMPUH</that>
+  <template>Artinya Sesuatu yang saling berkaitan dan tidak dapat berjalan sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AGIHAGIH KUNGKANG  KUKANG  KERA KECIL</that>
+  <template>Artinya Terlampau murah hati atau suka memberi, hingga menderita kesusahan sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AGUNG SUSUT PONGAH MASIH AGUNG  BESAR PONGAH  ANGKUH</that>
+  <template>Artinya Kebesaran sudah hilang, tetapi keangkuhannya masih ada juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR BERIAK TANDA TAK DALAM AIR BERGUNCANG TANDA TAK PENUH</that>
+  <template>Artinya Apa yang kita ucapkan dan lakukan bisa mencerminnkan seberapa pandai dan dewasa kita.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR BERIAK TANDA TAK DALAM </that>
+  <template>Artinya Banyak bercakap tanda tiada berilmu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR BESAR SAMPAN TAK HANYUT </that>
+  <template>Artinya Maksud tidak tercapai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR BESAR BATU BERSIBAK SIBAK  CERAI MENEPI</that>
+  <template>Artinya Saudara dan sahabat berpecah-belah apabila timbul perselisihan besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DALAM KARANG MENONGGOK SETANGGI CAMPUR KEMENYAN  GULA TERTUMPAH PADA KANJIMENONGGOK  MELONGGOK MENIMBUN</that>
+  <template>Artinya Usaha yang berhasil baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DALAM TERENANG TERENANG  TEMPAT AIR DARIPADA TANAH LIAT</that>
+  <template>Artinya Hidup yang tenang dan tenteram.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DALAM BERENANG  BERKUMBAH AIR DANGKAL BERCEBOK KUMBAH  MENCUCI DALAM AIR</that>
+  <template>Artinya Sesuaikanlah perbelanjaan menurut keadaan penghasilan kita.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DI DAUN KELADI  TALAS </that>
+  <template>Artinya Memberi nasihat dan ajaran yang sia-sia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DI TULANG BUMBUNGAN TURUNNYA KE CUCUR ATAP </that>
+  <template>Artinya Sesuatu itu, meskipun sedikit, akan menurut asalnya juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DICENCANG TIADA PUTUS </that>
+  <template>Artinya Dua orang yang bersaudara tidak dapat dipisahkan oleh perselisihan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DIDIH MENGANAK SUNGAI  </that>
+  <template>Artinya Hiburan yang sangat mewah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DIGENGGAM TIADA TIRIS </that>
+  <template>Artinya Sangat berhati-hati mengeluarkan uang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR DIMINUM SEMBILUAN </that>
+  <template>Artinya Sangat sedih, sehingga tidak enak makan dan minum. sembiluan = rasa pedih seperti dihiris dengan sembilu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR GEDANG MENGHANYUTKAN GEDANG  BESAR</that>
+  <template>Artinya Orang yang pendiam itu biasanya berilmu dan dapat melakukan pekerjaan yang besar-besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR JERNIH IKANNYA JINAK </that>
+  <template>Artinya Negeri yang aman dan teratur, rakyatnya berbudi bahasa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR KERUH LIMBAT KELUAR </that>
+  <template>Artinya Negeri yang huru-hara, orang jahat mencari keuntungan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR LALU KUBANGAN TOHOR TOHOR  DANGKAL KERING </that>
+  <template>Artinya Penghasilan tidak cukup; habis bulan habis gaji.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR LAUT HIJAU SIAPA CELUP </that>
+  <template>Artinya Kemegahan dan kemewahan tidak payah diheboh-hebohkan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR MATA JATUH KE DALAM </that>
+  <template>Artinya Berdukacita dengan diam-diam.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR MUDIK SUNGAI  SEMUA TELUK DIRANAI RANAI  JALANI BOLEH JADI RRANAHI</that>
+  <template>Artinya Orang pemboros berbelanja tanpa perhitungan. .</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR ORANG DISAUK RANTING ORANG DIPATAH ADAT ORANG DITURUT </that>
+  <template>Artinya Hendaklah patuh kepada undang-undang negeri yang kita diami.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR PUN ADA PASANG SURUTNYA TAKKAN PASANG SELALU DAN SURUT SENANTIASA </that>
+  <template>Artinya Nasib manusia tidak dapat ditentukan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR SAMA AIR MENJADI SATU SAMPAH KE TEPI JUGA </that>
+  <template>Artinya Jangan ikut campur dalam perselisihan orang bersaudara, apabila mereka berbaik kembali, kita akan tersisih ke tepi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR SETITIK DILAUTKAN TANAH SEKETUL DIGUNUNGKAN </that>
+  <template>Artinya Membesar-besarkan perkara yang kecil.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR SURUT KAPAR HILIR BERSAMA AIR PASANG IA TERSANGKUT </that>
+  <template>Artinya Di dalam usaha yang tidak menguntungkan, diajak bersama-sama, dan apabila usaha itu berhasil, ditinggalkan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR SUSU DIBALAS DENGAN AIR TUBA  </that>
+  <template>Artinya Kebaikan dibalas dengan kejahatan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR TAWAR SECAWAN DITUANGKAN KE DALAM LAUT TAKKAN DAPAT MENGHILANGKAN MASINNYA</that>
+  <template>Artinya Pertolongan yang sedikit tidak dapat meringankan beban kesengsaraan yang besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR TENANG MENGHANYUTKAN </that>
+  <template>Artinya Orang yang pendiam itu biasanya berilmu dan dapat melakukan pekerjaan yang besar-besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR TUBA DIBALAS DENGAN AIR SUSU  </that>
+  <template>Artinya Kejahatan dibalas dengan kebaikan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR YANG JERNIH SAYAK YANG LANDAI SAYAK  TEMPURUNG KELAPA </that>
+  <template>Artinya Segala sesuatu berlaku dengan adil dan benar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR YANG KERUHKERUH KERAK ALAMAT BUAYA DI HULUNYA</that>
+  <template>Artinya Daripada perkataan dapat dimaklumi niat di dalam hati.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AIR YANG TENANG JANGAN DISANGKA TIADA BERBUAYA  </that>
+  <template>Artinya Orang yang diam jangan disangka pengecut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAL AKAR BERPULAS TAK PATAH </that>
+  <template>Artinya Orang yang pandai, takkan mudah kalah dalam perdebatan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAL LABAHLABAH  DI GUA BURUK SUKA MERAKUT MERAKUT  MEMASANG JARING</that>
+  <template>Artinya Orang jahat yang suka menipu orang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAL SEBAGAI MAKAN NASI LECEK </that>
+  <template>Artinya Pikiran seperti anak-anak.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAL SINGKAT PENDAPAT KURANG</that>
+  <template>Artinya Orang yang masih sedikit sekali pengalamannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAL TAK SEKALI DATANG RUNDING  FIKIRAN TAK SEKALI TIBA </that>
+  <template>Artinya Segala sesuatu tidak selesai sekali gus melainkan beransur-ansur.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAN DIJADIKAN TABUH SINGKAT AKAN DIJADIKAN GENDANG  BERLEBIH </that>
+  <template>Artinya Ilmu pengetahuan yang serba tanggung.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAN MEMIKUL TIADA BERBAHU AKAN MENJUNJUNG KEPALA LUNCUNG </that>
+  <template>Artinya Tiada berdaya mengerjakan sesuatu pekerjaan, karena tiada berilmu atau tidak beruang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAN MENGAJI SURAT LAH HILANG AKAN BERTANYA GURU LAH MATI </that>
+  <template>Artinya Dalam keadaan yang serba salah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAN PEMBASUH KAKI  TANGAN </that>
+  <template>Artinya Hadiah kepada orang yang berjasa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKAR TERJUMBAI TEMPAT SIAMANG BERPEGANG  BERGANTUNG DAHAN MENGAJUR TEMPAT TUPAI MENEGUN</that>
+  <template>Artinya Daripada keterangan, orang dapat mengetahui salah atau benarnya perbuatan seseorang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKIK DISANGKA BATU AKIK  SEJENIS BATU BERWARNA</that>
+  <template>Artinya Sesuatu yang menghina.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKU ALAH ENGKAULAH MENANG </that>
+  <template>Artinya Tidak malu mengaku kalah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKU ALAH ENGKAU TAK MENANG </that>
+  <template>Artinya Orang bodoh yang tak mahu mengakui kekalahannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AKU NAMPAK OLAH  OLAK KELIBATMU SUDAH KUTAHU</that>
+  <template>Artinya Karena tingkah laku, maksudnya ketahuan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH BISA OLEH  KARENA TEGAL BIASA </that>
+  <template>Artinya Apabila telah biasa melakukannya, maka tiada terasa lagi kesukarannya; pengalaman praktis lebih baik daripada teori.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH DI RUMPUN BETUNG </that>
+  <template>Artinya Kekalahan yang belum memuaskan hati kepada pihak yang kalah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH LIMAU OLEH BENALU</that>
+  <template>Artinya Orang yang lama dikalahkan oleh orang yang baru.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH MAHU BERTIMBANG ENGGAN CUNGKIL MERIH AKAN PEMBAYAR </that>
+  <template>Artinya Tidak menepati janji dan menentang balik orang yang diberinya janji itu. (merih = pembuluh nafas.)</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH MAIN MENANG SORAK</that>
+  <template>Artinya Orang yang berada dalam keadaan berimbang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH MEMBELI MENANG MEMAKAI </that>
+  <template>Artinya Barang yang baik memang mahal, tetapi dapat lama dipakai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH MENANG TAK TAHU BERSORAK BOLEH </that>
+  <template>Artinya Tidak berpihak ke mana-mana dalam sesuatu perlawanan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH PINTA DIBUAT SEMPENA </that>
+  <template>Artinya Biar bagaimanapun diharapkan, kalau bukan hak tidaklah diperoleh.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALAH SABUNG MENANG SORAK </that>
+  <template>Artinya Biarpun kalah, tetapi masih tetap tinggi juga cakapnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALANG BERJAWAB TEPUK BERBALAS ALANG  PEMBERIAN HADIAH</that>
+  <template>Artinya Baik dibalas dengan baik, jahat dibalas dengan jahat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALANGALANG BERDAKWAT  BIARLAH HITAM ALANGALANG  TANGGUNGTANGGUNG</that>
+  <template>Artinya Berbuat sesuatu jangan kepalang tanggung.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALANGALANG MENYELUK PEKASAM BIAR SAMPAI KE PANGKAL LENGAN </that>
+  <template>Artinya Kalau sudah terlanjur jahat, biarlah diperoleh hasil daripadanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALANGKAN BAIK  ELOK BERBINI TUA PERUT KENYANG PENGAJARAN  PEMANJA DATANG </that>
+  <template>Artinya Orang beristeri tua biasanya beroleh kesenangan karena disayangi oleh isterinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALIM BAGAI KATAK DI TEPI AIR </that>
+  <template>Artinya Orangnya alim (banyak ilmu) tetapi dia sendiri tidak mendapat faedah daripada ilmunya itu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALIM BIASA MENGHUKUM SYARAK  </that>
+  <template>Artinya Hanya orang yang alim saja yang boleh membuat hukum syarak .</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALPA NEGERI ALAH SIASIA HUTANG TUMBUH </that>
+  <template>Artinya Alpa dan lalai mengakibatkan bencana.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALU PATAH LESUNG HILANG</that>
+  <template>Artinya Masalah pertama baru selesai sudah mendapat masalah yang baru lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALU PENCUNGKIL DURI </that>
+  <template>Artinya Tak mungkin dilakukan; pekerjaan yang sia-sia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ALUR BERTEMPUH JALAN BERTURUT </that>
+  <template>Artinya Dilakukan menurut adat yang biasa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AMAK BERLELA AMAK BERUPA </that>
+  <template>Artinya Banyak tabiat, banyak olehnya. (amak = terlalu banyak.)</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AMBIL PATI BUANGKAN AMPAS </that>
+  <template>Artinya Yang baik dipakai, yang tak baik dibuang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AMBIL PISAU BELAHLAH DADA</that>
+  <template>Artinya Ingin menunjukan kebenaran yang ada pada dirinya sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AMPANG SAMPAI KE SEBERANG DINDING SAMPAI KE LANGIT</that>
+  <template>Artinya Melakukan hal yang baik sebaiknya dengan maksimal agar tercapai dengan sukses tujuan tersebut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AMRA DISANGKA KEDONDONG  AMRA  SEJENIS MANGGA</that>
+  <template>Artinya Sesuatu yang baik disangka buruk, hanya karena melihat rupanya sama dengan yang buruk.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK ANJING TAKKAN MENJADI ANAK MUSANG JEBAT </that>
+  <template>Artinya Orang yang tidak berilmu tidaklah mungkin mendapat kedudukan baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK AYAM KEBASAHAN BULU </that>
+  <template>Artinya Gelisah resah; menjijikkan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK BADAK DIHAMBATHAMBAT </that>
+  <template>Artinya Sengaja mencari bahaya (kesukaran dan sebagainya).</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK BAIK MENANTU MOLEK </that>
+  <template>Artinya Sangat berbahagia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK DI RIBA DILETAKKAN KERA DI HUTAN DISUSU I </that>
+  <template>Artinya Urusan sendiri ditinggalkan karena mementingkan urusan orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HALAL ZADAH</that>
+  <template>Artinya Orang yang tidak memiliki status apapun.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HARAM ZADAH</that>
+  <template>Artinya Seorang yang terlahir karena perbuatan yang tidak sah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HARIMAU DIAJAR MAKAN DAGING </that>
+  <template>Artinya Orang yang zalim diberi perangsang untuk membuat aniaya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HARIMAU JANGAN DIAJAK BERTAMPAR INGATINGAT KUKUNYA </that>
+  <template>Artinya Jangan mencari musuh dengan orang yang lebih kuat dan lebih persediaan alat senjatanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HARIMAU JANGAN DIBELA PELIHARA </that>
+  <template>Artinya Jangan berbuat baik dengan orang yang suka berbuat jahat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HARIMAU MENJADI ANAK KAMBING</that>
+  <template>Artinya Orang yang lupa darimana ia berasal dan mulai sombong karena harta duniawi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK HARIMAU TAKKAN MENJADI ANAK KAMBING] </that>
+  <template>Artinya Orang yang berani takkan penakut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK IKAN DIMAKAN IKAN TAHU MAKAN TAHU SIMPAN </that>
+  <template>Artinya Jikalau tahu membuat sesuatu kerja, hendaklah tahu menyimpan Rahasianya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK KAMBING TAKKAN MENJADI ANAK HARIMAU </that>
+  <template>Artinya Orang yang pengecut tetap pengecut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK KANDUNG DITIMANGTIMANG ANAK TIRI DITENGKINGTENGKING </that>
+  <template>Artinya Kaum keluarga sendiri dilebihkan daripada orang asing, atau rakyat sendiri lebih diutamakan daripada orang dagang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK KERA HENDAK DIAJAR MEMANJAT </that>
+  <template>Artinya Hendak mengajar orang yang sudah ahli.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK KUCING MENJADI HARIMAU </that>
+  <template>Artinya Orang miskin menjadi kaya, atau rakyat biasa menjabat pangkat tinggi dalam pemerintahan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK KUDA BULU KASAP </that>
+  <template>Artinya Anak muda yang riang gembira.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK KUNCI JAHAT PETI DERHAKA </that>
+  <template>Artinya Suami yang jahat, lambat-laun akan ditentang oleh isterinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK MATI BERKALANG BAPAK BAPAK MATI BERKALANG ANAK</that>
+  <template>Artinya Orang yang saling topang menopang dalam segala hal.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK MONYET DI HUTAN DISUSU I ANAK SENDIRI DI RUMAH KEKERINGAN </that>
+  <template>Artinya Urusan sendiri ditinggalkan karena mementingkan urusan orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK ORANG ANAK ORANG JUGA BOLEHKAH JADI ANAK SENDIRI</that>
+  <template>Artinya Lebih memiliki kepunyaan sendiri dari pada menginginkan milik orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK ORANG ANAK ORANG JUGA </that>
+  <template>Artinya Kalau bukan hak kita tidaklah ada gunanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK PANAH YANG LEPAS DARI BUSURNYA TAK DAPAT DI KENDALIKAN</that>
+  <template>Artinya Orang yang jauh dari negeri tempat asalnya pasti bertindak semaunya sendiri tanpa mau mendengarkan kontrol dari keluarganya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK RANCAK MENANTU SATING</that>
+  <template>Artinya Meraih kebahagiaan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK SEMATA WAYANG</that>
+  <template>Artinya Satu-satunya harta yang dimiliki.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK SENDIRI DISAYANG ANAK TIRI DIBENGKENG </that>
+  <template>Artinya Kaum keluarga sendiri dilebihkan daripada orang asing, atau rakyat sendiri lebih diutamakan daripada orang dagang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK SENDIRI DISAYANG ANAK TIRI DIHARDIK</that>
+  <template>Artinya Perbuatan yang tidak patut di contoh atau tidak adil.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK SEORANG MENANTU MALIM MALIM  AHLI AGAMA</that>
+  <template>Artinya Sangat berbahagia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK SEORANG PENAKA TIDAK PENAKA  BOLEH DI PANDANG SEBAGAI SEMISAL SEUMPAMA</that>
+  <template>Artinya Mempunyai barang hanya sebuah saja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANAK SUNGAI LAGI BERUBAH INIKAN PULA HATI ORANG </that>
+  <template>Artinya Pendirian yang tidak tetap.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGAN LALU FAHAM TERTUMBUK </that>
+  <template>Artinya Sesuatu hal yang banyak halangannya; kemahuan ada tetapi tidak berdaya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGANANGAN MENERAUANG LANGIT</that>
+  <template>Artinya Selalu mencita-citakan segala sesuatu yang tinggi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGANANGAN MENGIKAT TUBUH</that>
+  <template>Artinya Besusah hati karena memikirkan perkara yang bukan-bukan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGGUK ENGGAN GELENG IA ANGGUK ENGGAN GELENG MAHU UNJUK TRIDAK BERIKAN</that>
+  <template>Artinya Lain di mulut, lain di hati.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGGUKANGGUK BALAM</that>
+  <template>Artinya Mengatakan bisa tetapi belum tahu apa yang harus ia kerjakan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGGUPANGGIP BAGAI RUMPUT DI TENGAH JALAN ANGGUPANGGIP  TERKULAIKULAI</that>
+  <template>Artinya Hidup yang serba susah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGIN BERPUTAR OMBAK BERSABUNG</that>
+  <template>Artinya Perkara yang amat sulit.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGIN BERSIRU KAMI TAHU</that>
+  <template>Artinya Sudah tahu akan niat seseorang. (bersiru = beralih tujuan.)</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGIN BERSIRU OMBAK BERSABUNG</that>
+  <template>Artinya Perkara yang amat sulit.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGIN TAK DAPAT DITANGKAP ASAP TAK DAPAT DIGENGGAM</that>
+  <template>Artinya Berita-berita yang buruk tak dapat disembunyikan, kelak akan tersiar juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGKAT BATANG KELUAR CACING GELANGGELANG</that>
+  <template>Artinya Berpenat-penat mengerjakan pekerjaan orang yang tinggal terbengkalai, tetapi suatu faedah pun tidak diperoleh daripadanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGKUH TERBAWA TAMPAN TERTINGGAL</that>
+  <template>Artinya Baik rupanya, tetapi buruk sikapnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANGUS HANGUS TIADA BERAPI KARAM TIADA BERAIR</that>
+  <template>Artinya Menderita kesusahan karena kematian atau kehilangan kekasih.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING BERCAWAT EKOR</that>
+  <template>Artinya Pergi atau menghindar karena malu dan sebagainya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING BIASA MAKAN TAHI JIKA TAK MAKAN MENCIUM ADA JUGA</that>
+  <template>Artinya Orang yang biasa berbuat jahat, sekali-sekala teringat juga akan mengulangnya lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING DIBERI MAKAN NASI TAKKAN KENYANG</that>
+  <template>Artinya Sia-sia memberi basihat yang baik kepada orang jahat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING DITEPUK MENJUNGKIT EKOR</that>
+  <template>Artinya Orang hina apabila dihormati, sombonglah jadinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING GALAK BABI BERANI</that>
+  <template>Artinya Bertemu lawan yang sepadan; berani sama berani, keras sama keras.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING ITU KALAU DIPUKUL SEKALIPUN BERULANG JUGA IA KE TEMPAT BANGKAI YANG BANYAK TULANG</that>
+  <template>Artinya Orang yang tamak, sekalipun dikata-katai, namun ia tidak akan malu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING ITU MESKIPUN DIRANTAI DENGAN RANTAI EMAS NESCAYA BERULANGULANG JUGA IA KE TEMPAT NAJIS</that>
+  <template>Artinya Orang jahat, biarpun diberi kesenangan, namun kalau mendapat kesempatan akan diulangnya juga perbuatan jahatnya itu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING KEPADA ORANG RAJA KEPADA KITA</that>
+  <template>Artinya Buruk baik anak sendiri juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING MENGGONGGONG KAFILAH TETAP BERLALU</that>
+  <template>Artinya Tidak ada kata menyerah demi mencapai suatu tujuan yang mulia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING MENYALAK BUKIT TAKKAN RUNTUH</that>
+  <template>Artinya Orang baik yang dicela oleh orang jahat, tentu tidak akan binasa kebaikannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING MENYALAK DI EKOR  DIPANJAT GAJAH</that>
+  <template>Artinya Orang lemah (hina) mencuba hendak melawan orang yang berkuasa, tentulah perbuatannya itu sia-sia saja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING MENYALAK TIADA MENGIGIT</that>
+  <template>Artinya Orang yang berhati mulia, walaupun suara keras.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING TERPANGGANG EKOR</that>
+  <template>Artinya Mendapat kesusahan besar sehingga tak tentu tingkah lakunya, meminta pertolongan ke sana ke mari.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJING TIADA BERCAWAT EKOR</that>
+  <template>Artinya Sesuatu yang hina dan tiada berguna.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANJUR SURUT BAK BERTANAM</that>
+  <template>Artinya Tipu muslimat dalam melakukan pekerjaan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANTAH BERKUMPUL SAMA ANTAH BERAS BERSAMA BERAS</that>
+  <template>Artinya Setiap orang selalu mencari orang yang sama derajat (darjat, pangkat ataupun kedudukan) dengannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANTAN PATAH LESUNG HILANG</that>
+  <template>Artinya Kemalangan yang bertimpa-timpa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ANTARA DUA TENGAH TIGA</that>
+  <template>Artinya Sakit hampir mati.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA BOLEH BUAT NASI SEDAP MENJADI TAWAR</that>
+  <template>Artinya Susah hati dapat mengubah perangai seseorang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA BOLEH BUAT SAKIT MENIMPA SESAL TERLAMBAT</that>
+  <template>Artinya Sudah terlanjur, tak dapat diubah lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA DIGADUHKAN PENGAYUH SAMA DI TANGAN PERAHU SAMA DI AIR</that>
+  <template>Artinya Tidak takut menghadapi lawan apabila sama-sama mempunyai kebolehan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA GUNA BUNGA DITANAM JIKA TIDAK DIBERI KUMBANG MENYERINYA</that>
+  <template>Artinya Apa guna anak perempuan, jika tidak diberi bersuami.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA GUNANYA BULAN TERANG DI DALAM HUTAN JIKALAU DI DALAM NEGERI BETAPA BAIKNYA</that>
+  <template>Artinya Tidak berfaedah menunjukkan kepandaian kepada orang-orang yang tidak dapat menghargainya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA KEPADA KUKUR NYIUR JUGA YANG BINASA</that>
+  <template>Artinya Memang mudah menyuruh berbuat begini begitu, tetapi yang sukar ialah yang mengerjakannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA KURANG PADA BELIDA SISIK ADA TULANG PUN ADA</that>
+  <template>Artinya Cukup mempunyai segala yang diperlukan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA PAYAHNYA MENAWAKKAN  MENAUPKAN BIBIR ATAS BAWAH</that>
+  <template>Artinya Mudah menyebut, tetapi susah mengerjakannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA PAYAHNYA MENGGOYANGKAN LIDAH SAJA</that>
+  <template>Artinya Banyak janji tetapi tidak ditepati.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA PEDULI KATA KUKURAN KERAMBI JUGA AKAN HABIS</that>
+  <template>Artinya Lebih mudah berkata daripada melakukannya sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA SAKIT BERBINI JANDA ANAK TIRI BOLEH DISURUH</that>
+  <template>Artinya Alasan yang berlawanan dengan maksud yang sebenarnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA TAMPANGNYA ITULAH TUMBUHNYA</that>
+  <template>Artinya Hasil sesuatu pekerjaan itu menurut ukuran usaha yang kita kerjakan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APA YANG DI TANAM ITULAH YANG TUMBUH</that>
+  <template>Artinya Jika orang berbuat baik kepada orang lain maka ia juga akan mendapat balasan yang baik pula dari orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APABILA ORANG MISKIN MENGHENDAKI UANG DIA MENDAPAT ANAK APABILA ORANG KAYA MENGHENDAKI ANAK DIA MENDAPAT UANG</that>
+  <template>Artinya Hasil yang berlawanan dengan keinginan; lain yang dihajati lain yang diperoleh.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APABILA TUMBUHNYIUR ITU PATAH TUMBUHNYIUR JUGA AKAN GANTINYA</that>
+  <template>Artinya Ganti yang hilang mestilah yang sama pula.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APAKAH GUNANYA KEMENYAN DISIMPAN SEBESAR TUNGKU  KALAU TIDAK DIBAKAR</that>
+  <template>Artinya Kepandaian hendaklah diajarkan kepada orang lain, karena kalau disimpan ia akan hilang begitu saja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APAKAH GUNANYA MEMASANG DIAN DI TENGAH HARI JIKA MALAM ALANGKAH BAIKNYA</that>
+  <template>Artinya Perkara yang sudah diketahui orang tak perlu diterangkan lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APALAGI SAWA  IA BERKEHENDAKKAN AYAMLAH|</that>
+  <template>Artinya Orang yang suka mencari barang-barang yang digemarinya; orang yang bertemu dengan barang kesukaannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APALAH DAYA AJAL TELAH MENJEMPUT</that>
+  <template>Artinya Hal yang tak bisa dipungkiri karena takdir.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API DENGAN AIR ALANGKAH BEZANYA</that>
+  <template>Artinya Jahat dengan baik amat jauh bedanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API ITU TATKALA KECIL MENJADI KAWAN APABILA BESAR MENJADI LAWAN</that>
+  <template>Artinya Kejahatan yang sedikit itu hendaklah lekas diperbaiki supaya jangan sampai melarat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API KECIL BAIK DIPADAM</that>
+  <template>Artinya Basmilah kejahatan itu semasa ia kecil lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API MAKAN SEKAM  DEDAK </that>
+  <template>Artinya Perbuatan jahat atau rindu dendam yang tersembunyi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API NAN TAK KUNJUNG PADAM</that>
+  <template>Artinya Semangat yang hidup selama-lamanya. kunjung = segera, lekas.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API PADAM PUNTUNG BERASAP PUNTUNG  SISAA KAYU API YAG DIBAKAR</that>
+  <template>Artinya Perkara yang telah putus, tetapi ditimbulkan kembali.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>API PADAM PUNTUNG HANYUT KAMI TIDAK DI SITU LAGI</that>
+  <template>Artinya Cerita yang sudah tamat; benar-benar sudah selesai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>APUNG DI TENGAH LAUTAN DIPUKUL OMBAK SEKEJAP KE TENGAH SEKEJAP KE TEPI</that>
+  <template>Artinya Orang dagang yang melarat hidupnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ARA TAK BERGETAH</that>
+  <template>Artinya Suatu perkara yang mustahil.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ARAH BERTUKAR JALAN</that>
+  <template>Artinya Banyak cara untuk mewujudkan mimpi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ARANG DI DAHI  DI KENING DI MUKA</that>
+  <template>Artinya Mendapat malu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ARANG HABIS BESI BINASA</that>
+  <template>Artinya Pekerjaan yang sia-sia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ARANG HABIS PANGGANG TAK MASAK</that>
+  <template>Artinya Orang yang merintis usaha tapi gagal, karena pengeluaran lebih banyak daripada keuntungannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ARANG ITU JIKA DIBASUH DENGAN AIR MAWAR SEKALIPUN TIADA AKAN PUTIH</that>
+  <template>Artinya Orang jahat, biarpun diberi kesenangan, namun kalau mendapat kesempatan akan diulangnya juga perbuatan jahatnya itu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAK KATA KITA ANGSUR KATA DIA</that>
+  <template>Artinya Perbedaan antara orang satu dengan orang yang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL ADA KECIL PUN PADA</that>
+  <template>Artinya Kalau tak ada banyak, sedikit pun cukup juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL AYAM HENDAK KE LESUNG  ASAL ITIK HENDAK KE PELIMBAHAN</that>
+  <template>Artinya Tabiat orang tak mungkin berubah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL BERINSANG IKANLAH</that>
+  <template>Artinya Tidak memilih (pekerjaan, makanan, perempuan dan sebagainya).</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL BERISI TEMBOLOK SENANG HATI</that>
+  <template>Artinya Sudah cukup makan dan pakai maka senanglah hati.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL BERSUBANG EMAS BIARLAH TELINGA ROMPONG</that>
+  <template>Artinya Orang yang melakukan hal yang merugikan dirinya sendiri dengan tujuan mendapat pujian dari orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL BESI PENGAPAK KAYU ASAL EMAS MENJADI PENDUK</that>
+  <template>Artinya Derajat seseorang dapat ditentukan pada sifat perangainya. penduk = salut sarung keris.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL DITUGAL ADALAH BENIH TUGAL  MELUBAGI TANAH KEBUN DENGAN KAYU AKAN TEMPAT MENANAM BENIH</that>
+  <template>Artinya Sesuatu usaha tentu ada hasilnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL KUDA DARI KUDA ASAL KELEDAI DARI KELEDAI</that>
+  <template>Artinya Semua sifat anak berasal dari kedua oragtuanya, baik ataupun buruk sifat tersebut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL SABUT TERAPUNG ASAL BESI TENGGELAM</that>
+  <template>Artinya Untung-untungan; kalau bernasib baik tentu selamat, kalau bernasib malang tentu jatuh.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAL SELAMAT KE SEBERANG BIAR BERGANTUNG DI EKOR BUAYA </that>
+  <template>Artinya Sangat perlu akan pertolongan, betapa pun jua pertolongan itu akan diterimanya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASALUSUL ASAL JANGAN DITINGGALLKAN</that>
+  <template>Artinya Melihat suatu bencan alam dan menelusuri penyebab terjadinya bencana tersebut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAM DI DARAT IKAN DI LAUT BERTEMU DALAM BELANGA JUGA</that>
+  <template>Artinya Perempuan dan lelaki, kalau sudah jodoh, bertemu juga akhirnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASAM DIGUNUNG GARAM DI LAUT DALAM BELANGA BERTEMU JUA</that>
+  <template>Artinya Orang yang merantau sejauh apapun akan kembali juga ke tempat asalnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASING LUBUK ASING IKANNYA</that>
+  <template>Artinya Tempat satu dengan yang lain berbeda hukumnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASING LUBUK ASING IKANYA ASING PANDANG ASING BELAKANGNYA</that>
+  <template>Artinya Perataturan di masing-masing daerah berbeda tetapi tetap satu tujuan demi keamanan daerah tersebut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASING MAKSUD ASING SAMPAI</that>
+  <template>Artinya Orang yang berlabuh di tempat yang bukan tujuannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASING PADANG ASING BELALANG ASING LUBUK ASING IKANYA</that>
+  <template>Artinya Perbedaan adat di masing-masing daerah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASING UANG ASING NIKMAT</that>
+  <template>Artinya Menerima rezeki yang tidak dikendakinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASING UDANG LAIN NIKMAT</that>
+  <template>Artinya Ada banyak cara untuk menyelesaikan suatu masalah yang setiap orang berbeda cara penyelesaiannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ASYIK MEMANGKU TANGAN MATI DALAM ANGANANGAN</that>
+  <template>Artinya Tak akan tercapai maksudnya, kalau tak mahu berusaha.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ATAP IJUK BERABUNG UPUH TIMAH</that>
+  <template>Artinya Perbedaan dua hal yang sangat mencolok.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ATAP IJUK KERABUNG UPIH</that>
+  <template>Artinya Sesuatu yang baik apabila dicampur dengan sesuatu yang buruk akan tercemar kebaikan tersebut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ATAP RUMBIA PERABUNG UPIH RUMAH BESAR BERDINDING PAPAN</that>
+  <template>Artinya Barang yang baik dicampurkan dengan barang yang buruk.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AUR DITANAM BETUNG TUMBUH</that>
+  <template>Artinya Mendapat laba banyak dengan modal yang sedikit.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AUS TELUNJUK MENCOLEK GARAM </that>
+  <template>Artinya Hidup dalam kemiskinan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK ALAH GELANGGANG USAI USAI  LENGANG</that>
+  <template>Artinya Ditimpa kemalangan yang tak dapat diatasi lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK HENDAK HILIR IA TELAH HANYUT</that>
+  <template>Artinya Cita-cita yang telah didahului oleh orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK KECIL MAKAN HENDAK BANYAK SAYAP SINGKAT TERBANG HENDAK TINGGI</that>
+  <template>Artinya Mengangan-angankan sesuatu yang tidak sepadan dengan kesanggupan diri sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK KURUS DAGING MENIMBUN</that>
+  <template>Artinya Orang kaya yang berpura-pura miskin.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK MENANGIS DIBERI PISANG</that>
+  <template>Artinya Bujukan (pujukan) yang tepat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK RENDAH SANGKUTAN TINGGI</that>
+  <template>Artinya Besar belanja daripada pendapatan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK TIKUS HENDAK MENAMPAR KEPALA KUCING </that>
+  <template>Artinya Melakukan sesuatu yang mustahil.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK YANG CELAKA ORANG YANG DIUMPAT</that>
+  <template>Artinya Dirinya sendiri yang bersalah (karena kemalangan, kecelakaan, kekalahan dan sebagainya), orang lain pula yang disesalkan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAK YANG PAYAH MEMBELAH RUYUNG ORANG LAIN YANG BEROLEH SAGUNYA RUYUNG  BATANG POHON ENAU</that>
+  <template>Artinya Orang lain yang bersusah payah, orang lain pula yang mendapat faedahnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAL DIBUAT AKHIR DIINGAT</that>
+  <template>Artinya Sebelum membuat sesuatu pekerjaan hendaklah difikirkan masak-masak supaya selamat pekerjaan itu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAL DIINGAT DI AKHIR TIDAK</that>
+  <template>Artinya Orang yang tidak memperhitungkan resiko di kemudian hari.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAL DIKENAL AKHIR TIDAK ALAMAT BADAN AKAN ROSAK</that>
+  <template>Artinya Orang yang tak berhati-hati lakukan pekerjaannya (yang baiknya saja yang diingat) tentulah akhirnya akan menyesal dan kecewa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAN BERARAK DITANGISI</that>
+  <template>Artinya Merenungi kejadian yang telah lama berlalu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AWAN MENGANDUNG HUJAN</that>
+  <template>Artinya Memprediksi hal yang belum pasti akan terjadi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BARU BELAJAR BERKOKOK</that>
+  <template>Artinya Baru cukup umur.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BERINDUK SIRIH BERJUNJUNG</that>
+  <template>Artinya Tiap-tiap yang lemah harus mendapat bantuan dan perlindungan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BERKOKO HARI SIANG</that>
+  <template>Artinya Mendapatkan sesuatu yang telah lama diidam-idamkan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BERLAGA SEKANDANG</that>
+  <template>Artinya Berkelahi dengan orang serumah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BEROGA ITU KALAU DIBERI MAKAN DI PINGGAN EMAS SEKALIPUN KE HUTAN JUGA PERGINYA AYAM BEROGA  AYAM HUTAN</that>
+  <template>Artinya Bagaimana senangnya di negeri asing, ingat juga kita akan negeri sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BERTELUR DI ATAS PADI MATI KELAPARAN</that>
+  <template>Artinya Sangat menderita kesusahan meskipun bergaji besar (beristerikan atau bersuamikan orang kaya) atau hidup miskin di negara yang kaya dan makmur.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM BERTELUR DI ATAS PADI</that>
+  <template>Artinya Hidup senang dan mewah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM DAPAT MUSANG DAPAT</that>
+  <template>Artinya Pencuri tertangkap, barang-barangnya pun tidak hilang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM DITAMBAT DISAMBAR ELANG PADI DI TANGAN TUMBUH LALANG</that>
+  <template>Artinya Malang sekali; nasib yang buruk.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM HITAM TERBANG MALAM BERTALI IJUK BERTAMBANG TANDUK HINGGAP DI KEBUN RIMBUN</that>
+  <template>Artinya Kejahatan (perkara dan sebagainya) yang dilakukan di dalam sulit, sukar diketahui.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM HITAM TERBANG MALAM SIAPA TAHU BERDEBUS BUNTINYA</that>
+  <template>Artinya Menebak hal yang sulit untuk di peroleh.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM ITIK RAJA PADA TEMPATNYA</that>
+  <template>Artinya Tiap-tiap orang ahli dalam urusannya masing-masing.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM MENANG KAMPUH  KAMPUNG TERGADAI</that>
+  <template>Artinya Keberuntungan yang tidak ada faedahnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM PULANG KE PAUTAN</that>
+  <template>Artinya Sudah pada tempatnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM PUTIH TERBANG SIANG HINGGAP DI HALAMAN TERANG KEPADA MATA ORANG BANYAK</that>
+  <template>Artinya Perkara yang nyata mudah ketahuan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM SEEKOR BERTAMBANG DUA</that>
+  <template>Artinya Gadis seorang, dua bujang yang ingin.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM SUDAH PATAH KALAUKALAU DAPAT MENIKAM</that>
+  <template>Artinya Orang yang telah jatuh melarat itu mungkin akan berubah nasibnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM TAK PATUK ITIK TAK SUDU</that>
+  <template>Artinya Keadaan orang yang hina dalam masyarakat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM TAMBAT DISAMBAR ELANG PADI DITANAM TUMBUH ILALANG</that>
+  <template>Artinya Orang yang tertimpa masalah di mana pun ia berada.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM TERLEPAS TANGAN BAU TAHI</that>
+  <template>Artinya Kejahatan yang tidak mendatangkan hasil, melainkan malu semata-mata.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>AYAM TIDUR SENANG DI DALAM REBAN MUSANG YANG SUSAH BEREDAR SEKELILING</that>
+  <template>Artinya Tidak senang melihat kebahagiaan orang.</template>
+</category>
+
+
+</aiml>

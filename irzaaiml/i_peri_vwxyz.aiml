@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+
+<category>
+  <pattern>*</pattern>
+  <that>WAKTU ADALAH UANG</that>
+  <template>Artinya Orang yang sangat menghargai waktu</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WAKTU GARUDA DIKALAHKAN ULAR</that>
+  <template>Artinya Perihal zaman antah-berantah dalam dongeng.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAU BAGAIMANA MINYAK DICAMPUR DENGAN AIR MINYAK JUGA YANG TIMBUL</that>
+  <template>Artinya Golongan bangsawan tetap diberi layanan istimewa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAU DISEPUH EMAS LANCUNG KILAT TEMBAGA TAMPAK JUGA</that>
+  <template>Artinya Bagaimana sekalipun diajar orang, yang biadab kelihatan juga perangainya yang kurang baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAU IKAN DIAM DI DALAM TUJUH LAUTAN SEKALIPUN TERMASUK KE DALAM PUKAT JUGA</that>
+  <template>Artinya Sepandai-pandai orang, ada kalanya salah juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAU IKAN YANG DIAM DI DALAM TUJUH LAUTAN JUGA TERMASUK DALAM PUKAT JUGA</that>
+  <template>Artinya Orang yang pandai pun ada masanya akan terkena.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAU SERIBU ANJING MENYALAK GUNUNG TAKKAN RUNTUH</that>
+  <template>Artinya Orang yang mempunyai prinsip teguh takkan tergoyahkan, walaupun banyak godaan yang menghampirinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAU SUNGAI MENGALIR KE LAUT LAUT TIADA AKAN BERTAMBAH</that>
+  <template>Artinya Pemberian orang miskin kepada orang kaya tak kan dapat memberi perubahan bagi mereka.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAUPUN ADA UMPAN BELUM TENTU ADA IKAN</that>
+  <template>Artinya Sesuatu pekerjaan itu walaupun telah ada persediaan yang cukup tetapi belum tentu akan berhasil dengan baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAUPUN DISEPUH EMAS LANNCUNG KILAT TEMBAGA TAMPAK</that>
+  <template>Artinya Sangat sulit mengubah karakter seseorang yang mempunyai sifat buruk.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WALAUPUN SETANDAN BAGI KEPALA NAMUN UNTUNG BERKELAINAN</that>
+  <template>Artinya Rezeki setiap orang berbeda-beda.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WARTA DIBAWA PIKAT DAN LANGAU</that>
+  <template>Artinya Kabar angin.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WAU MELAWAN ANGIN</that>
+  <template>Artinya Perbuatan yang sia-sia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WAYANG KEPADAMAN DAMAR</that>
+  <template>Artinya Keadaan kacau yang terjadi dengan tiba-tiba.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YA SEPANJANG HARI JANJI SEPANJANG JALAN</that>
+  <template>Artinya Mudah berjanji, tetapi sukar menepatinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YAG BULAT DATANG BERGULING YANG PICAK DATANG MELAYANG</that>
+  <template>Artinya Jika nasib baik bermacam-macam keuntungan datang sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BENAR BAWA LALU YANG SALAH BAWA SURUT</that>
+  <template>Artinya Petiklah pesan berharga di dalam setiap peristiwa hidup dan buanglah hal-hal yang kurang baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BERBARIS YANG BERPAHAT YANG BERTAKUK YANG BERTEBANG</that>
+  <template>Artinya Pekerjaan yang dilakukan menurut aturannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BERHUTANG TERJERAT DI KAKI YANG MENJAMIN TERJERAT DI LEHER</that>
+  <template>Artinya Orang yang menjamin orang yang berhutang acap kali terpaksa membayar hutang tersebut karena yang dijamin tidak dapat membayarnya ataupun melarikan diri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BERPAYUNG YANG DITEMBAK DITEMBAK  DITUJU</that>
+  <template>Artinya Orang yang berkuasalah tempat orang mengharapkan pertolongan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BERTAKUK YANG DITEBANG YANG BERGARIS YANG DIPAHAT</that>
+  <template>Artinya Pekerjaan yang dilakukan menurut aturannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BINGUNG MAKANAN YANG CERDIK YANG TIDUR MAKANAN YANG JAGA</that>
+  <template>Artinya Orang yang bodoh itu menjadi mangsa penipuan orang yang cerdik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BISU PENGEJUT AYAM</that>
+  <template>Artinya Orang yang berperangai buruk bukan tak berguna, pada kesempatan lain dibutuhkan juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BULAT DATANG BERGOLEK YANG PIPIH DATANG MELAYANG</that>
+  <template>Artinya Orang yang bertuah mendapat keuntungan dari mana-mana saja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BUNGKUK BONGKOK JUGA DIMAKAN SARUNG</that>
+  <template>Artinya Yang bersalah juga yang akan menanggung dosanya (menerima hukumannya).</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG BUNTAL KUTIL MENGUTIL YANG JERUNG LULUH MELULUH</that>
+  <template>Artinya Yang miskin hidup berpekin, yang kaya boros berbelanja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DIJOLOK TIADA JATUH PENJOLOK TINGGAL DI ATAS</that>
+  <template>Artinya Yang dikehendaki tiada tercapai sedang alat (syarat) yang digunakan untuk mencapai maksudnya itu pun hilang juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DIKEJAR TIADA DATANG YANG DIKANDUNG BERCECERAN</that>
+  <template>Artinya Kekayaan yang sudah ada habis untuk mencari tambah rezeki, sedang untung yang diharapkan tiada juga tiba.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DIKEJAR TIDAK DAPAT YANG DIKENDONG BERCICIRAN</that>
+  <template>Artinya Keuntungan yang diharapkan tak didapati, sedangkan yang telah ada hilang pula.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DIMAKAN RASA YANG DILIHAT RUPA YANG DIDENGAR BUNYI</that>
+  <template>Artinya Tiap-tiap suatu pekerjaan itu hendaklah dengan sempurna baik pada rupa, pendengaran dan perasaan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DISANGKA TIDAK MENJADI YANG DIAM BOLEH KE DIA</that>
+  <template>Artinya Orang lain yang berikhtiar, orang lain pula yang memungut hasilnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DISURUH TENGGELAM YANG MENYURUH PUN TENGGELAM</that>
+  <template>Artinya Orang malas disuruh mengawasi orang yang lebih malas, akhirnya sia-sia belaka.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG DULU MENDAPAT YANG KEMUDIAN KETINGGALAN</that>
+  <template>Artinya Orang yang rajinlah yang selalu beruntung daripada orang yang malas.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG ELOK BUDI YANG INDAH BAHASA</that>
+  <template>Artinya Keramahan dan budi baik dapat membuat orang merasa segan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG ELOK RUPA YANG ELOK BAHASA</that>
+  <template>Artinya Orang yang cantik wajahnya baik hatinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG ENGGANG SAMA ENGGANG JUGA YANG PIPIT SAMA PIPIT JUGA</that>
+  <template>Artinya Setiap orang selalu mencari orang yang sama derajat (darjat, pangkat ataupun kedudukan) dengannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG HAMPA BIAR TERBANG YANG BERNAS BIAR TINGGAL</that>
+  <template>Artinya Yang tak berguna biarlah hilang, dan yang baik-baik biarlah tinggal.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG HIDUP SESARKAN MATI</that>
+  <template>Artinya Tiap-tiap suatu itu ada batasnya dan ada pula penggantinya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG JAUH BERPANGGILAN YANG DEKAT BERIMBAUAN</that>
+  <template>Artinya Bila hendak mengadakan pesta, tetangga dekat diundang dengan panggilan saja, tetapi kerabat jauh dikirimkan surat undangan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG LAHIR MEMPERLIHATKAN YANG BATIN</that>
+  <template>Artinya Perbuatan atau kelakuan menunjukkan sifat atau perasaan yang tersembunyi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG LUMPUH PENGEJUT AYAM</that>
+  <template>Artinya Orang hodoh suatu saat akan dimaafkan oleh masyarakat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG MEMBERI TANGAN DI ATAS YANG MENERIMA  MEMINTA TANGAN DI BAWAH</that>
+  <template>Artinya Biasanya orang yang memberilah yang tinggi cakapnya daripada orang yang menerima.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG MENANTI PADANG TAK BERUMPUT YANG MENDATANG KURUS KEDUTKEDUT</that>
+  <template>Artinya Orang yang lapar meminta pertolongan kepada orang yang melarat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG MENCENCANG MEMAMPAS</that>
+  <template>Artinya Yang berbuat salah harus menerima hukuman.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG MERAH SAGA YANG KURIK KUNDI</that>
+  <template>Artinya Seseorang yang tidak pernah dihormati orang lain karena memiliki tabiat jelek; meskipun mempunyai wajah yang cantik atau tampan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG MERAH SAGA YANG KURIK KUNDI YANG INDAH BAHASA YANG BAIK BUDI</that>
+  <template>Artinya Biarpun rupa elok dan kacak, tetapi kalau budi bahasa buruk, maka akan hina juga pada pandangan masyarakat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG OMBAK ITU OMBAK JUGA YANG AIR ITU AIR JUGA</that>
+  <template>Artinya Orang kaya itu kaya juga dengan kikir dan tamaknya; orang miskin itu miskin juga dengan melarat dan sebagainya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG PBERPURU SALALU HENDAK MENGGARRUK</that>
+  <template>Artinya Orang yang melakukan kesalahan pasti suatu saat akan terbongkar juga kesalahan tersebut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG PIPIT SAMA PIPIT YANG ENGGANG SAMA ENGGANG</that>
+  <template>Artinya Setiap orang selalu mencari orang yang sama derajat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG REBAH DITINDIH</that>
+  <template>Artinya Yang sudah miskin bertambah miskin</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG RENDAH TERPENDEK SANGAT YANG TINGGI TERUNJUR SANGAT</that>
+  <template>Artinya Tidak pernah merasa puas dengan sesuatu perolehan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG SECUPAK TAK AKAN MENJADI SEGANTANG</that>
+  <template>Artinya Sesuatu yang sudah pasti; sesuatu yang sudah pasti dan tidak akan diubah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG SECUPAK TAKKAN JADI SESUKAT YANG SEJENGKAL TAKKAN JADI SEHASTA</that>
+  <template>Artinya Sesuatu yang sudah pasti.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG SEHASTA TAKKAN JADI SEDEPA</that>
+  <template>Artinya Sesuatu yang tidak dapat diubah lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG SEJENGKAL TIDAK DAPAT JADI SEDEPA</that>
+  <template>Artinya Sesuatu yang tidak dapat diubah lagi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG SEORANG MEMERAM BATU YANG SEORANG MEMERAM PISANG</that>
+  <template>Artinya Perbedaan pendirian; seorang boleh menanti seorang lagi tidak</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG SESUKAT TAKKAN JADI SEGANTANG</that>
+  <template>Artinya Tidak ada yang dapat mengubah takdir.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TAJAM TUMPUL YANG BISA TAWAR</that>
+  <template>Artinya Dengan perkataan yang lemah lembut dapat diselesaikan segala sengketa.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TAK DIARAH DAPAT YANG DIARAH TAK KENA</that>
+  <template>Artinya Keberuntungan manusia itu takdir, meski bagaimanapun orang memburu rezeki, jika belum diberikan oleh Tuhan maka tak akan tercapai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TEGAK DISOKONG YANG LEMAH DITOPANG</that>
+  <template>Artinya Orang kaya dimuliakan dihormati, sedangkan orang miskin dibantu dan ditolong.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TEGUH DISOKONG YANG REBAH  RENDAH DITINDIH</that>
+  <template>Artinya Orang yang sudah kuat (kaya, baik dan sebagainya) dibantu, sedangkan orang yang lemah (miskin dan sebagainya) diperas.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TERBUJUR LALU YANG TERLINTANG PATAH</that>
+  <template>Artinya Sesuatu yang tak dapat dihalang-halangi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TERKALANGKALANG DI MATA YANG TERASARASA DI HATI</that>
+  <template>Artinya Keinginan hendaknya dapat diwujudkan, agar tercapai semua harapan dan hidup bahagia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TINGGI TAMPAK JAUH YANG DEKAT JOLONG BERSUA</that>
+  <template>Artinya Dalam sesuatu usaha pemimpinlah yang bertanggungjawab dan dialah pula yang akan dipuji atau dicela.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TUA DIMULIAKAN YANG KECIL DIKASIHI</that>
+  <template>Artinya Orang yang pandai menempatkan diri di segala tempat dan situasi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG UNTUT LAIN YANG MENGENSOT LAIN</that>
+  <template>Artinya Yang salah lain, yang kena hukum lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>YANG TERPELANTING AKAN DIPILIH YANG TERSERAT TIDAK DI KAMPUNGKAN LAGI</that>
+  <template>Artinya Hendaknya hidup itu dijalani dengan sederhana dan tidak dengan berfoya-foya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ZAMAN BERALIH MUSIM BERTUKAR</that>
+  <template>Artinya Segala sesuatu (peraturan, hukuman dan sebagainya) hendaklah disesuaikan dengan keadaan zaman.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ZAMAN BEREDAR MUSIM BERGANTI</that>
+  <template>Artinya Musim yang tidak dapat dipastikan lagi kapan waktunya akan berganti.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ZAMAN TUK NADUR BERKAJANG KAIN</that>
+  <template>Artinya Zaman yang telah lalu; sudah lama sekali.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>ZIKIRZIKIR SAJA JATUHKAH REZEKI JATUH DARI LANGIT</that>
+  <template>Artinya Rezeki tidak datang dengan hanya berdoa.</template>
+</category>
+
+
+</aiml>

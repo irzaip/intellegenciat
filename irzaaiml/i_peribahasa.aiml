@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+
+<category>
+<pattern>PERIBAHASA</pattern>
+<template>
+  <random>
+<li>Ada air, adalah ikan.</li>
+<li>Ada aku dipandang hadap, tiada aku dipandang belakang.</li>
+<li>Ada angin, ada pokoknya (= pohonnya).</li>
+<li>Ada asap ada api</li>
+<li>Ada bangkai, adalah hering.</li>
+<li>Ada batang mati, adalah cendawan tumbuh.</li>
+<li>Ada batang, cendawan tumbuh.</li>
+<li>Ada beras, taruh dalam padi.</li>
+<li>Ada biduk, serempu pula.</li>
+<li>Ada bukit, ada paya.</li>
+<li>Ada bunga, ada lebah</li>
+<li>Ada gula, ada semut.</li>
+<li>Ada hari, ada nasi.</li>
+<li>Ada hujan ada panas, ada hari boleh balas.</li>
+<li>Ada jarum hendaklah ada benangnya.</li>
+<li>Ada kerak, ada nasi.</li>
+<li>Ada laut, ada perampok.</li>
+<li>Ada nasi di balik kerak.</li>
+<li>Ada nyawa ada rezeki.</li>
+<li>Ada padang, ada belalang</li>
+<li>Ada padi masak, adalah pipit.</li>
+<li>Ada padi semua kerja jadi, ada beras semua kerja deras.</li>
+<li>Ada padi, segala menjadi.</li>
+<li>Ada paha ada kaki, ada nyawa ada rezeki.</li>
+<li>Ada pasang surutnya.</li>
+<li>Ada persembahan ada kurnia.</li>
+<li>Ada rotan , ada duri.</li>
+<li>Ada rupa, ada harga.</li>
+<li>Ada sama dimakan, tak ada sama ditahan.</li>
+<li>Ada sampan hendak berenang.</li>
+<li>Ada seperti tampaknya apung-apung.</li>
+<li>Ada sirih hendak makan sepah.</li>
+<li>Ada tangga hendak memanjat tiang.</li>
+<li>Ada uang abang disayang, tak ada uang abang ditendang.</li>
+<li>Ada uang abang disayang, tak ada uang abang payah.</li>
+<li>Ada ubi ada batas, ada masa boleh balas.</li>
+<li>Ada ubi ada talas, ada budi ada balas.</li>
+<li>Ada udang di balik batu</li>
+<li>Adakah buaya menolak bangkai</li>
+<li>Adakah dari telagabyang jernih itu mengalir air yang keruh.</li>
+<li>Adakah kayu di rimba sama tinggi</li>
+<li>Adakah pernah telaga yang keruh mengalir airnya yang jernih.</li>
+<li>Adat ayam ke lesung, adat itik ke pelimbahan</li>
+<li>Adat bersendi syarak, syarak bersendi kitabullah.</li>
+<li>Adat diisi jannji dilabuh</li>
+<li>Adat diisi, lembaga dituang.</li>
+<li>Adat dipakai baru, pusaka dipakai usang.</li>
+<li>Adat gunung tempatan kabut.</li>
+<li>Adat hidup sandar-menyandar</li>
+<li>Adat hidup tolong menolong, syariat palu-memalu.</li>
+<li>Adat juara kalah menang, adatnya saudagar laba rugi.</li>
+<li>Adat lama pusaka usang.</li>
+<li>Adat lurah timbunan sarap.</li>
+<li>Adat muda menanggung rindu, adat tua menahan ragam.</li>
+<li>Adat muda menggangu rasa, adat tua menggangu ragam.</li>
+<li>Adat penghulu, berpandang luas beralam lapang.</li>
+<li>Adat periuk berkerak, adat lesung berdedak . .</li>
+<li>Adat pulau limburan pasang. .</li>
+<li>Adat rimba raya, siapa berani ditaati.</li>
+<li>Adat sepanjang jalan, cupak sepanjang betung .</li>
+<li>Adat teluk timbunan kapal (= kapar). (kapar = kayuan yang hanyutt di sungai dan sebagainya).</li>
+<li>Adat teluk timbunan kapal, adat muara puputan ikan.</li>
+<li>Adat tua menahan ragam. .</li>
+<li>Adat yang kawi, syarak yang lazim. (kawi = kuat, sakti)</li>
+<li>Adat yang menurun, syarak yang mendaki. .</li>
+<li>Agak lebih daripada agih. .</li>
+<li>Agak-agak bertutur malam hari. .</li>
+<li>Agama tanpa ilmu, lumpuh.</li>
+<li>Agih-agih kungkang . (kukang = kera kecil).</li>
+<li>Agung susut, pongah masih. (agung = besar, pongah = angkuh).</li>
+<li>Air beriak tanda tak dalam, air berguncang tanda tak penuh.</li>
+<li>Air beriak tanda tak dalam. .</li>
+<li>Air besar sampan tak hanyut. .</li>
+<li>Air besar, batu bersibak. (sibak = cerai, menepi).</li>
+<li>Air dalam karang menonggok, setanggi campur kemenyan , gula tertumpah pada kanji.(menonggok = melonggok, menimbun).</li>
+<li>Air dalam terenang. (terenang = tempat air daripada tanah liat.)</li>
+<li>Air dalam, berenang (= berkumbah); air dangkal, bercebok. (kumbah = mencuci dalam air).</li>
+<li>Air di daun keladi (= talas). .</li>
+<li>Air di tulang bumbungan, turunnya ke cucur atap. .</li>
+<li>Air dicencang tiada putus. .</li>
+<li>Air didih menganak sungai . .</li>
+<li>Air digenggam tiada tiris. .</li>
+<li>Air diminum sembiluan. .</li>
+<li>Air gedang menghanyutkan. (gedang = besar)</li>
+<li>Air jernih, ikannya jinak. .</li>
+<li>Air keruh, limbat keluar. .</li>
+<li>Air lalu kubangan tohor. (tohor = dangkal, kering.) .</li>
+<li>Air laut hijau siapa celup? .</li>
+<li>Air mata jatuh ke dalam. .</li>
+<li>Air mudik sungai , semua teluk diranai. (ranai = jalani (boleh jadi rranahi)).</li>
+<li>Air orang disauk, ranting orang dipatah, adat orang diturut. .</li>
+<li>Air pun ada pasang surutnya, takkan pasang selalu dan surut senantiasa. .</li>
+<li>Air sama air menjadi satu, sampah ke tepi juga. .</li>
+<li>Air setitik dilautkan, tanah seketul digunungkan. .</li>
+<li>Air surut kapar hilir bersama, air pasang ia tersangkut. .</li>
+<li>Air susu dibalas dengan air tuba . .</li>
+<li>Air tawar secawan dituangkan ke dalam laut, takkan dapat menghilangkan masinnya..</li>
+<li>Air tenang menghanyutkan. .</li>
+<li>Air tuba dibalas dengan air susu . .</li>
+<li>Air yang jernih, sayak yang landai. (sayak = tempurung kelapa .)</li>
+ <li>Air yang keruh-keruh kerak, alamat buaya di hulunya.</li>
+<li>Air yang tenang, jangan disangka tiada berbuaya . .</li>
+<li>Akal akar berpulas tak patah. .</li>
+<li>Akal labah-labah ; di gua buruk suka merakut. (merakut = memasang jaring).</li>
+<li>Akal sebagai makan nasi lecek. .</li>
+<li>Akal singkat, pendapat kurang.</li>
+<li>Akal tak sekali datang, runding (= fikiran) tak sekali tiba. .</li>
+<li>Akan dijadikan tabuh, singkat; akan dijadikan gendang , berlebih. .</li>
+<li>Akan memikul tiada berbahu, akan menjunjung kepala luncung. .</li>
+<li>Akan mengaji, surat 'lah hilang; akan bertanya, guru 'lah mati. .</li>
+<li>Akan pembasuh kaki (= tangan). .</li>
+<li>Akar terjumbai tempat siamang berpegang (= bergantung), dahan mengajur tempat tupai menegun.</li>
+<li>Akik disangka batu. (Akik = sejenis batu berwarna).</li>
+<li>Aku alah engkaulah menang. .</li>
+<li>Aku alah, engkau tak menang. .</li>
+<li>Aku nampak olah (= olak), kelibatmu sudah kutahu.</li>
+<li>Alah bisa, oleh (= karena, tegal) biasa. .</li>
+<li>Alah di rumpun betung .</li>
+<li>Alah limau oleh benalu.</li>
+<li>Alah mahu, bertimbang enggan; cungkil merih akan pembayar. .</li>
+<li>Alah main menang sorak.</li>
+<li>Alah membeli, menang memakai. .</li>
+<li>Alah menang tak tahu, bersorak boleh. .</li>
+<li>Alah pinta dibuat sempena. .</li>
+<li>Alah sabung, menang sorak. .</li>
+<li>Alang berjawab, tepuk berbalas. (alang = pemberian, hadiah).</li>
+<li>Alang-alang berdakwat , biarlah hitam. (alang-alang = tanggung-tanggung).</li>
+<li>Alang-alang menyeluk pekasam, biar sampai ke pangkal lengan. .</li>
+<li>Alangkan baik (= elok) berbini tua, perut kenyang pengajaran (= pemanja) datang. .</li>
+<li>Alim bagai katak di tepi air. .</li>
+<li>Alim biasa menghukum syarak . .</li>
+<li>Alpa negeri alah, sia-sia hutang tumbuh. .</li>
+<li>Alu patah lesung hilang.</li>
+<li>Alu pencungkil duri. .</li>
+<li>Alur bertempuh, jalan berturut. .</li>
+<li>Amak berlela, amak berupa. .</li>
+<li>Ambil pati, buangkan ampas. .</li>
+<li>Ambil pisau, belahlah dada.</li>
+<li>Ampang sampai ke seberang, dinding sampai ke langit.</li>
+<li>Amra disangka kedondong . (amra = sejenis mangga).</li>
+<li>Anak anjing takkan menjadi anak musang jebat. .</li>
+<li>Anak ayam kebasahan bulu. .</li>
+<li>Anak badak dihambat-hambat. .</li>
+<li>Anak baik, menantu molek. .</li>
+<li>Anak di riba diletakkan, kera di hutan disusu i. .</li>
+<li>Anak halal zadah.</li>
+<li>Anak haram zadah.</li>
+<li>Anak harimau diajar makan daging. .</li>
+<li>Anak harimau jangan diajak bertampar, ingat-ingat kukunya. .</li>
+<li>Anak harimau jangan dibela pelihara. .</li>
+<li>Anak harimau menjadi anak kambing.</li>
+<li>Anak harimau takkan menjadi anak kambing]. .</li>
+<li>Anak ikan dimakan ikan, tahu makan tahu simpan. .</li>
+<li>Anak kambing takkan menjadi anak harimau. .</li>
+<li>Anak kandung ditimang-timang, anak tiri ditengking-tengking. .</li>
+<li>Anak kera hendak diajar memanjat. .</li>
+<li>Anak kucing menjadi harimau. .</li>
+<li>Anak kuda bulu kasap. .</li>
+<li>Anak kunci jahat, peti derhaka. .</li>
+<li>Anak mati berkalang bapak, bapak mati berkalang anak.</li>
+<li>Anak monyet di hutan disusu i, anak sendiri di rumah kekeringan. .</li>
+<li>Anak orang anak orang juga, bolehkah jadi anak sendiri?</li>
+<li>Anak orang, anak orang juga. .</li>
+<li>Anak panah yang lepas dari busurnya, tak dapat di kendalikan.</li>
+<li>Anak rancak menantu sating.</li>
+<li>Anak semata wayang.</li>
+<li>Anak sendiri disayang, anak tiri dibengkeng. .</li>
+<li>Anak sendiri disayang, anak tiri dihardik.</li>
+<li>Anak seorang, menantu malim. (malim = ahli agama).</li>
+<li>Anak seorang, penaka tidak. (penaka = boleh di pandang sebagai; semisal; seumpama).</li>
+<li>Anak sungai lagi berubah, inikan pula hati orang. .</li>
+<li>Angan lalu, faham tertumbuk. .</li>
+<li>Angan-angan menerauang langit.</li>
+<li>Angan-angan mengikat tubuh.</li>
+<li>Angguk enggan, geleng ia; Angguk enggan, geleng mahu, unjuk tridak berikan.</li>
+<li>Angguk-angguk balam.</li>
+<li>Anggup-anggip bagai rumput di tengah jalan. (anggup-anggip = terkulai-kulai).</li>
+<li>Angin berputar, ombak bersabung.</li>
+<li>Angin bersiru, kami tahu.</li>
+<li>Angin bersiru, ombak bersabung.</li>
+<li>Angin tak dapat ditangkap, asap tak dapat digenggam.</li>
+<li>Angkat batang keluar cacing gelang-gelang.</li>
+<li>Angkuh terbawa, tampan tertinggal.</li>
+<li>Angus (hangus) tiada berapi, karam tiada berair.</li>
+<li>Anjing bercawat ekor.</li>
+<li>Anjing biasa makan tahi, jika tak makan mencium ada juga.</li>
+<li>Anjing diberi makan nasi takkan kenyang.</li>
+<li>Anjing ditepuk menjungkit ekor.</li>
+<li>Anjing galak, babi berani.</li>
+<li>Anjing itu, kalau dipukul sekalipun, berulang juga ia ke tempat bangkai yang banyak tulang.</li>
+<li>Anjing itu, meskipun dirantai dengan rantai emas, nescaya berulang-ulang juga ia ke tempat najis.</li>
+<li>Anjing kepada orang, raja kepada kita.</li>
+<li>Anjing menggonggong, kafilah tetap berlalu.</li>
+<li>Anjing menyalak bukit, takkan runtuh.</li>
+<li>Anjing menyalak di ekor (= dipanjat) gajah.</li>
+<li>Anjing menyalak tiada mengigit.</li>
+<li>Anjing terpanggang ekor.</li>
+<li>Anjing tiada bercawat ekor.</li>
+<li>Anjur surut bak bertanam.</li>
+<li>Antah berkumpul sama antah, beras bersama beras.</li>
+<li>Antan patah, lesung hilang.</li>
+<li>Antara dua tengah tiga.</li>
+<li>Apa boleh buat, nasi sedap menjadi tawar.</li>
+<li>Apa boleh buat, sakit menimpa sesal terlambat.</li>
+<li>Apa digaduhkan: pengayuh sama di tangan, perahu sama di air.</li>
+<li>Apa guna bunga ditanam, jika tidak diberi kumbang menyerinya.</li>
+<li>Apa gunanya bulan terang di dalam hutan, jikalau di dalam negeri betapa baiknya.</li>
+<li>Apa kepada kukur, nyiur juga yang binasa.</li>
+<li>Apa kurang pada belida, sisik ada tulang pun ada.</li>
+<li>Apa payahnya menawakkan (= menaupkan) bibir atas bawah.</li>
+<li>Apa payahnya menggoyangkan lidah saja.</li>
+<li>Apa peduli kata kukuran, kerambi juga akan habis.</li>
+<li>Apa sakit berbini janda, anak tiri boleh disuruh.</li>
+<li>Apa tampangnya, itulah tumbuhnya.</li>
+<li>Apa yang di tanam, itulah yang tumbuh.</li>
+<li>Apabila orang miskin menghendaki uang, dia mendapat anak; apabila orang kaya menghendaki anak, dia mendapat uang.</li>
+<li>Apabila tumbuh-nyiur itu patah, tumbuh-nyiur juga akan gantinya.</li>
+<li>Apakah gunanya kemenyan disimpan sebesar tungku , kalau tidak dibakar.</li>
+<li>Apakah gunanya memasang dian di tengah hari, jika malam alangkah baiknya.</li>
+<li>Apalagi sawa , ia berkehendakkan ayamlah|</li>
+<li>Apalah daya ajal telah menjemput.</li>
+<li>Api dengan air, alangkah bezanya.</li>
+<li>Api itu, tatkala kecil menjadi kawan, apabila besar menjadi lawan.</li>
+<li>Api kecil baik dipadam.</li>
+<li>Api makan sekam (= dedak ).</li>
+<li>Api nan tak kunjung padam.</li>
+<li>Api padam puntung berasap. (puntung = sisaa kayu api yag dibakar).</li>
+<li>Api padam puntung hanyut, kami tidak di situ lagi.</li>
+<li>Apung di tengah lautan; dipukul ombak, sekejap ke tengah sekejap ke tepi.</li>
+<li>Ara tak bergetah.</li>
+<li>Arah bertukar jalan.</li>
+<li>Arang di dahi (= di kening, di muka).</li>
+<li>Arang habis besi binasa.</li>
+<li>Arang habis panggang tak masak.</li>
+<li>Arang itu, jika dibasuh dengan air mawar sekalipun, tiada akan putih.</li>
+<li>Asak kata kita, angsur kata dia.</li>
+<li>Asal ada kecil pun pada.</li>
+<li>Asal ayam hendak ke lesung , asal itik hendak ke pelimbahan.</li>
+<li>Asal berinsang ikanlah.</li>
+<li>Asal berisi tembolok senang hati.</li>
+<li>Asal bersubang emas biarlah telinga rompong.</li>
+<li>Asal besi pengapak kayu, asal emas menjadi penduk.</li>
+<li>Asal ditugal, adalah benih. (tugal = melubagi tanah kebun dengan kayu akan tempat menanam benih).</li>
+<li>Asal kuda dari kuda, asal keledai dari keledai.</li>
+<li>Asal sabut terapung, asal besi tenggelam.</li>
+<li>Asal selamat ke seberang, biar bergantung di ekor buaya .</li>
+<li>Asal-usul, asal jangan ditinggallkan.</li>
+<li>Asam di darat ikan di laut, bertemu dalam belanga juga.</li>
+<li>Asam digunung, garam di laut, dalam belanga bertemu jua.</li>
+<li>Asing lubuk asing ikannya.</li>
+<li>Asing lubuk asing ikanya, asing pandang asing belakangnya.</li>
+<li>Asing maksud, asing sampai.</li>
+<li>Asing padang asing belalang, asing lubuk asing ikanya.</li>
+<li>Asing uang, asing nikmat.</li>
+<li>Asing udang, lain nikmat.</li>
+<li>Asyik memangku tangan, mati dalam angan-angan.</li>
+<li>Atap ijuk berabung upuh (timah).</li>
+<li>Atap ijuk kerabung upih.</li>
+<li>Atap rumbia perabung upih, rumah besar berdinding papan.</li>
+<li>Aur ditanam betung tumbuh.</li>
+<li>Aus telunjuk mencolek garam .</li>
+<li>Awak alah gelanggang usai. (usai = lengang.)</li>
+<li>Awak hendak hilir, ia telah hanyut.</li>
+<li>Awak kecil makan hendak banyak, sayap singkat terbang hendak tinggi.</li>
+<li>Awak kurus daging menimbun.</li>
+<li>Awak menangis diberi pisang.</li>
+<li>Awak rendah sangkutan tinggi.</li>
+<li>Awak tikus, hendak menampar kepala kucing .</li>
+<li>Awak yang celaka, orang yang diumpat.</li>
+<li>Awak yang payah membelah ruyung, orang lain yang beroleh sagunya. (ruyung = batang pohon enau).</li>
+<li>Awal dibuat, akhir diingat.</li>
+<li>Awal diingat di akhir tidak.</li>
+<li>Awal dikenal akhir tidak, alamat badan akan rosak.</li>
+<li>Awan berarak ditangisi.</li>
+<li>Awan mengandung hujan.</li>
+<li>Ayam baru belajar berkokok.</li>
+<li>Ayam berinduk, sirih berjunjung.</li>
+<li>Ayam berkoko hari siang.</li>
+<li>Ayam berlaga sekandang.</li>
+<li>Ayam beroga itu, kalau diberi makan di pinggan emas sekalipun ke hutan juga perginya. (ayam beroga = ayam hutan.)</li>
+<li>Ayam bertelur di atas padi, mati kelaparan.</li>
+<li>Ayam bertelur di atas padi.</li>
+<li>Ayam dapat, musang dapat.</li>
+<li>Ayam ditambat disambar elang, padi di tangan tumbuh lalang.</li>
+<li>Ayam hitam terbang malam bertali ijuk, bertambang tanduk, hinggap di kebun rimbun.</li>
+<li>Ayam hitam terbang malam, siapa tahu berdebus buntinya.</li>
+<li>Ayam itik, raja pada tempatnya.</li>
+<li>Ayam menang, kampuh (= kampung) tergadai.</li>
+<li>Ayam pulang ke pautan.</li>
+<li>Ayam putih terbang siang, hinggap di halaman, terang kepada mata orang banyak.</li>
+<li>Ayam seekor bertambang dua.</li>
+<li>Ayam sudah patah, kalau-kalau dapat menikam.</li>
+<li>Ayam tak patuk, itik tak sudu.</li>
+<li>Ayam tambat disambar elang, padi ditanam tumbuh ilalang.</li>
+<li>Ayam terlepas, tangan bau tahi.</li>
+<li>Ayam tidur senang di dalam reban, musang yang susah beredar sekeliling.</li>  
+<li>Babi merasa gulai.</li>
+<li>Bacang dibungkus tentu baunya keluar juga.</li>
+<li>Badai makan anak</li>
+<li>Badai pasti berlalu</li>
+<li>Badak makan anak.</li>
+<li>Badan bersaudara; emas perak tiada bersaudara; kasih saudara sama ada, kasih bapa menokok harta yang ada, kasih ibu sama rata; kasih sahabat sama binasa.</li>
+<li>Badan boleh dimiliki, hati tiada boleh dimiliki.</li>
+<li>Badan sudah dua senyawa.</li>
+<li>Bagai air daun talas (= keladi).</li>
+<li>Bagai air itik ke batu.</li>
+<li>Bagai air mencari jenisnya.</li>
+<li>Bagai anak dara mabuk andam. (andam = anak rambut di dahi).</li>
+<li>Bagai anak dara sudah berkaki.</li>
+<li>Bagai anak nangui. (nangui = Babi kecil yang banyak anaknya).</li>
+<li>Bagai anak sepat ketohoran.</li>
+<li>Bagai anjing beranak enam.</li>
+<li>Bagai anjing buruk kepala.</li>
+<li>Bagai anjing melintang denai. (denai = jejak binatang di hutan).</li>
+<li>Bagai anjing tersepit di pagar.</li>
+<li>Bagai api dengan rabuk.</li>
+<li>Bagai ara hanyut.</li>
+<li>Bagai aur bergantung ke tebing, bagai tebing bergantung ke aur.</li>
+<li>Bagai aur dengan tebing.</li>
+<li>Bagai ayam dibawa ke lampok. (lampok = onggok padi disabit; limpap).</li>
+<li>Bagai ayam dimakan (= kena) tungau.</li>
+<li>Bagai ayam disambar [helang|elang]].</li>
+<li>Bagai ayam lepas bertaji.</li>
+<li>Bagai ayam mabuk tahi.</li>
+<li>Bagai ayam mengarang telur. (mengarang telur = hampir bertelur).</li>
+<li>Bagai ayam naik ke surau.</li>
+<li>Bagai ayam si tombong, kokok berderai-derai, ekor bergelumang tahi. (tombong = sombong.)</li>
+<li>Bagai ayam yang terkecundang. (kecundang = kalah).</li>
+<li>Bagai bajak uangkang makan diangkat.</li>
+<li>Bagai balak terendam.</li>
+<li>Bagai belacan dikerat dua: yang pergi busuk, yang tinggal hanyir.</li>
+<li>Bagai beliung dengan asahan.</li>
+<li>Bagai belut digetir (= diketil) ekor.</li>
+<li>Bagai belut diregang.</li>
+<li>Bagai berkain tiga hasta.</li>
+<li>Bagai bersahabat dengan ular bisa.</li>
+<li>Bagai berseru di padang pasir.</li>
+<li>Bagai bersumur di tepi rawa.</li>
+<li>Bagai bertanak di kuali.</li>
+<li>Bagai bertemu (= makan) buah si malakamo; dimakan mati bapa, tidak dimakan mati ibu.</li>
+<li>Bagai bertepuk sebelah tangan.</li>
+<li>Bagai beruk kena ipuh. (ipuh = racun.)</li>
+<li>Bagai berumah di tepi tebing.</li>
+<li>Bagai besi dengan penempa.</li>
+<li>Bagai biawak mengulangi bangkai.</li>
+<li>Bagai buah keras di dalam sekul. (buah keras = kemiri; sekul = mangkuk yang diperbuat daripada tempurung kelapa.)</li>
+<li>Bagai bulan empat belas.</li>
+<li>Bagai bulan penuh mengambang di kaki awan.</li>
+<li>Bagai buntal kembung.</li>
+<li>Bagai bunyi cempedak jatuh.</li>
+<li>Bagai bunyi orang dikoyak harimau.</li>
+<li>Bagai bunyi perempuan di air. (di air = di tempat mandi.)</li>
+<li>Bagai bunyi siamang kenyang.</li>
+<li>Bagai cacing gila. (cacing gila = cacing yang berputar-putar bila disentuh.)</li>
+<li>Bagai cacing kena air panas.</li>
+<li>Bagai cembul dapat tutupnya.</li>
+<li>Bagai dakwat dengan kertas.</li>
+<li>Bagai dekan di bawah pangkal buluh. (dekan = ulat yang makan buluh.)</li>
+<li>Bagai denai gajah lalu.</li>
+<li>Bagai dihiris dengan sembilu.</li>
+<li>Bagai diikat dengan sehasta tali.</li>
+<li>Bagai dirahap kain basah. (rahap = bungkus.)</li>
+<li>Bagai ditembak putus tunggal. (putus tunggal = petir yang sangat keras bunyinya.)</li>
+<li>Bagai diurap dengan daun katang-katang. (katang-katang = Sejenis tumbuh-tumbuhan di tepi laut, getahnya sangat menggatalkan.)</li>
+<li>Bagai dulang dengan tudung saji.</li>
+<li>Bagai duri dalam daging.</li>
+<li>Bagai emak mandul baru beranak.</li>
+<li>Bagai empedu lekat di hati.</li>
+<li>Bagai enau di dalam belukar, melepaskan pucuk masing-masing.</li>
+<li>Bagai gadis jolong menumbuk.</li>
+<li>Bagai gagak menggonggong telur.</li>
+<li>Bagai galah di tengah arus.</li>
+<li>Bagai galah dijual. (galah = tombak atau lembing.)</li>
+<li>Bagai gelegar buluh. (gelegar = bunyi bergemuruh.)</li>
+<li>Bagai gelombang dua belas.</li>
+<li>Bagai geluk tinggal di air. (geluk = timba daripada tempurung kelapa.)</li>
+<li>Bagai gembala diberi keris.</li>
+<li>Bagai getah dibawa ke semak.</li>
+<li>Bagai gulai lengkitang. (lengkitang = siput.)</li>
+<li>Bagai hantu makan dedak.</li>
+<li>Bagai harimau beranak muda.</li>
+<li>Bagai haruan di dalam tuar. (tuar = lukah.)</li>
+<li>Bagai ikan lampam di ulak jamban.</li>
+<li>Bagai ilak bercerai dengan benang. (ilak = ukuran untuk menentukan lebar kain yang akan ditenun.)</li>
+<li>Bagai jawi belang puntung: didahulukan dia menyepak, dikemudiankan dia menanduk. (belang puntung = merah kehitam-hitaman; jawi = lembu.)</li>
+<li>Bagai jawi ditarik keluan. (keluan = tali yang dicucukkan pada hidung (lembu dan kerbau).)</li>
+<li>Bagai jawi makan, dimamah dulu baru ditelan.</li>
+<li>Bagai jawi terkurung siang.</li>
+<li>Bagai jelongak kerbau rampung.</li>
+<li>Bagai jempuk kesiangan hari.</li>
+<li>Bagai kacang direbus satu.</li>
+<li>Bagai kacang direndang.</li>
+<li>Bagai kain menunjukkan corak bangsanya.</li>
+<li>Bagai kambing dalam biduk.</li>
+<li>Bagai kambing dihalau (= diseret) ke air.</li>
+<li>Bagai kambing dijunjung.</li>
+<li>Bagai kambing dimandikan pagi.</li>
+<li>Bagai kambing harga dua kupang.</li>
+<li>Bagai kambing lepas ke parak. (parak = ladang, kebun.)</li>
+<li>Bagai kambing menanduk bukit; tanduk patah bukit tak runtuh.</li>
+<li>Bagai kapak naik cerana. (cerana = tempat sirih.)</li>
+<li>Bagai kayu lempung, ditebuk kumbang tembus-menembus. (kayu lempung = kayu ringan dan lunak.)</li>
+<li>Bagai keli kena ketuk.</li>
+<li>Bagai kelip-kelip terbang malam.</li>
+<li>Bagai keluang bebar petang. (bebar = terbang.)</li>
+<li>Bagai kerakap tumbuh di batu (= atas batu). (kerakap = Sejenis sirih tetapi tidak dimakan orang.)</li>
+<li>Bagai kerbau runcing tanduk.</li>
+<li>Bagai kinantan hilang taji. (kinantan = putih belaka (ayam, kuda , dan sebagainya).)</li>
+<li>Bagai kuau mengigal (= menyesar). (kuau = sejenis burung; menyesar = menguak.)</li>
+<li>Bagai kucing dengan panggang (= balur).(balur = dendang.)</li>
+<li>Bagai kucing dibawakan lidi.</li>
+<li>Bagai kucing kehilangan anak.</li>
+<li>Bagai kucing lepas senja.</li>
+<li>Bagai kucing menjemput api.</li>
+<li>Bagai kucing takut akan balur.</li>
+<li>Bagai kucing tidur di bantai. (bantai = daging binatang yang disembelih.)</li>
+<li>Bagai langau mengerumuni bangkai.</li>
+<li>Bagai lebah menghimpun madu.</li>
+<li>Bagai lepat dengan daun.</li>
+<li>Bagai limau masam sebelah.</li>
+<li>Bagai lobak di pemerunan, bagai kacang tengah dua bulan. (pemerunan = tempat membakar sampah.)</li>
+<li>Bagai lukah, tak penuh air.</li>
+<li>Bagai melepaskan batuk di tangga.</li>
+<li>Bagai melihat asam.</li>
+<li>Bagai melihat ulat.</li>
+<li>Bagai melompati pagar tiga hasta: akan dilompati rendah, akan dilangkahi tinggi.</li>
+<li>Bagai melulur bersitungging.</li>
+<li>Bagai melulus baju sempit, bagai terbuang kesisipan. (kesisipan = kemasukan duri dalam daging.)</li>
+<li>Bagai melulutkan jebat pada kerbau. (melulutkan = menggosok tubuh dengan pelutut; jebat = Sejenis Kasturi)</li>
+<li>Bagai memakai baju pinjaman.</li>
+<li>Bagai membelah betung.</li>
+<li>Bagai memegang buah kepantangan beruk; ditelan mati emak, diludahkan mati bapa.</li>
+<li>Bagai menambah gelang bini.</li>
+<li>Bagai menampung air dengan limas pesuk. (limas = takir; pesuk = berlubang.)</li>
+<li>Bagai mencari kutu di dalam ijuk.</li>
+<li>Bagai mencencang air.</li>
+<li>Bagai mendapat cincin ijuk.</li>
+<li>Bagai menelan mestika embun.</li>
+<li>Bagai mengail kucing hanyut.</li>
+<li>Bagai mengangkut batu di bencah. (bencah = paya.)</li>
+<li>Bagai mengatai tunggak (= tunggul).</li>
+<li>Bagai mengepal pasir kering.</li>
+<li>Bagai menggelikan induk ayam.</li>
+<li>Bagai menghela rambut dalam tepung: rambut jangan putus, tepung jangan terserak.</li>
+<li>Bagai menghitung bulu kambing.</li>
+<li>Bagai menjaga permata intan ketika dicanai.</li>
+<li>Bagai menjenguk jerat sial.</li>
+<li>Bagai menumbuk padi hampa.</li>
+<li>Bagai menunjukkan ilmu kepada orang menetek.</li>
+<li>Bagai menyandang galas tiga. (galas tiga = tiga bungkus dagangan.)</li>
+<li>Bagai menyesah kain dapat. (menyesah = memukul.)</li>
+<li>Bagai menyukat anak ayam, masuk empat keluar lima.</li>
+<li>Bagai mestika embun .</li>
+<li>Bagai murai dicabut ekor.</li>
+<li>Bagai nakhoda kasap: hujung hilang, pangkal lesap.</li>
+<li>Bagai padi, hendakkan dedak; bagi laki (= suami), hendakkan gendak.</li>
+<li>Bagai pahat, tidak ditukul tidak makan.</li>
+<li>Bagai panas mengandung hujan.</li>
+<li>Bagai pancang digoncang arus.</li>
+<li>Bagai parang buruk, tali sabut tiada tergolok.</li>
+<li>Bagai pelita kehabisan minyak.</li>
+<li>Bagai perempuan bunting bertemu idamannya.</li>
+<li>Bagai perempuan membawa perut.</li>
+<li>Bagai perian pecah. (perian = tabung bambu untuk membawa air.)</li>
+<li>Bagai pintu tak berpasak, perahu tak berkemudi.</li>
+<li>Bagai pucuk (enau) dilancarkan (= diluncurkan).</li>
+<li>Bagai pucuk pisang didiang.</li>
+<li>Bagai punggur rebah. (punggur = tunggul.)</li>
+<li>Bagai puyu di air jernih.</li>
+<li>Bagai puyuh laga.</li>
+<li>Bagai rasa batang pisang.</li>
+<li>Bagai rupa tungkahan. (tungkahan = kayu landasan di dapur.)</li>
+<li>Bagai sambau di pintu kandang.</li>
+<li>Bagai semut penghimpun melukut.</li>
+<li>Bagai sepatung mandi.</li>
+<li>Bagai serangkak tertimbakan. (serangkak (sirangkak) = ketam kecil.)</li>
+<li>Bagai si buta pergi bergajah. (bergajah = menangkap gajah.)</li>
+<li>Bagai si kudung beroleh cincin.</li>
+<li>Bagai si kudung pergi berbelut. (berbelut = menangkap belut.)</li>
+<li>Bagai si lumpuh hendak merantau.</li>
+<li>Bagai si pekak tertanya-tanya.</li>
+<li>Bagai siamang kurang kayu.</li>
+<li>Bagai tabut keling: di luar berkilat di dalam berongga.</li>
+<li>Bagai tagar di Pulau Sembilan. (tagar = guruh, guntur.)</li>
+<li>Bagai tanah pelempar balam; kalau mujur tiba di balam, kalau tidak surut ke tanah.</li>
+<li>Bagai tanduk bersendi gading.</li>
+<li>Bagai tanduk diberkas.</li>
+<li>Bagai tekukur mengikut kata.</li>
+<li>Bagai tembilang bagai penggali; begitu yang hilang begitu pengganti. (tembilang = alat penggali lubang.)</li>
+<li>Bagai terung terantuk ke dinding.</li>
+<li>Bagai tikus membaiki labu.</li>
+<li>Bagai timun dendang: di luar merah di dalam pahit.</li>
+<li>Bagai tokak lekat di kening.</li>
+<li>Bagai tulisan di atas air.</li>
+<li>Bagai tuman makan anak.</li>
+<li>Bagai tunggul dihias.</li>
+<li>Bagai tuntung jarum dilaga. (tuntung = hujung yang runcing.)</li>
+<li>Bagai tupai bergelut.</li>
+<li>Bagai udang bertahi di kepala.</li>
+<li>Bagai ular dengan legundi (= lenggundi di mana legundi = sejenis tumbuhan.).</li>
+<li>Bagai umang-umang.</li>
+<li>Bagai wau putus teraju.</li>
+<li>Bagai [kera]] diberi kaca.</li>
+<li>Bagaimana acuan begitulah kuihnya; bagaimana contoh begitulah gubahannya.</li>
+<li>Bagaimana bunyi gendang, begitulah tarinya.</li>
+<li>Bagaimana ditanam, begitulah dituai.</li>
+<li>Bagaimana hari takkan hujan, katak betung dalam telaga berteriak selalu.</li>
+<li>Bagaimana kumbang putus tali.</li>
+<li>Bagaimana menanti arah hanyut.</li>
+<li>Bagaimana pohon tiada akan tumbang dipanah halilintar, baluhan kulit ada di batangnya. (baluhan = batang yang sudah berlubang seperti gendang.)</li>
+<li>Bagaimana rupa begitulah bayangnya.</li>
+<li>Bagaimana tepuk begitulah tarinya.</li>
+<li>Bagaimana tidak kumbang jinak terbang beredar, jika tidak karena bunga kembang di taman.</li>
+<li>Bagaimana tidak menggigit telunjuk, melihat air hujan turun keruh.</li>
+<li>Bahasa dan bangsa itu tidak dijual beli.</li>
+<li>Bahaya tumbuh, sengketa habis.</li>
+<li>Bahu memikul, hati menyokong.</li>
+<li>Baik berjagung-jagung, sementara padi belum masak.</li>
+<li>Baik membawa resmi ayam betina, supaya tidak ada bencana. (resmi = sifat.)</li>
+<li>Baik membawa resmi padi, daripada membawa resmi lalang.</li>
+<li>bajak patah, banteng terambau. (banteng = lembu; terambau = masuk jurang.)</li>
+<li>bajak selalu di tanah yang lembut.</li>
+<li>bajak sudah terdorong ke bencah.</li>
+<li>Baji dahan membelah dahan.</li>
+<li>Bak anjing tersepit.</li>
+<li>Bak cetus api.</li>
+<li>Bak jung berat sebelah. (jung = sejenis kapal.)</li>
+<li>Bak mandi di air kiambang, pelak lepas gatal pun datang.</li>
+<li>Bak manik putus tali (= pengarang).</li>
+<li>Bak membelah kepayang muda: dimakan mabuk, dicampak sayang.</li>
+<li>Bak menanti orang dulu, bak melalah orang kudian. (melalah = mengejar.)</li>
+<li>Bak orang gombang di lebuh. (gombang = elok; lebuh = jalan raya.)</li>
+<li>Bak pinang dianduh, putus tali dia berdiri. (dianduh = ditarik dengan tali.)</li>
+<li>Bak ras kuda pula kukuran.</li>
+<li>Bak rasa di liang lahad. (lahad = lubang kubur.)</li>
+<li>Bak rasa ubi pula gadung. (gadung = ubi hutan)</li>
+<li>Bak tengguli ditukar cuka</li>
+<li>Bakal lesung tak dapat dijadikan balok.</li>
+<li>Bakar air hendakkan abu.</li>
+<li>Bakar tak berapi.</li>
+<li>Bakar tiada hangus.</li>
+<li>Bakarlah air ambil abunya.</li>
+<li>Bala lalu dibawa singgah.</li>
+<li>Balam dua sesangkar.</li>
+<li>Balik belakang lain bicara.</li>
+<li>Baling-baling di atas bukit. (baling-baling = penunjuk angin.)</li>
+<li>Bandar terbuka dagangan murah, badan sudah tua.</li>
+<li>Bandot tua makan lalap muda. (bandot = kambing jantan; lalap = ulam, daun muda.)</li>
+<li>Bangau, bangau, minta aku leher; badak, badak minta aku daging.</li>
+<li>Bangkai gajah bolehkah ditutup dengan nyiru ?</li>
+<li>Bangkai gajah busuk di hutan hendak ditanam, pekung di kaki sendiri dibiarkan meroyak. (pekung = tokak; meroyak = merambat ke kiri ke kanan.)</li>
+<li>Bangsa bermuka papan.</li>
+<li>Bangsa teling tipis.</li>
+<li>Bangsat tak tahu disukarnya. (bangsat = miskin.)</li>
+<li>Banyak air sedikit minyak, minyak juga di atas.</li>
+<li>Banyak habis, sedikit sedang.</li>
+<li>Banyak makan garam.</li>
+<li>Banyak tukang di mata dan di mulut, sedikit tukang di tangan.</li>
+<li>Banyak udang banyak garam, banyak orang banyak ragam.</li>
+<li>Barang di mana pun pantat periuk itu hitam juga.</li>
+<li>Bau malaikat terhempas.</li>
+<li>Baunya setahun pelayaran.</li>
+<li>Bawa resmi padi, makin berisi makin tunduk.</li>
+<li>Bayan di tangan habis terlepas.</li>
+<li>Bayang-bayang disangka tubuh.</li>
+<li>Bayang-bayang sepanjang badan (= tubuh).</li>
+<li>Bayang-bayang tidak sepanjang badan.</li>
+<li>Beban berat senggulung batu. (senggulung = kain (sabut dan sebagainya) yang digulung dan ditaruh di kepala untuk mengganjal barang yang dijunjung.)</li>
+<li>Beban sudah di pintu.</li>
+<li>Bekas tertarung lagi terkenang, apa pula hubungan nyawa.</li>
+<li>Belah dada lihatlah hati.</li>
+<li>Belakang parang lagi kalau diasah niscaya tajam.</li>
+<li>belalang dapat menuai.</li>
+<li>belalang disangka elang.</li>
+<li>belalang hendak menjadi elang.</li>
+<li>Belanga kurang, periuk yang melebih-lebih.</li>
+<li>Belayar atas angin. (atas angin = jurusan dari mana angin datang.)</li>
+<li>Belayar bernakhoda, berjalan dengan yang tua, berkata dengan yang pandai.</li>
+<li>Belayar ke (di) pulau kapuk.</li>
+<li>Belayar mengadang (= menentang, menuju) pulau.</li>
+<li>Belayar sambil memapan, merapat sambil belayar. (memapan = memasang papan untuk dinding, lantai dan sebagainya.)</li>
+<li>Beliung yang besar hayun, kecil makannya.</li>
+<li>Belukar sudah menjadi rimba.</li>
+<li>Belum beranak sudah berbesan.</li>
+<li>Belum bergigi hendak mengunyah.</li>
+<li>Belum bergigi sudah hendak menggigit.</li>
+<li>Belum berkilat sudah berkilau, bulan sangkap tiga puluh. (sangkap = genap, cukup.)</li>
+<li>Belum bertaji hendak berkokok.</li>
+<li>Belum betul membilang jari, sudah hendak berkuasa sendiri.</li>
+<li>Belum diajun sudah tertarung. (ajun = maksud hendak (berbuat, berjalan dan sebagainya).)</li>
+<li>Belum dipanjat asap kemenyan.</li>
+<li>Belum disuruh sudah pergi, belum dipanggil sudah datang.</li>
+<li>Belum ditumbuk belumlah bengkak.</li>
+<li>Belum duduk berlunjur dulu.</li>
+<li>Belum lepas tali uri sudah hendak bangkit berdiri.</li>
+<li>Belum menetas sudah dibilang.</li>
+<li>Belum sekuku.</li>
+<li>Belum tahu di masin garam.</li>
+<li>Belum tahu laba rugi.</li>
+<li>Belum tahu lagi, ayam sedang berlaga (= disabung).</li>
+<li>Belum tegak hendak berlari.</li>
+<li>Belum tuarang panjang, buah sengkuang sebesar betis. (tuarang = musim kemarau.)</li>
+<li>Belut jatuh ke lumpur.</li>
+<li>Belut kena ranjau (= getah).</li>
+<li>Belut pulang ke lumpur.</li>
+<li>Bembam bukan terung.</li>
+<li>Benang arang orang jangan dipijak.</li>
+<li>Benang bercerai-cerai bukannya kain, dek rapat tetal tenunan kain, jarum pun tidak menelusnya. (tetal = padat; telus = celus.)</li>
+<li>Benci akan mencit seekor, rengkiang disunu. (mencit = tikus; rengkiang = lumbung; sunu = bakar.)</li>
+<li>Bengkok batang bengkoklah bayangnya.</li>
+<li>Berair kerongkongan. (kerongkongan = pembuluh nafas.)</li>
+<li>Beraja di hati, bersultan di mata.</li>
+<li>Berakit-rakit ke hulu, berenang-renang ke tepian; bersakit-sakit dulu, bersenang-senang kemudian.</li>
+<li>Beralih kain di balik rumah; beralih cakap di balik lidah.</li>
+<li>Beranak kandung, beranak tiri: ada bersudu daun labu, ada bersudu daun lalang.</li>
+<li>Beranak tiada berbidan.</li>
+<li>Berani hilang tak hilang, berani mati tak mati.</li>
+<li>Berani karena benar, takut karena salah.</li>
+<li>Berani menjual berani membeli, berani pegang berani tanggung.</li>
+<li>Berani senduk pengedang, air hangat direnanginya. (senduk pengedang = senduk pencedok air panas dari periuk.)</li>
+<li>Berapa berat mata memandang, berat juga bahu memikul.</li>
+<li>Berapa panjang lunjur, begitulah panjang selimut.</li>
+<li>Berapalah besar dan dalam laut Kalzum, besar dan dalam lagilah dada manusia.</li>
+<li>Berapalah tajam pisau parang, tajamlah lagi mulut manusia.</li>
+<li>Berarak ke tebing. (berarak = berjalan.)</li>
+<li>Berarak tidak berlari.</li>
+<li>Berat beban yang sedikit dek hati sakit.</li>
+<li>Berat hati beratlah tulang.</li>
+<li>Berat sama dipikul, ringan sama dijinjing.</li>
+<li>Berat sepikul, ringan sejinjing.</li>
+<li>Berbalik-balik bagai kuda tercirit.</li>
+<li>Berbaur bagaikan muntah, bercerai bagaikan demam.</li>
+<li>Berbaur pangkal perceraian.</li>
+<li>Berbelok kucing main daun.</li>
+<li>Berbenak ke empu kaki.</li>
+<li>Berbilang dari esa, mengaji dari alif.</li>
+<li>Berbisik kedengaran, berimbau kelampauan.</li>
+<li>Berbuat di alang tahun, belayar di luar musim. (alang = tengah-tengah; berbuat = maksudnya: turun ke sawah atau ke ladang.)</li>
+<li>Berbuat kerja seperti Mak Judai.</li>
+<li>Berbuat kerja seperti yajud wa majud. (yajud wa majud = suku bangsa yang akan membinasakan dunia apabila telah hampir kiamat.)</li>
+<li>Berbudi bagai pisang lebat. (berbudi = maksudnya: menggahkan diri.)</li>
+<li>Berbukit di balik pendakian.</li>
+<li>Berbulu mata melihat.</li>
+<li>Berbunga sama berbunga: yang lain berbuah, dia tidak.</li>
+<li>Berbunyi batu berbunyilah dia.</li>
+<li>Bercabang bagai lidah biawak.</li>
+<li>Bercabik kulit belumlah tentu, bercabik kain bolehlah.</li>
+<li>Bercakap memandang-mandang, silap lidah jiwa hilang.</li>
+<li>Bercampur dengan orang pemaling, sekurang-kurangnya jadi pencecak. (cecak = copet.)</li>
+<li>Bercermin di air keruh.</li>
+<li>Bercintakan geliga di mulut naga.</li>
+<li>Berdenah tidak, terpeluk sarang tabuhan.</li>
+<li>Berdengking si tua memekik, mustahil akan menggigit jema. (si tua = harimau; jema = orang.)</li>
+<li>Berdiang di abu dingin.</li>
+<li>Berdikit-dikit, lama-lama menjadi bukit.</li>
+<li>Berdiri sama tinggi, duduk sama rendah.</li>
+<li>Berdua mendatangkan perbantahan.</li>
+<li>Berdua terkunci, bertiga terbuka.</li>
+<li>Berebut temiang hanyut, tangan luka, temiang tak dapat. (temiang = sejenis buluh tipis.)</li>
+<li>Berek-berek laga siang, malam sekelelapan. (berek-berek = burung yang suka berkawan-berkawan; sekelelapan = tidur bersama-sama.)</li>
+<li>Beremas kemas, berpadi menjadi.</li>
+<li>Berendam di tempayan pekasam.</li>
+<li>Berendam sesayak air, berpaut sejengkal tali.</li>
+<li>Berenyai bak hujan pagi.</li>
+<li>Bergalah ke hilir tertawa buaya, bersuluh di bulan terang tertawa harimau.</li>
+<li>Bergantung (di) rambut sehelai.</li>
+<li>Bergantung pada akar lapuk.</li>
+<li>Bergantung pada tali rapuh.</li>
+<li>Bergantung tidak bertali.</li>
+<li>Bergedang air orang.</li>
+<li>Bergelanggang di mata orang banyak.</li>
+<li>Bergurindam di tengah rimba.</li>
+<li>Berguru kepalang ajar, bagai bunga kembang tak jadi.</li>
+<li>Berhadap kasih mesra, balik belakang lain bicara.</li>
+<li>Berhakim kepada beruk.</li>
+<li>Berhambakan tangan, bersaksikan mata, berhakimkan hati.</li>
+<li>Berhampar lapik, berlicin daun.</li>
+<li>Berhanyut ke hilir mengepit kemudi sajalah.</li>
+<li>Berharga di atas rupa, bercupak di atas tumbuh. (di atas rupa = melihat rupa; bercupak di atas tumbuh = adat diisi apabila sesuatu mengenai adat itu terjadi.)</li>
+<li>Berhati baja, berurat kawat.</li>
+<li>Berhubung karena hendak panjang, berkampuh karena hendak lebar.</li>
+<li>Beriak tanda tak dalam, bergoncang tanda tak penuh.</li>
+<li>Berinduk semang kepada janda, bagai dokoh tali anjing.</li>
+<li>Berjalan dari pintu belakang.</li>
+<li>Berjalan jauh banyak dilihat.</li>
+<li>Berjalan peliharakan kaki, berkata peliharakan lidah.</li>
+<li>Berjalan sampai ke batas, belayar sampai ke pulau.</li>
+<li>Berjanjang naik, bertangga turun.</li>
+<li>Berjarak serasa hilang, bercerai serasa mati.</li>
+<li>Berjual pisang kepada monyet.</li>
+<li>Berjumpa dengan putih, terlesi sangat.</li>
+<li>Berkain tak cukup sebelit pinggang.</li>
+<li>Berkandilkan bulan.</li>
+<li>Berkata siang melihat-lihat, berkata malam mendengar-dengar.</li>
+<li>Berkata-kata dengan lutut.</li>
+<li>Berkaul kepada (= ke tempat) keramat.</li>
+<li>Berkayuh sambil bertimba.</li>
+<li>Berkayuh sampan bocor.</li>
+<li>Berkelahi dalam kepuk.</li>
+<li>Berkelahi dengan orang tak berambut.</li>
+<li>Berkelahi di dalam mimpi.</li>
+<li>Berkelahi di ekor alahan.</li>
+<li>Berkelahi di hujung batang, berbaik di pangkal batang.</li>
+<li>Berkelahi dulu pendapatan, berkelahi kemudian kerugian.</li>
+<li>Berkelahi seperti labah-labah dalam gelas.</li>
+<li>Berkemudi di haluan, bergilir ke buritan.</li>
+<li>Berkepanjangan bagai agam.</li>
+<li>Berkeras tidak berkeris.</li>
+<li>Berkerbau seperempat ekor, berkandang sebagai orang.</li>
+<li>Berkering air liur.</li>
+<li>Berketak ayam di darat, bersenyap-senyap mutiara di laut.</li>
+<li>Berketak ayam mandul; orang berketak ia berketak, orang bertelur ia tidak.</li>
+<li>Berketak ayam, tahu akan bertelur atau tidak.</li>
+<li>Berketak dulu sebelum bertelur.</li>
+<li>Berketuk (= berkotek) di luar sangkar, bertanam di luar pagar.</li>
+<li>Berketuk ayam dalam telur.</li>
+<li>Berkokok di luar gelanggang, bila ke tengah menyusup di bawah kelengkang.</li>
+<li>Berkuah air mata.</li>
+<li>Berkuah sama menghirup, bersambal sama mencolek.</li>
+<li>Berkuak pedang, berbelah buluh.</li>
+<li>Berkubu sebelum alah.</li>
+<li>Berlaki anak semang. (anak semang = orang gajian.)</li>
+<li>Berlidah di lidah orang.</li>
+<li>Berlindung di balik telunjuk.</li>
+<li>Berlurah di balik pendakian.</li>
+<li>Bermain air basah, bermain api letur, bermain pisau luka.</li>
+<li>Bermain-main dengan kerbau, dilontarnya muka dengan ekornya.</li>
+<li>Bermata mata kayu, bertelinga telinga kuali.</li>
+<li>Bermayang-mayang menjadi mumbang.</li>
+<li>Bermimpi mendapat emas, takkan membuat pura; bermimpi mendapat padi, takkan membuat lumbung.</li>
+<li>Berminyak biar lecah (= licin).</li>
+<li>Berminyak tak licin.</li>
+<li>Bermulut di mulut orang.</li>
+<li>Bernafas keluar badan.</li>
+<li>Berniaga buluh kasap, hujung hilang pangkal lesap.</li>
+<li>Berniaga di hujung lidah.</li>
+<li>Beroja berpegang ekor. (beroja = menggalaki.)</li>
+<li>Beroleh (= mendapat) hidung panjang.</li>
+<li>Beroleh lumpur di tempat yang kering.</li>
+<li>Beroleh sehasta hendak sedepa.</li>
+<li>Berpatah arang berkerat rotan.</li>
+<li>Berpaut sehasta tali.</li>
+<li>Berpaut tidak bertali.</li>
+<li>Berpesan berturuti, harap ada percaya tidak.</li>
+<li>Berpindah ke balik papan.</li>
+<li>Berpusing-pusing seperti baling-baling.</li>
+<li>Berputik dulu baru berbunga, buahnya jarang dimakan beruk (= monyet).</li>
+<li>Bersahabat dengan juara, selilit benang bulang tahu juga.</li>
+<li>Bersaksi ke lutut.</li>
+<li>Bersalai tidak berapi. (salai = dipanaskan atau dikeringkan.)</li>
+<li>Bersandar di batang rengas, gatallah badan.</li>
+<li>Bersandar dilemang hangat.</li>
+<li>Bersarak serasa hilang, bercerai serasa mati.</li>
+<li>Bersawah seperempat piring, ke sawah sama dengan orang.</li>
+<li>Bersawah sepiring tidak, 'kan tempat sepasin bertanya.</li>
+<li>Berseleleran bagai getah di lalang.</li>
+<li>Berselimut kain cukin; ditutup kepala kaki terbuka, ditutup kaki kepala terdedah.</li>
+<li>Cacing hendak menjadi naga.</li>
+<li>Cacing menelan naga.</li>
+<li>Cacing menjadi ular naga.</li>
+<li>Cakak sudah, silat teringat. (cakak = kelahi).</li>
+<li>Cakap berdegar-degar, tahi tersangkut di gelegar.</li>
+<li>Cakap berlauk-lauk makan dengan sambal lada.</li>
+<li>Cakapan sejengkel dibawa sehasta.</li>
+<li>Calak-calak ganti asah, menanti tukang belum datang.</li>
+<li>Campak baju nampak kurap seperti anak kacang hantu.</li>
+<li>Campak baju nampak kurap.</li>
+<li>Campak bunga dibalas dengan campak tahi.</li>
+<li>Canggung seperti antan dicungkilkan duri (= gigi).</li>
+<li>Cari umbut kena buku.</li>
+<li>Carik-carik bulu ayam, lama-lama bercantum juga.</li>
+<li>Cekarau besar liang. (cekarau= sejenis tumbuhan di air yang besar lubang batangnya).</li>
+<li>Cekel berhabis, lapuk berteduh. (cekel = kikir, pelit).</li>
+<li>Cekur jerangau ada lagi di ubun-ubun.</li>
+<li>Celaka ayam, padi masak makan ke hutan.</li>
+<li>Celaka tiga belas.</li>
+<li>Cembul dengan tutupnya.</li>
+<li>Cempedak berbuah nangka</li>
+<li>Cemperling nak jadi bayu. (bayu = sejenis burung asmara dalam dongengan).</li>
+<li>Cencang air tidak putus, pancung abu tak berbekas.</li>
+<li>Cencang dua segeragai. (geragai = pengait untuk menangkap buaya).</li>
+<li>Cencang putus, biang tembuk.</li>
+<li>Cencang terdadik jadi ukir. (terdadek = tersesat).</li>
+<li>Cencaru makan petang.</li>
+<li>Cengkeling bagai ular dipukul (= dipalu).</li>
+<li>Cepat kaki ringan tangan.</li>
+<li>Cepat tangan terjembakan, cepat kaki terlangkahkan, cepat mulut terkatakan.</li>
+<li>Cerdik bagai ekor kerbau.</li>
+<li>Cerdik elang, bingung sikikih; lamun murai terkecoh juga. (sikkih = sejenis enggang, kecil sedikit).</li>
+<li>Cerdik perempuan meleburkan, saudagar muda menghutangkan.</li>
+<li>Cermat masa banyak, jimat masa sedikit.</li>
+<li>Cik puan melangkah ular tak lepas.</li>
+<li>Cincin emas takkan tampan bermata kaca.</li>
+<li>Cium tapak tangan, berbaukah atau tidak?</li>
+<li>coba-coba menanam mumbang, jika tumbuhan sunting (= suri, turus) negeri.</li>
+<li>Condong ditumpil, lemah dianduh. (ditumpil = ditunjang).</li>
+<li>Condong puar ke uratnya, condong manusia kepada bangsanya. (puar = tumbuhan hutan).</li>
+<li>Condong yang akan menimpa.</li>
+<li>Condong yang akan menongkat, rebah yang akan menegakkan.</li>
+<li>Corak kain mengikut kehendak penenunnya.</li>
+<li>Cubit paha kanan, paha kiri pun merasa juga.</li>
+<li>Cubit paha sendiri dulu, baru cubit paha orang lain.</li>
+<li>Cupak berkeesaan.</li>
+<li>Cupak sudah tertegak, suri sudah terkembang (=terentang).</li>
+<li>Cupak tegak yang diisi.</li>
+<li>Dada manusia tidak dapat diselam.</li>
+<li>Dagangan bersambut yang dijualnya. (dagang bersambut = barang amanah).</li>
+<li>Dahan pembaji batang.</li>
+<li>Dalam berselam, dangkal berjingkat.</li>
+<li>Dalam dua tengah tiga.</li>
+<li>Dalam laut boleh diduga, dalam hati siapa tahu.</li>
+<li>Dalam menunduk dia menyonggeng. (songgeng (menyonggeng) = tonggeng).</li>
+<li>Dalam menyelam, cetek bertimba.</li>
+<li>Dalam rumah membuat rumah.</li>
+<li>Dalam sudah keajukan, dangkal sudah keseberangan. (ajuk = duga).</li>
+<li>Dapat dihitung (= dibilang) dengan jari.</li>
+<li>Dapat durian runtuh.</li>
+<li>Dapat harta karun.</li>
+<li>Dapat harta timbul.</li>
+<li>Dapat kijang teruit.</li>
+<li>Dapat tebu rebah.</li>
+<li>Dapur tidak berasap.</li>
+<li>Darah setampuk pinang.</li>
+<li>Dari ajung (= jung) turun ke sampan.</li>
+<li>Dari jauh diangkat telunjuk, kalau dekat diangkat mata.</li>
+<li>Dari lecah, lari ke duri.</li>
+<li>Dari semak ke belukar.</li>
+<li>Dari telaga yang jernih, tak akan mengalir air yang keruh.</li>
+<li>Dari telaga yang keruh, tak akan mengalir air yang jernih.</li>
+<li>Daripada cempedak baiklah nangka, daripada tidak baiklah ada.</li>
+<li>Daripada hidup bercermin bangkai, lebih baik mati berkalang tanah. (kalang = galang.)</li>
+<li>Daripada hidup bergelumang (= berlumur) tahi, baik mati bertimbun bunga.</li>
+<li>Daripada segenggam jadi segantang.</li>
+<li>Datang nampak muka, pergi nampak belakang.</li>
+<li>Datang seperti ribut, pergi seperti semut.</li>
+<li>Datang tak berjemput, pulang tak berhantar.</li>
+<li>Datang tampak muka, pulang tampak punggung.</li>
+<li>Datang tiada dijemput, dihalau dia berpaut, salah hemat kita diangkut.</li>
+<li>Datar bak lantai papan, licin bak dinding cermin.</li>
+<li>Daun 'lah melayang, buah jatuh ke perdu juga.</li>
+<li>Daun dapat dilayangkan, getah jatuh ke perdu juga.</li>
+<li>Daun keladi dimandikan.</li>
+<li>Daun mengenalkan pohonnya.</li>
+<li>Daun nipah dikatakan daun labu.</li>
+<li>Daunnya jatuh melayang, buahnya jatuh ke pangkal juga.</li>
+<li>Degar-degar merapati. (degar-degar = bunyi kayu dipukul).</li>
+<li>Dek sukar berkampuh ijuk, nan adat diturut juga.</li>
+<li>Dekat dapat ditunjal, jauh dapat ditunjuk.</li>
+<li>Dekat tak tercapai, jauh tak berantara.</li>
+<li>Dendang menggonggong telur.</li>
+<li>Dengan kartu terbuka.</li>
+<li>Dengar cakap enggang, makan buah beluluk; dengar cakap orang, terjun masuk lubuk.</li>
+<li>Dengarkan cerita burung, anak dipangku dilepaskan.</li>
+<li>Deras datang dalam kena.</li>
+<li>Deras seperti anak panah.</li>
+<li>Destar habis, kopiah luluh.</li>
+<li>Di bawah ketiak orang.</li>
+<li>Di bawah lancung nan tiris. (dibawah lacung = di bawah barang yang palsu).</li>
+<li>Di bawah lantai nan tiris.</li>
+<li>Di belakang ia menendang kita, bila di depan ia mengeting kita, jika di tengah ia berpusing ligat pula.</li>
+<li>Di hulu keruh di hilir pun tentu keruh juga.</li>
+<li>Di laut angkatan, di darat kerapatan.</li>
+<li>Di luar bagai madu, di dalam bagai empedu.</li>
+<li>Di luar berkilat di dalam berongga.</li>
+<li>Di luar merah di dalam pahit.</li>
+<li>Di lurah air yang besar, di bukit orang yang hanyut.</li>
+<li>Di lurah maka hendak angin, di bukit maka hendak air.</li>
+<li>Di mana api padam, di situlah (= di sanalah) puntung tercampak; di mana periuk pecah, di situlah tembikar tinggal.</li>
+<li>Di mana batang terguling, di situ cendawan tumbuh.</li>
+<li>Di mana buah masak, di situ burung banyak tampil.</li>
+<li>Di mana bumi (= tanah) dipijak, di sana (= di situ) langit dijunjung.</li>
+<li>Di mana bunga kembang, di situ kumbang banyak.</li>
+<li>Di mana kapak jatuh, di situ baji makan.</li>
+<li>Di mana kayu bengkok, di sanalah musang meniti.</li>
+<li>Di mana kelintung berbunyi, di situ kerbau tinggal diam.</li>
+<li>Di mana lalang habis, di situ api padam.</li>
+<li>Di mana makan di situ berak.</li>
+<li>Di mana ranting dipatah, di situ air disauk.</li>
+<li>Di mana tembilang terentak, di situ cendawan tumbuh.</li>
+<li>Di mana tempat kutu hendak makan kalau tidak di atas kepala.</li>
+<li>Di mana tumbuh, di situ disiang.</li>
+<li>Di manakah berteras kayu mahang.</li>
+<li>Di mudik sebulakan, di hilir semuara. (bulakan = pancaran air yang menjadi air tergenang).</li>
+<li>Di padang orang berlari-lari; di padang sendiri berjengket-jengket.</li>
+<li>Di reban sendiri melegas, di reban orang meromok.</li>
+<li>Di rumah sendiri dapur tak berabu, ke rumah teman pergi berpasak seribu.</li>
+<li>Di waktu garuda alah oleh ular.</li>
+<li>Dialas bagai memengat. (memengat = memasak pengat).</li>
+<li>Diam di laut, masin tidak; diam di bandar tak meniru.</li>
+<li>Diam penggali berkarat.</li>
+<li>Diam-diam lepu. (lepu = ikan laut "lionfish").</li>
+<li>Diam-diam ubi berisi, diam besi (= penggali) berkarat.</li>
+<li>Dian sebatang dinyalakan hujung pangkalnya, teraba-teraba sudahnya.</li>
+<li>Dianjak layu, dibubut (= dianggur) mati.</li>
+<li>Dianjung seperti payung, diambak seperti kasur.</li>
+<li>Diapit tidak bersanggit, ditambat tidak bertali. (sanggit = geser, gosok.)</li>
+<li>Diasak (= pindah) layu, dicabut mati.</li>
+<li>Dibakar tak hangus, direndam tak basah.</li>
+<li>Dibalik-balik bagai memanggang.</li>
+<li>Dibalun sebalun kuku, dibuka selebar alam. 9balun = gulung).</li>
+<li>Dibenarkan duduk di serambi, hendak bermaharajalela di tengah rumah.</li>
+<li>Diberi bahu, hendak kepala.</li>
+<li>Diberi berkuku hendak mencengkam.</li>
+<li>Diberi berpadang luas.</li>
+<li>Diberi bertali panjang.</li>
+<li>Diberi betis hendak paha.</li>
+<li>Diberi sejengkal hendak sehasta, diberi sehasta hendak sedepa.</li>
+<li>Dibilang genap, dipapar ganjil. (dipapar = dibentang.)</li>
+<li>Dibuang yang keruh, diambil yang jernihnya.</li>
+<li>Dibuat karena Allah, menjadi murka Allah.</li>
+<li>Dicari cempedak di bawah kerambil. (kerambi = kelapa).</li>
+<li>Dicecah orang bagai garam.</li>
+<li>Dicocok orang hidungnya.</li>
+<li>Dicukur-cukur rambut, tumbuh juga semula.</li>
+<li>Didenda dengan emas yang habis, dipancung dengan pedang yang hilang.</li>
+<li>Didengar ada, dipakai tidak.</li>
+<li>Didukung disangka orang sakit, kiranya orang kekenyangan.</li>
+<li>Didului bak melanting babi. (melanting = melempar).</li>
+<li>Dielakkan harimau, gajah tentu dengan londarnya; dielakkan untung, tak tentu londarnya. (londar = denai.)</li>
+<li>Dientak (hentak) alu luncung. (luncung = lancip tetapi tidak runcing di hujungnya.)</li>
+<li>Dientak (hentak) tak masuk, diumpil tak bergerak.</li>
+<li>Digantung tidak bertali.</li>
+<li>Digantung tinggi, dibuang jauh.</li>
+<li>Digantungkan tinggi, digalikan dalam.</li>
+<li>Digenggam takut mati, dilepaskan takut terbang.</li>
+<li>Digenggam tiada tiris.</li>
+<li>Dihujani kering, dijemur basah.</li>
+<li>Diidam seperti babi lemak. (diidam = menaruh dendam.)</li>
+<li>Diimbau berbunyi, dilihat bersua. (diimbau = dipanggil).</li>
+<li>Diindang ditampi teras, dipilih antah satu-satu.</li>
+<li>Diiringkan menyepak, dikemudiankan menanduk.</li>
+<li>Dijemba-jemba bagai bersiang, dihela surut bagai bertanam. (bersaing = mebersih-bersihkan).</li>
+<li>Dijual sayak, dibeli tempurung.</li>
+<li>Dijunjung merekah kepala, dipikul meruntuh bahu.</li>
+<li>Dikacak betis sudah bak betis, dikacak lengan sudah bak lengan. (dikacak = dipegang.)</li>
+<li>Dikatakan berhuma lebar, sesapan di halaman. (sesapan = semak belukar).</li>
+<li>Dikatakan mati emak, tak dikatakan mati bapa.</li>
+<li>Dikati sama berat, diuji sama merah.</li>
+<li>Dikembar seperti benang.</li>
+<li>Dikerkah dia menampar pipi, dibakar dia melilit puntung.</li>
+<li>Dikulum menjadi manikam, dimuntahkan (= diludahkan) menjadi sekam.</li>
+<li>Dikunyah patah gigi, ditelan sembelit.</li>
+<li>Dilahir serupa tidak, dibatin menggunting angin.</li>
+<li>Dilambai tak nampak, diseru tak dengar.</li>
+<li>Dilelar timba ke perigi; tak sekali, sekali pecah juga. (lelar = berulag-ulang).</li>
+<li>Dilengah (= dimabuk) beruk berayun.</li>
+<li>Dilihat galas berlaba, dihitung pokok termakan.</li>
+<li>Dilihat si pulut, ditanak berderai.</li>
+<li>Dilumas dengan daun katang-katang.</li>
+<li>Dimakan kapang habis berlubang. (kapang = sejenis teritip.)</li>
+<li>Dimakan mati emak, diluahkan mati bapa.</li>
+<li>Dimandikan dengan air segeluk.</li>
+<li>Diminta tebu diberi tembarau. (tembarau = gelagah, temerau.)</li>
+<li>Dinding teretas, tangga terpasang. (retas =toreh dengan senjata tajam).</li>
+<li>Dipandang dekat, dicapai tak boleh.</li>
+<li>Dipanggang tiada hangus.</li>
+<li>Dipegang lengan sudah bak lengan, dipegang betis sudah bak betis.</li>
+<li>Diperbesar isap (hisap), hitam bibir.</li>
+<li>Diperluas parak, tidak disiangi.</li>
+<li>Dipujuk dia menangis, ditendang dia tertawa.</li>
+<li>Dipukul lutut sakit, direngkuh siku ngilu.</li>
+<li>Diraih siku ngilu, direngkuh lutut sakit.</li>
+<li>Diratapi langau hijau.</li>
+<li>Direbus tak empuk.</li>
+<li>Direndam tak basah.</li>
+<li>Dirintang siamang berbuai.</li>
+<li>Disambut dengan penyapu tak bersimpai.</li>
+<li>Disangka panas sampai ke petang, kiranya hujan tengah hari.</li>
+<li>Disangka tiada akan mengaram, ombak yang kecil diabaikan.</li>
+<li>Disangkakan bedena timbul, terpeluk bangkai babi bengkak hanyut.</li>
+<li>Disangkakan langit itu rendah: dipandang dekat, dicapai tak dapat.</li>
+<li>Disigai sampai ke langit.</li>
+<li>Disisih bagai antah.</li>
+<li>Disuruh dituruti, berserah sekehendak hati.</li>
+<li>Disuruh pergi dipanggil datang, bekerja karena perintah, berhenti karena tegah.</li>
+<li>Ditakik bagai berendang, disepakkan bagai berayam.</li>
+<li>Ditakik getah di daun.</li>
+<li>Ditambat tidak bertali.</li>
+<li>Ditanaknya semua berasnya.</li>
+<li>Ditanam tebu di telinga, berkembang bunga raya di muka.</li>
+<li>Ditangkap buaya, nampak riaknya; ditangkap malas tak bertanda.</li>
+<li>Ditarik ia menanduk, digiring ia menyepak.</li>
+<li>Ditatang di anak lidah.</li>
+<li>Ditating bagai minyak penuh.</li>
+<li>Ditebuk (= dikerbuk) tikus (= tupai).</li>
+<li>Ditelan tak sengkang.</li>
+<li>Ditembak dengan peluru petunang.</li>
+<li>Ditempuh nyamuk terbalik, ditindih lalat tak dapat bangkit.</li>
+<li>Ditentang langit, langit; ditentang bumi, bumi.</li>
+<li>Ditetak belah dipalu belah, tembikar juga akan jadinya.</li>
+<li>Ditiarapkan tiada keluar, ditelentangkan tiada masuk.</li>
+<li>Ditindih yang berat, dililit yang panjang.</li>
+<li>Dititik belah, dipalu belah (= datar).</li>
+<li>Ditolak tak tumbang.</li>
+<li>Dituba sajakah ikan, dijala dijaring bukankah ikan?</li>
+<li>Ditumbuk dikisar barulah lumat.</li>
+<li>Diturutkan gatal tiba ke tulang.</li>
+<li>Diuji sama merah, ditahil (= dikati) sama berat.</li>
+<li>Diuji timbang lebih sesaga.</li>
+<li>Dua badan senyawa.</li>
+<li>Dua ekor gajah berjuang, seekor kancil mati tersepit di tengah.</li>
+<li>Dua kali dua empat.</li>
+<li>Duduk berkelompok, tegak berpusu. (berpusu = berduyun-duyun, berkumpul.)</li>
+<li>Duduk berkisar, tegak berpaling.</li>
+<li>Duduk berkurung siang malam.</li>
+<li>Duduk dalam duri yang banyak, bersandar di batang rengas.</li>
+<li>Duduk dengan cupak dan gantang.</li>
+<li>Duduk dengan sukatan.</li>
+<li>Duduk di ambung-ambung taji.</li>
+<li>Duduk di dalam tabir langit-langit, berbau tembelang.</li>
+<li>Duduk meraut ranjau, tegak meninjau jarak.</li>
+<li>Duduk sama rendah, berdiri (= tegak) sama tinggi.</li>
+<li>Duduk sehamparan, tegak sepematang.</li>
+<li>Duduk seorang bersempit-sempit, duduk banyak (= bersama) berlapang-lapang.</li>
+<li>Duduk seperti kucing, melompat seperti harimau.</li>
+<li>Dulu besi, sekarang timah.</li>
+<li>Dulu buah daripada bunga; dulu duduk daripada cangkung.</li>
+<li>Dulu intan daripada jawi.</li>
+<li>Dulu intan, sekarang jadi batu buatan.</li>
+<li>Dulu parang, sekarang besi.</li>
+<li>Dulu permata intan, sekarang batu Belanda.</li>
+<li>Dulu rampak rimbun daun, kini 'lah sangat merarasi. (raras = gugur, luruh).</li>
+<li>Dulu sorak, kemudian tohok. (tohok = campak buang yang diberi bertali).</li>
+<li>Dulu timah, sekarang besi.</li>
+<li>Dulukan yang dulu merasa garam.</li>
+<li>Dunia diadang, saku-saku dijahit.</li>
+<li>Duri di hutan siapa pertajam.</li>
+<li>Durian dengan mentimun, menggolek rusak, kena golek binasa.</li>
+<li>Durian seambung dengan timun.</li>
+<li>Ekor anjing berapa pun dilurut (akan dia) tiada juga betul.</li>
+<li>Elang terbang mengawan, agas hendak mengawan juga.</li>
+<li>Elok arak di hari panas.</li>
+<li>Elok basa 'kan bekal hidup, elok budi bekal mati. (basa = tegur sapa.)</li>
+<li>Elok buruk dan busuk hanyir.</li>
+<li>Elok kata dalam muafakat, buruk kata di luar muafakat.</li>
+<li>Elok lenggang di tempat datar.</li>
+<li>Elok palut pengebat kurang. (palut = balut, bungkus; kebat = ikat.)</li>
+<li>Emas berpeti, kerbau berkandang.</li>
+<li>Embacang buruk kulit.</li>
+<li>Embun di hujung rumput.</li>
+<li>Empang sampai ke seberang, dinding sampai ke langit. (empang = bendungan.)</li>
+<li>Empat gasal, lima genap; dikendur berdentang-dentang, ditegang berjela-jela. (gasal = ganjil.)</li>
+<li>Empat sudah bersimpul satu.</li>
+<li>Enak lauk dikunyah-kunyah, enak kata diulang-ulang.</li>
+<li>Enau mencari (= memanjat) sigai.</li>
+<li>Enau sebatang dua sigainya.</li>
+<li>Enggan seribu daya, mau sepatah kata.</li>
+<li>Enggang apa kepada enggang; orang apa kepada orang.</li>
+<li>Enggang lalu atal jatuh, anak raja (mati) ditimpanya. (atal = buah kayu makanan Enggang.)</li>
+<li>Enggang lalu ranting patah.</li>
+<li>Engkau belum mencapai pengayuh, aku telah sampai seberang.</li>
+<li>Entak sedegam, langkah sepijak.</li>
+<li>Entimun bongkok.</li>
+<li>Esa hilang, dua terbilang.</li>
+<li>Fikir itu Pelita hati.</li>
+<li>Gabak di hulu tanda akan hujan, ceuang di langit tanda akan panas.</li>
+<li>Gadai terdorong ke (pada) Cina.</li>
+<li>Gadai terdorong ke pajak, sehari sebulan juga.</li>
+<li>Gading pada gajah yang sudah keluar itu bolehkah dimasukkan pula?</li>
+<li>Gagak bersuara murai.</li>
+<li>Gagak dimandikan tujuh kali sehari pun, takkan putih bulunya.</li>
+<li>Gagak lalu punggur rebah.</li>
+<li>Gaharu dibakar kemenyan berbau.</li>
+<li>Gajah berak besar, kancil (= pelanduk) pun hendak berak besar, akhirnya mati kebebangan.</li>
+<li>Gajah bergajah-gajah, pelanduk mati tersepit.</li>
+<li>Gajah berhati, kuman pun berhati juga.</li>
+<li>Gajah berjuang sama gajah, pelanduk (= kancil) mati di tengah-tengah.</li>
+<li>Gajah dialahkan oleh pelanduk.</li>
+<li>Gajah dipandang seperti kuman.</li>
+<li>Gajah ditelan ular lidi.</li>
+<li>Gajah empat kaki lagi tersaruk.</li>
+<li>Gajah harimau di hutan hendak diburu, pijat-pijat di bantal tak dapat dihapuskan. (tersaruk = tersandung.)</li>
+<li>Gajah hendak berak besar, kita pun hendak berak besar juga.</li>
+<li>Gajah lalu dibeli, kusa tidak terbeli. (kusa = besi penghalau gajah.)</li>
+<li>Gajah lalu kumpai layu. (kumpai = sejenis rumput layu.)</li>
+<li>Gajah masuk kampung, kalau kayu (= pohon) tak tumbang, rumput layu juga.</li>
+<li>Gajah mati dicatuk katak.</li>
+<li>Gajah mati karena gadingnya.</li>
+<li>Gajah mati meninggalkan tulang, harimau mati meninggalkan belang, manusia mati meninggalkan nama.</li>
+<li>Gajah mati, tulang setimbun.</li>
+<li>Gajah memamah aris, baik diikat kera kecil yang memakan buah kayu. (aris = getah kayu yang sudah beku.)</li>
+<li>Gajah pengangkut lada, kuda pelejang bukit. (lejang = melompat serta lari.)</li>
+<li>Gajah rompong belalai.</li>
+<li>Gajah sama gajah berjuang, pelanduk mati di tengah-tengah.</li>
+<li>Gajah seekor gembala dua.</li>
+<li>Gajah terdorong karena gadingnya, harimau terlompat karena belangnya.</li>
+<li>Gajah terum di tengah rumah.</li>
+<li>Galas habis senggulung tandas, lamun dihitung rugi juga.</li>
+<li>Galas terdorong kepada Cina.</li>
+<li>Gali lubang menutup lubang.</li>
+<li>Gamak-gamak seperti menyambal.</li>
+<li>Ganti hidup berkeredaan, ganti mati berkebulatan.</li>
+<li>Gantung tak bertali, salai tak berapi.</li>
+<li>Gar-gar, kata gelegar, rasuk juga yang menahannya.</li>
+<li>Garam di laut, asam di gunung, bertemu dalam belanga juga.</li>
+<li>Garam dikulum tak hancur.</li>
+<li>Garam jatuh di air.</li>
+<li>Garam tumpah apakah (= pada) tempatnya?</li>
+<li>Garuda diburu layang-layang yang dapat.</li>
+<li>Gaya saja, rasanya wallah.</li>
+<li>Gayung bersambut, kata berjawab.</li>
+<li>Gayung tua, gayung memutus.</li>
+<li>Gedang gerundang di kubangan, gedang ikan raya di lautan.</li>
+<li>Gedang kayu, gedang dahannya.</li>
+<li>Gedang sebagai dilambuk-lambuk, tinggi sebagai dijunjung.</li>
+<li>Gelang di tangan orang yang hendak dirampas tidak dapat, cincin di jari sendiri terlucut hilang.</li>
+<li>Gelang tidak laga sebentuk, laga keduanya.</li>
+<li>Geleng seperti si patung kenyang.</li>
+<li>Gemuk membuang lemak, cerdik membuang kawan.</li>
+<li>Geneng di tengah lebuh, tahan galah bersijingkat; geneng di tengah medan (gelanggang), tahan taruh di ayam kuyu.(geneng = gagah.)</li>
+<li>Genggam bara api biar sampai jadi arang.</li>
+<li>Genggam-genggam bara, terasa hangat dilepaskan.</li>
+<li>Genta saja yang berbunyi, kuda sudah dek gerindin. gerindin = kena sejenis penyakit yang biasa menyerang kuda, badannya gementar macam kedinginan.)</li>
+<li>Genting menanti putus, biang menanti tembuk.</li>
+<li>Genting putus, biang tembuk.</li>
+<li>Geruh luka ajal mati.</li>
+<li>Geruh menempuh dalam tubuh.</li>
+<li>Geruh tak berbunyi, malang tak berbau.</li>
+<li>Geruh tak mencium bau.</li>
+<li>Getah meleleh ke pangkal, daun melayang jauh.</li>
+<li>Getah terbangkit (= diangkat) kuaran tiba.</li>
+<li>Getikkan puru di bibir. (getik = menggetil.)</li>
+<li>Getu sementara lagi bintik.</li>
+<li>Gigi dengan lidah ada kalanya bergigit juga.</li>
+<li>Gigi tanggal, rawan murah.</li>
+<li>Gigi telah gugur, tebu pun menjadi.</li>
+<li>Gila di abun-abun. (abun-abun = angan-angan.)</li>
+<li>Gombak gemilang kutu banyak, bibir hitam gigi kotor.</li>
+<li>Gulai sedap nasi mentah, nasi sedap gulai mentah.</li>
+<li>Gulai terlampau serai maung rasanya.</li>
+<li>Guna-guna alu, sesudah menumbuk dicampakkan.</li>
+<li>Gundahkan buah dimakan burung.</li>
+<li>Gunung juga yang dilejang panas.</li>
+<li>Gunung yang tinggi akan runtuh, jika setiap hari digali.</li>
+<li>Guru kencing berdiri, murid kencing berlari.</li>
+<li>Habis adat karena kerelaan.</li>
+<li>Habis air setelaga, arang dibasuh tak putih.</li>
+<li>Habis akal baru tawakal.</li>
+<li>Habis beralur maka beralu-alu. (beralur = berunding).</li>
+<li>Habis cupak dari pelelehan.</li>
+<li>Habis geli oleh geletek, habis rasa (= bisa) oleh biasa.</li>
+<li>Habis hulubalang bersiak. (siak = orang yang hidup miskin karena Allah).</li>
+<li>Habis kapak berganti beliung.</li>
+<li>Habis kuman disembelih hendak memberi makan gajah.</li>
+<li>Habis manis sepah dibuang.</li>
+<li>Habis miang karena bergeser.</li>
+<li>Habis minyak sepasu, ekor anjing diurut tiada akan lurus.</li>
+<li>Habis sampan kerong-kerong tak dapat</li>
+<li>Habis tenggang dan (= dengan) kelakar.</li>
+<li>Habis umpan kerong-kerong tak dapat.</li>
+<li>Hancur badan dikandung tanah, budi baik terkenang juga.</li>
+<li>Hang tak kurang sanggul, aku tak kurang tengkolok.</li>
+<li>Hangat tiada berapi, sejuk tiada berair.</li>
+<li>Hangat-hangat tahi (= cirit) ayam.</li>
+<li>Hanya air dingin yang dapat memadamkan api.</li>
+<li>Hanyut dipintasi, lulus diselami, hilang dicari.</li>
+<li>Harap hati hendak peluk gunung, apa akal (= daya) tangan tak sampai.</li>
+<li>Harap hendak melonjak, kopiah pesuk.</li>
+<li>Harap hendak meraup, tidak boleh menggenggam. (meraup = mencedok dengan tangan).</li>
+<li>Harap ke mulut besar cakap, kerja suatu tak boleh cekap.</li>
+<li>Harap lenggang serdadu, destar teleng, belanja kurang.</li>
+<li>Harapkan anak, buta mata sebelah; harapkan teman, buta keduanya.</li>
+<li>Harapkan burung terbang tinggi, punai di tangan dilepaskan.</li>
+<li>Harapkan guruh (= guntur) di langit, air tempayan ditumpahkan.</li>
+<li>Harapkan kuning kuah kambeh, cangkuk terubuk ditinggalkan.</li>
+<li>Harapkan si untung menggamit, kain di badan didedahkan.</li>
+<li>Harapkan si untut menggamit, kain koyak diupahkan.</li>
+<li>Hari baik (= pagi) dibuang-buang, hari buruk (= petang) dikejar-kejar.</li>
+<li>Hari guruh takkan hujan.</li>
+<li>Hari ini patutlah redup (= panas keras).</li>
+<li>Hari ini sedang panas panjang, kacang telah lupakan kulitnya.</li>
+<li>Hari ini terlebih baik daripada besok.</li>
+<li>Hari tak selamanya panas.</li>
+<li>Hari tidak siang saja.</li>
+<li>Harimau bertempek tak (kan) makan orang.</li>
+<li>Harimau ditakuti sebab giginya.</li>
+<li>Harimau hendak menghilangkan jejaknya.</li>
+<li>Harimau mati karena belangnya.</li>
+<li>Harimau mati meninggalkan belang, gajah mati meninggalkan daging, manusia mati meninggalkan nama.</li>
+<li>Harimau memperlihatkan kukunya.</li>
+<li>Harimau mengaum takkan menangkap.</li>
+<li>Harimau menunjukkan belangnya.</li>
+<li>Harimau menyorokkan kuku.</li>
+<li>Harimau puntung kena penjara, pelanduk kecil menolakkan mara.</li>
+<li>Harimau tidak merendahkan dirinya untuk menangkap cicak sebagai mangsanya.</li>
+<li>Harta orang hendak digalas.</li>
+<li>Harta orang hendak dikebas.</li>
+<li>Harta pulang ke tuan (= empunya).</li>
+<li>Harum menghilangkan bau.</li>
+<li>Harum semerbak mengandung mala. (mala = air bangkai yang telah busuk).</li>
+<li>Haruslah air disauk, dan ranting dipatah; lama hidup banyak merasa, jauh berjalan banyak dilihat.</li>
+<li>Hati bagai baling-baling.</li>
+<li>Hati bagai pelepah, jantung bagai jantung pisang.</li>
+<li>Hati bak serangkak dibungkus.</li>
+<li>Hati gajah sama dilapah, hati kuman (= tuma) sama dicecah.</li>
+<li>Hati gatal mata digaruk.</li>
+<li>Hati hendak semua jadi.</li>
+<li>Hati orang yang bodoh itu di mulutnya, dan lidah orang yang cerdik itu di belakang hatinya.</li>
+<li>Hati yang ringan meringankan beban yang berat.</li>
+<li>Hati yang suka peringan beban.</li>
+<li>Hawa pantang kerendahan, nafsu pantang kekurangan.</li>
+<li>Hemat pangkal kaya, sia-sia hutang tambah.</li>
+<li>Hempas tulang berisi perut.</li>
+<li>Hempas tulang tak berbalas jasa.</li>
+<li>Hendak air pancuran terbit.</li>
+<li>Hendak belajar berenang dapatkan itik, hendak belajar memanjat dapatkan tupai.</li>
+<li>Hendak bersunting bunga mala.</li>
+<li>Hendak bersunting bunga yang belum diseri kumbang.</li>
+<li>Hendak bertanduk kepala dipahat.</li>
+<li>Hendak dimasukkan ke dalam sumpit tak maut; ke dalam keranjang longgar.</li>
+<li>Hendak ditelan termengkelan, hendak diludah tiada keluar.</li>
+<li>Hendak harum terlalu hangit.</li>
+<li>Hendak hinggap tiada berkaki.</li>
+<li>Hendak kaya berdikit-dikit, hendak tuah (= mulia) bertabur urai, hendak berani berlawan ramai.</li>
+<li>Hendak kerja golok Keling, hendak makan parang punting.</li>
+<li>Hendak mara bedil bertinak, hendak undur gelar telah besar.</li>
+<li>Hendak masak langsung hangus.</li>
+<li>Hendak melangkah kaki pendek, hendak mencapai tangan tak sampai.</li>
+<li>Hendak meluruskan ekor anjing.</li>
+<li>Hendak memadam api tengah menyala, disiramkan minyak pula ke atasnya.</li>
+<li>Hendak memikat balam, balam jugalah penunggunya.</li>
+<li>Hendak menangguk ikan, tertangguk akan batang.</li>
+<li>Hendak mendapat pisang terkupas.</li>
+<li>Hendak menebang merebahkan, hendak mencencang memutuskan.</li>
+<li>Hendak mengayuhkan perahu tertambat.</li>
+<li>Hendak mengepal pasir kering.</li>
+<li>Hendak menggaruk tidak berkuku.</li>
+<li>Hendak panjang terlalu, patah.</li>
+<li>Hendak pergi berotan jangan takut onaknya.</li>
+<li>Hendak seribu daya, tak hendak seribu upaya.</li>
+<li>Hendak singa di tengah padang lagi, daripada ular di dalam rumput.</li>
+<li>Hendak sombong berbini banyak, hendak megah berlawan lebih.</li>
+<li>Hendak terbang tiada bersayap.</li>
+<li>Hendak tinggi terlalu, jatuh.</li>
+<li>Hendak ucok (= damai) dilawan damai, hendak perang giling peluru.</li>
+<li>Hendak ulam, pucuk menjulai.</li>
+<li>Hendak untung menjadi buntung.</li>
+<li>Hendak(nya) saja yang besar, masuknya tak (se)berapa.</li>
+<li>Hendakkan halus, genting; genting putus sudahnya.</li>
+<li>Hendaklah seperti tembikar, pecah satu pecah semuanya.</li>
+<li>Hidung dicium, pipi digigit.</li>
+<li>Hidung sudah rampung diatur orang.</li>
+<li>Hidung tak mancung, pipi tersorong-sorong.</li>
+<li>Hidup di hujung gurun orang.</li>
+<li>Hidup dikandung adat, mati dikandung tanah.</li>
+<li>Hidup dua muara.</li>
+<li>Hidup kayu berbuah, hidup manusia biar berjasa (= berfaedah).</li>
+<li>Hidup sandar-menyandar umpama aur dengan tebing.</li>
+<li>Hidup segan mati tak mau (= embuh).</li>
+<li>Hidup tidak karena doa, mati tidak karena sumpah.</li>
+<li>Hilang adat tegal muafakat.</li>
+<li>Hilang bahasa lenyap bangsa.</li>
+<li>Hilang bini boleh dicari, hilang budi badan celaka.</li>
+<li>Hilang di mata di hati jangan.</li>
+<li>Hilang dicari, terapung digenangi, terbenam diselami.</li>
+<li>Hilang ikan dalam kerabu. (kerabu = sejenis makanan.)</li>
+<li>Hilang jasa beliung, timbul jasa rimbas. (rimbas = perkakas untuk penarah kayu.)</li>
+<li>Hilang kabus, teduh hujan.</li>
+<li>Hilang kemarau setahun oleh hujan sehari.</li>
+<li>Hilang kepala kura-kura ditelan oleh dadanya.</li>
+<li>Hilang kilat dalam kilau.</li>
+<li>Hilang pelanduk berganti kijang emas.</li>
+<li>Hilang penjahit berkerbau-kerbau.</li>
+<li>Hilang rona karena penyakit, hilang bangsa tidak beruang.</li>
+<li>Hilang sepuh nampak senam. (sepuh = sadur; senam = warna yang asal.)</li>
+<li>Hilang tak tentu rimbanya.</li>
+<li>Hilang tapak tukul, timbul tapak canai. (tukul = pemukul kecil; canai = asah.)</li>
+<li>Hilang tentu rimbanya, mati tentu kuburnya.</li>
+<li>Hilang tukul hilanglah pahat.</li>
+<li>Hilir malam mudik tak singgah, daun nipah dikatakan daun labu.</li>
+<li>Hinggap bak langau, titik bak hujan.</li>
+<li>Hinggap mencengkam (dahan), terbang menumpu (dahan).</li>
+<li>Hinggap saja bagai langau.</li>
+<li>Hinggap seperti benalu. (benalu = pasilan.)</li>
+<li>Hitam bagai buntut (= pantat) belanga.</li>
+<li>Hitam dikatakan putih, putih dikatakan hitam.</li>
+<li>Hitam gagak tiada siapa yang mencelupnya.</li>
+<li>Hitam mata itu takkan boleh bercerai dengan putihnya.</li>
+<li>Hitam tahan tempa, putih tahan sesah.</li>
+<li>Hitam-hitam bendi, putih-putih sadah. (bendi = kereta kuda; sadah = kapur.)</li>
+<li>Hitam-hitam gajah, putih-putih udang kepai.(udang kepai = udang kecil untuk dibuat belacan.)</li>
+<li>Hitam-hitam gula Jawa.</li>
+<li>Hitam-hitam kereta api, putih-putih kapur sirih.</li>
+<li>Hitam-hitam tahi minyak dimakan juga, putih-putih hampas kelapa dibuang.</li>
+<li>Hujan berbalik ke langit.</li>
+<li>Hujan berpohon, panas berasal.</li>
+<li>Hujan emas di negeri orang, hujan batu (= keris lembing) di negeri sendiri, baik juga di negeri sendiri.</li>
+<li>Hujan emas perak di negeri orang; hujan keris lembing di negeri kita; baik juga di negeri kita.</li>
+<li>Hujan jatuh ke pasir.</li>
+<li>hujan keris lembing di negeri kita, hujan emas perak di negeri orang; baik juga di negeri kita.</li>
+<li>Hujan menimpa bumi.</li>
+<li>Hujan panas permainan hari, senang susah permainan hidup.</li>
+<li>hujan tak sekali jatuh, simpai tak sekali erat.</li>
+<li>Hujan, tempat berteduh; panas, tempat berlindung.</li>
+<li>Hujung lurus, pangkal berkait.</li>
+<li>Hukum berdiri dengan sakti, adat berdiri dengan tanda.</li>
+<li>Hukum yang rata, adat yang datar.</li>
+<li>Hulu malang pangkal celaka.</li>
+<li>Hulu mujur pandai bertengkar, hulu baik pandai memakai. (hulu mujur = pangkat untung.)</li>
+<li>Hutang (= pinjam) kayu ara.</li>
+<li>Hutang biduk belum langsai, Hutang pengayuh datang pula.</li>
+<li>Hutang emas dapat (= boleh) dibayar, Hutang budi dibawa mati.</li>
+<li>Hutang samir belum selesai, hutang kajang tumbuh pula.(kajang =benda yang dianyam daripada daun nipah (buluh, mengkuang, dll) digunakan untuk atap atau pelindung daripada panas</li>
+<li>Hutang sebelit (selilit) pinggang.</li>
+<li>Hutang tembilang belum langsai, Hutang tajak bila pula.</li>
+<li>Hutang tiap helai bulu.</li>
+<li>Iba akan kacang sebuah, tak jadi memengat.</li>
+<li>Ibarat ayam: tiada mengais tiada makan.</li>
+<li>Ibarat beban sudah ke tepi.</li>
+<li>Ibarat beban, belum lepas daripada bahu</li>
+<li>Ibarat bunga: sedap dipakai layu dibuang.</li>
+<li>Ibarat burung: mata lepas badan terkurung.</li>
+<li>Ibarat burung: mulut manis jangan dipakai.</li>
+<li>Ibarat dawat (dakwat) dengan kertas: bila boleh renggang terlepas.</li>
+<li>Ibarat gasing: berpaku tetap berpusing, tak berpaku merayau.</li>
+<li>Ibarat kutu, boleh diselisik. (selisik = diraba-raba dengan jari di dalam rambut.)</li>
+<li>Ibarat negeri berubah rasam; ibarat tahun berubah musim.</li>
+<li>Ibarat pasir: sekali air dalam sekali berubah.</li>
+<li>Ibarat perahu takkan karam sebelah.</li>
+<li>Ibarat rumput yang sudah kering, ditimpa hujan segar kembali.</li>
+<li>Ijuk sebelembang, tali di situ keluan di situ.(sebelembang = seberkas.)</li>
+<li>Ijuk tak bersagar, lurah tak berbatu</li>
+<li>Ikan biar dapat, serampang jangan pukah.</li>
+<li>Ikan dalam keroncong.(keroncong = bilik-bilik bubu sebelah dalam.)</li>
+<li>Ikan di hulu tuba di hilir.</li>
+<li>Ikan di kuali, habis melompat.</li>
+<li>Ikan digulai sudah melompat.</li>
+<li>Ikan lagi di laut, lada garam sudah di sengkalan.</li>
+<li>Ikan pulang ke lubuk.</li>
+<li>Ikan seekor rusakkan ikan setajau.(tajau = tempayan besar dibuat daripada tanah berlapis sejenis porcelain.)</li>
+<li>Ikan sekambu rusak oleh ikan seekor.</li>
+<li>Ikan tergantung, kucing tunggu.</li>
+<li>Ikan terkilat (= terkilap) jala tiba.</li>
+<li>Ikan yang di dalam lautan yang besar-besar sekalipun, termasuk juga ke dalam pukat.</li>
+<li>Ikannya belum dapat, airnya sudah keruh.</li>
+<li>Ikat boleh diubah, takuk bagaimana mengubahnya? (takuk = luka pada pohon, misalnya pada pohon kelapa tempat berpijak naik ke atas.)</li>
+<li>Ikhtiar menjalani, untung menyudahi.</li>
+<li>Ikut hakim memiat daging: sakit di awak sakitlah orang.(memiat (piat) = memiuh ke kiri ke kanan.)</li>
+<li>Ikut hati mati, ikut rasa binasa, ikut mata leta.</li>
+<li>Ilmu padi, makin berisi makin runduk.</li>
+<li>Inai tertepung, kuku tanggal.</li>
+<li>Indah kabar daripada rupa.</li>
+<li>Ingat ranting yang akan melenting, dahan yang akan mencocok, duri yang akan mengait.</li>
+<li>Ingat sebelum kena, jimat (= hemat) sebelum habis.</li>
+<li>Ingat-ingat yang di atas, yang di bawah akan menimpa.</li>
+<li>Ingin di buah manggis hutan, masak ranum tergantung tinggi.</li>
+<li>Ingin hati memandang (= melihat) pulau, sampan ada pengayuh tidak.</li>
+<li>Ini hari orang, besok hari kita.</li>
+<li>Intan berlian jangan dipijakkan.</li>
+<li>Intan dikalungkan di leher anjing.</li>
+<li>Intan disangkakan batu kelikir.</li>
+<li>Intan itu jika terbenam di pelimbahan sekalipun, tiada akan hilang cahayanya.</li>
+<li>Intan salah serudinya. (serudi = canai.)</li>
+<li>Isi dada bekal berjalan.</li>
+<li>Isi lemak dapat ke orang, tulang bulu pulang ke kita.</li>
+<li>Itik berenang dalam air (= di laut) mati kehausan.</li>
+<li>Itik bertaji.</li>
+<li>Itik diajar berenang.</li>
+<li>Itik dimandikan takkan basah.</li>
+<li>Itik mendapat air.</li>
+<li>Itik tak sudu, ayam tak patuk.</li>
+<li>Jadi air mandi.</li>
+<li>Jadi alas cakap.</li>
+<li>Jadi bapa kuda.</li>
+<li>Jadi bumi langit.</li>
+<li>Jadi dinding lasak peti manian.</li>
+<li>Jadi kuda beban.</li>
+<li>Jadi penghubung hujung lidah (= mulut).</li>
+<li>Jadi penghubung kaki tangan.</li>
+<li>Jadi penghubung mata telinga.</li>
+<li>Jadi teluk ulakan air.</li>
+<li>Jahit sudah, kelindan putus. (kelindan = benang pada jarum.)</li>
+<li>Jalan di tepi-tepi, benang arang orang jangan dipijak.</li>
+<li>Jalan diasak orang lalu, cupak dipepat orang menggalas. (diasak = dipindahkan; orang lalu = peladang; pepat = rata, dipangkas.)</li>
+<li>Jalan mati lagi dicuba, inikan pula jalan binasa.</li>
+<li>Jalan raya titian batu.</li>
+<li>Jambatan emas.</li>
+<li>Janda belum berlaki.</li>
+<li>Janda berhias.</li>
+<li>Jangan bagai babi merasa gulai.</li>
+<li>Jangan bagai orang berjudi: menang mua, alah hendak berbela.</li>
+<li>Jangan bagai orang patah selera, banyak makan.(patah selera = tak bernafsu makan.)</li>
+<li>Jangan bawa resmi jagung: makin berisi makin jegang (= tegak).</li>
+<li>Jangan bercermin di air keruh.</li>
+<li>Jangan berebutkan tembikar pecah.</li>
+<li>Jangan berkemudi di haluan.</li>
+<li>Jangan bersandar di batang rengas.</li>
+<li>Jangan bersandar di punggur.</li>
+<li>Jangan bijak terpijak, biarlah bodoh bersuluh.</li>
+<li>Jangan buat kerbau tanduk panjang.</li>
+<li>Jangan diajar anak harimau makan daging.</li>
+<li>Jangan diajar orang tua makan dadih.</li>
+<li>Jangan diajar orang tua makan kerak.</li>
+<li>Jangan dicatuk dengan yang tajam, dicencang dengan yang majal.</li>
+<li>Jangan difikirkan air pasang saja.</li>
+<li>Jangan difikirkan bengkok tebu itu bengkok pula manisnya.</li>
+<li>Jangan difikirkan kalau tebu itu bengkok, manisnya itu pun bengkok juga.</li>
+<li>Jangan diperlelarkan timba ke perigi, kalau tak putus genting.</li>
+<li>Jangan disangkakan ikan lais-lais tiada menyengat.</li>
+<li>Jangan ditentang matahari condong, takut terturut jalan tak berintis.</li>
+<li>Jangan kamu sangka: kapal api besi itu pun masuk guri juga. (guri = sejenis buyung.)</li>
+<li>Jangan meludah ke langit.</li>
+<li>Jangan memanah ke langit.</li>
+<li>Jangan memangku ayam jantan, baik memangku ayam betina.</li>
+<li>Jangan memberi bunga kepada monyet.</li>
+<li>Jangan membuat baik, memberi itik bertaji; membuat jahat, sampai ayam dikerat susuhnya.</li>
+<li>Jangan menggegai sempada di bawah batang.</li>
+<li>Jangan menggerak ular tidur.</li>
+<li>Jangan menghulurkan hulu keris ke tangan orang.</li>
+<li>Jangan menjadi seperti kacang lupakan kulit atau ulat lupakan daun.(menggegai = mengusik; sempada = ketam.)</li>
+<li>Jangan menumbuk di periuk, bertanak di lesung.</li>
+<li>Jangan menyuruh kapak menyelam beliung.</li>
+<li>Jangan merempuh sarang lebah.</li>
+<li>Jangan puntung berasap jua.</li>
+<li>Jangan sampai sesat barat: sepuluh kali diukur, sekali dikerat.</li>
+<li>Jangan sangat pemilih, takut terkena buku buluh (kelak).</li>
+<li>Jangan seperti si buta mematah tongkat.</li>
+<li>Jangan sudah terperosok, baru hendak membaiki lantai.</li>
+<li>Jangan tercirit di periuk.</li>
+<li>Jangat liat kurang panggang.</li>
+<li>Janji sampai, sukatan penuh.</li>
+<li>Janjian antah tidak ceruh.</li>
+<li>Jaras dikatakan raga jarang. (jaras = raga yang jarang anyamannya.)</li>
+<li>Jaras katanya raga jarang.</li>
+<li>Jari kudung dimasukkan cincin.</li>
+<li>Jaring berbangkit kuaran tiba.</li>
+<li>Jarum halus kelindan sutera.</li>
+<li>Jatuh berjolok.</li>
+<li>Jatuh berkait.</li>
+<li>Jatuh di atas tilam.</li>
+<li>Jatuh dihimpit tangga.</li>
+<li>Jatuh tidak berkait (= berjolok).</li>
+<li>Jauh bau bunga, dekat bau tahi (= kencing).</li>
+<li>Jauh berjalan banyak pemandangan, lama hidup banyak dirasa.</li>
+<li>Jauh boleh ditunjukkan, dekat boleh dikakukkan.</li>
+<li>Jauh dari mata jauhlah dari hati.</li>
+<li>Jauh di mata, dekat di hati.</li>
+<li>Jauh menyalak kuat, dekat mencawat ekor.</li>
+<li>Jauh panggang dari api.</li>
+<li>Jauhari juga yang mengenal manikam.</li>
+<li>Jejak dapat dihilangkan, belang bagaimana hendak dihilangkan?</li>
+<li>Jejak selut kaki terbenam.(selut = lumpur.)</li>
+<li>Jejaknya keruh.</li>
+<li>Jelatang di hulu air.</li>
+<li>Jemur terkekar ayam tiba.</li>
+<li>Jenguk pandang tindai-tindai; usul-usul, asal-asal, jangan ditinggalkan.</li>
+<li>Jerat halus kelindan sutera.</li>
+<li>Jerat semata bunda kandung.</li>
+<li>Jerat serupa jerami.</li>
+<li>Jerat tiada lupa akan balam, tetapi balam lupa akan jerat. (balam = burung tekukur.)</li>
+<li>Jerih menentang boleh, rugi menentang laba.</li>
+<li>Jika ada padi berhampalah; jika ada hati berasalah.</li>
+<li>Jika ada padi, tentu ada hampanya; jika ada hati tentu terasa.</li>
+<li>Jika baik ada cacatnya.</li>
+<li>Jika berjumbai tempat bergantung.</li>
+<li>Jika berpuluh-puluh kali batang beralih(= bertindih), Cacing di bawah juga.</li>
+<li>Jika bunga tak hendak dipersunting, boleh dibuat peraksi kain. (raksi = bau-bauan yang harum; peraksi = bunga-bungaan dan sebagainya untuk mengharumkan.)</li>
+<li>Jika cerdik teman berunding, jika bodoh disuruh diarah.</li>
+<li>Jika diturut hati yang geram, hilang takut timbul berani.</li>
+<li>Jika hati tak suka, madu diminum serasa cuka.</li>
+<li>Jika hendak bertanam sayur buangkanlah rumput.</li>
+<li>Jika kepalanya ular, takkan ekornya belut.</li>
+<li>Jika kerbau dipegang orang talinya, jika manusia dipegang mulutnya.</li>
+<li>Jika memelihara ayam, musang jangan dijinakkan; setidak-tidaknya bertempiaran kelak.</li>
+<li>Jika menebang menuju pangkal, jika melanting menuju tangkai.</li>
+<li>Jika pandai menggunting, hendaklah pandai menjahitnya.</li>
+<li>Jika salah sebatang dicabut, salah serumpun dibongkar, salah separuh dirambah. . (rambah = membabat, menebangi.)</li>
+<li>Jika sengaja hendak bercekak pinggang, tinggallah rebana beralih ke gelanggang; tak tahu pipit tak tahu enggang, yang rapat kelak menjadi renggang.</li>
+<li>Jika tak kena-kena membangkit balak terendam di lumpur, makin dalam ia terbenam.</li>
+<li>Jika tak lalu dandang di air, di gurun dirangkakkan (= ditanjakkan). (dandang = sejenis perahu; tanjakan = pendakian.)</li>
+<li>Jika terjamah benda bertuan, alamat nyawa akan melayang.</li>
+<li>Jika tiada tersapu arang di muka, baiklah mati daripada hidup.</li>
+<li>Jika tidak dipecah ruyung, di mana boleh mendapat sagu.</li>
+<li>Jika yang baik diperbuat bersilang cerana datang, jika yang buruk diperbuat bersilang telunjuk bibir.</li>
+<li>Jikalau beranak ikut kata bidan.</li>
+<li>Jikalau di hulu airnya keruh, tak dapat tidak di hilirnya keruh juga.</li>
+<li>Jikalau intan itu biar keluar dari mulut anjing sekalipun, bernama intan juga.</li>
+<li>Jikalau karena sebuah dusun maka binasa negeri, haruslah dusun itu dibuangkan.</li>
+<li>Jikalau kasihkan padi, buanglah rumput.</li>
+<li>Jikalau kita duduk di atas ciau emas sekalipun, namun hati tiada senang juga.</li>
+<li>Jikalau menampi jangan tumpah padinya.</li>
+<li>Jikalau tiada dapat dibaiki, jangan pula dipecahkan.</li>
+<li>Jikalau tiada rial di pinggang, saudara yang rapat menjadi renggang.</li>
+<li>Jikalau tidak berada-ada (= ada berada-ada, ada mengada), masakan tempua bersarang rendah.</li>
+<li>Jikalau ular menyusur akar, tiada hilang bisanya.</li>
+<li>Jirus bagai bulan akan habis.</li>
+<li>Jiwa bergantung di hujung rambut.</li>
+<li>Juadah sudah dijilat cicak.</li>
+<li>Jual sutera beli mastuli.</li>
+<li>Jung pecah, yu yang kenyang.</li>
+<li>kabar jauh dengar-dengarkan, kabar dekat fikir-fikirkan.</li>
+<li>Kaduk kena baja.</li>
+<li>Kaduk naik junjung.</li>
+<li>Kain basah kering di pinggang.</li>
+<li>Kain dalam acar dikutip dicuci, hendak masuk ke longkang juga.</li>
+<li>Kain dalam lipatan.</li>
+<li>Kain dibakar tiada berbau.</li>
+<li>Kain ditangkap maka duduk.</li>
+<li>Kain jadi basahan.</li>
+<li>Kain kasah di atas duri. (kasah (kasa) = kain putih yang halus).</li>
+<li>Kain lama dicampak buang, kain baru pula dicari.</li>
+<li>Kain panjang empat, ditarik ke atas ke bawah tak sampai.</li>
+<li>Kain pendinding miang, uang pendinding malu.</li>
+<li>Kain rabak tegal dek lenggang awak, baju rabik tegal dek lenggok awak, kopiah pesuk tegal dek lonjak awak.</li>
+<li>Kain sehelai berganti-ganti.</li>
+<li>Kain sehelai peminggang habis. (peminggang = lambung perahu).</li>
+<li>Kain sehelai sepinggang habis.</li>
+<li>Kain tak bertepi.</li>
+<li>Kain tersangkut kain tinggal.</li>
+<li>Kais pagi makan pagi, kais petang makan petang.</li>
+<li>Kaki naik, kepala turun.</li>
+<li>Kaki pekuk lenggang ke perut. (pekuk = bengkok).</li>
+<li>Kaki sudah terlangkahkan, tangan sudah terjembakan.</li>
+<li>Kaki terdorong badan merasa; lidah terdorong emas padahnya.</li>
+<li>Kaki tertarung inai padahannya, mulut terdorong emas padahannya.</li>
+<li>Kaki untut dipakaikan gelang.</li>
+<li>Kalah jadi abu, menang jadi arang.</li>
+<li>Kalau ada asap, tentu ada api.</li>
+<li>Kalau ada beremas, hidup; tiada beremas, mati.</li>
+<li>Kalau alang-kepalang biarlah jangan.</li>
+<li>Kalau anjing biasa makan tahi, tak makan hidu ada juga.</li>
+<li>Kalau asal benih yang baik, jatuh ke laut menjadi pulau.</li>
+<li>Kalau baik buat tauladan (teladan), kalau tak baik buat sempadan.</li>
+<li>Kalau baik disebut orang; kalau jahat, jahatlah.</li>
+<li>Kalau bangkai galikan kuburnya, kalau hidup sediakan buaiannya.</li>
+<li>Kalau bersahabat cari sama babat. (babat = pasang, suku, golongan).</li>
+<li>Kalau bertangkai boleh dijinjingkan.</li>
+<li>Kalau bertunas diganggut kambing. (ganggut = ragut, renggut).</li>
+<li>Kalau boros lekas kerugian.</li>
+<li>Kalau bukan rezeki, di mulut lari ke luar.</li>
+<li>Kalau bunga bukan (= tidak) sekuntum.</li>
+<li>Kalau di bawah melompat, kalau di atas menyusup.</li>
+<li>Kalau dibalun sebalun kuku, kalau digumpal segumpal tanah.</li>
+<li>Kalau dicampak bunga takkan dibalas tahi.</li>
+<li>Kalau digali tanah berbingkah, tanah berderai yang akan bertemu.</li>
+<li>Kalau dipanggil dia menyahut, bila dilihat dia bersuara.</li>
+<li>Kalau dipujuk makin menyebal, kalau dimarah baru tertawa.</li>
+<li>Kalau gajah hendaklah dipandang gadingnya, kalau harimau hendaklah dipandang belangnya.</li>
+<li>Kalau getah meleleh, kalau daun melayang.</li>
+<li>Kalau guru makan berdiri, maka muridnya makan berlari.</li>
+<li>Kalau ibu kaya anak jadi puteri, kalau anak kaya ibu jadi budak.</li>
+<li>Kalau kail panjang sejengkal, jangan lautan hendak diduga.</li>
+<li>Kalau kawin ke Batubara, kalau mati ke Melaka.</li>
+<li>Kalau kena tampar biarlah dengan tangan yang pakai cincin, kalau kena tendang biarlah dengan kaki yang pakai kasut.</li>
+<li>Kalau kerbau sekawan dapat dikawali, manusia seorang tiada dapat dimaklumi.</li>
+<li>Kalau kubuka tempayan budu, barulah tahu.</li>
+<li>Kalau kucing keluar tanduk barulah ayam boleh bersusu.</li>
+<li>Kalau kucing tiada bermisai, takkan ditakuti tikus lagi.</li>
+<li>Kalau kumbang bukan seekor, kalau bunga bukan sekaki.</li>
+<li>Kalau laba bercikun-cikun, buruk diberitahu orang.</li>
+<li>Kalau langit hendak menimpa bumi, bolehkah ditahan dengan telunjuk.</li>
+<li>Kalau menyeberang sungai biarlah ditelan oleh ibunya, tetapi janganlah dipagut oleh ikan kecil.</li>
+<li>Kalau pandai makan, pandai simpan.</li>
+<li>Kalau pandai mencencang akar, mati lalu ke pucuknya.</li>
+<li>Kalau pandai menggulai, badar pun menjadi tenggiri.</li>
+<li>Kalau pandai meniti buih, selamat badan sampai ke seberang.</li>
+<li>Kalau panjang beri beruas, kalau pendek beri berbuku.</li>
+<li>Kalau sama tinggi kayu di rimba, di mana angin akan lalu.</li>
+<li>Kalau seperti kundur labu, boleh dibelah. (kundur = labu besar).</li>
+<li>Kalau sesangkar sekalipun, yang bayan itu bayan juga; serindit, serindit juga.</li>
+<li>Kalau Si Tua (harimau) menunjukkan belangnya, 'lah tentu kambing bertanggungan.</li>
+<li>Kalau sumpit tak berisi, mana boleh ditegakkan.</li>
+<li>Kalau tak ada angin, masakan pokok bergoyang.</li>
+<li>Kalau tak ada api, masakan ada asap.</li>
+<li>Kalau tak ada berlela, baiklah mereka.</li>
+<li>Kalau tak ada kulit bercerailah (= rerak) tulang.</li>
+<li>Kalau tak berduit (= beruang), ke mana pergi tercuit-cuit (= terbuang).</li>
+<li>Kalau tak bermeriam, baiklah diam.</li>
+<li>Kalau tak pandai menggelamai, bercirit kambinglah kelak, dikunyah patah gigi, ditelan sembelit. .</li>
+<li>Kalau tak sir berdegak, sir melayang.</li>
+<li>Kalau tak takut akan mati, tak sedunia perang; kalau tak takut akan alah, tak sedunia sabung.</li>
+<li>Kalau takut dilimbur pasang, jangan berumah di tepi pantai (= laut).</li>
+<li>Kalau tiada emas sepiak, kerja di mana boleh jadi. (sepiak = seketip, sedikit).</li>
+<li>Kalau tiada padi sebarang kerja tak jadi.</li>
+<li>Kalau tidak ada senapang, baik berjalan lapang.</li>
+<li>Kali sebentuk, umpannya seekor, sekali putus sehari berhanyut.</li>
+<li>Kalis bagai air di daun keladi. (kalis = tidak berbekas).</li>
+<li>Kambing di parak panjang janggutnya, hati enggan banyak jawabnya.</li>
+<li>Kambing menyusui anak harimau, besar dia dipatahkan tengkuknya.</li>
+<li>Kapak menelan beliung.</li>
+<li>Kapak tak boleh membelah kayu, kalau bukan kayu pula yang menjadi hulunya.</li>
+<li>Kapal besar ditunda jongkong.</li>
+<li>Kapal satu nakhoda dua.</li>
+<li>Kapuk segaul dengan kapas, bedanya takkan lepas.</li>
+<li>Kapur di hujung telunjuk.</li>
+<li>Karam berdua basah seorang.</li>
+<li>Karam di darat ada juga tinggal tungku lekar, karam di laut habis sekali.</li>
+<li>Karam di laut boleh ditimba, karam di hati bilakan sudah.</li>
+<li>Karam Kampar oleh Kuantan.</li>
+<li>Karam sambal oleh belacan.</li>
+<li>Karam tidak berair.</li>
+<li>karena cenderawasih, merak mas (emas) dilepaskan.</li>
+<li>karena emas memas, karena padi menjadi. (memas = cermat, bagus).</li>
+<li>karena lotong terlalu makan, tupai dijulai timpa perasaan.</li>
+<li>karena mata buta, karena hati mati.</li>
+<li>karena mendengar bunyi.</li>
+<li>karena mulut badan binasa.</li>
+<li>karena mulut kepala terpenggal.</li>
+<li>karena pijat-pijat mati tuma.</li>
+<li>karena sabut tebal, tempurungnya pun menjadi kebal.</li>
+<li>Kasih bapa sepanjang jalan, kasih anak sepanjang penggalan.</li>
+<li>Kasih itu roh (= semangat) yang buta.</li>
+<li>Kasih saudara sama ada, kasih bapa menokok harta, kasih ibu sama rata, kasih sahabat sama binasa.</li>
+<li>Kasih sepantun tulisan pinggan.</li>
+<li>Kasih tidak bersekutu dengan bijak.</li>
+<li>Kasihan gajah berusung.</li>
+<li>Kasihkan anak tangan-tangankan; kasihkan bini tinggal-tinggalkan. (uliti = menyanyikan sampai tidur).</li>
+<li>Kasihkan padi buangkan rumput-rumput.</li>
+<li>Kasihkan pinang sebatang daripada buluh|aur]] serumpun.</li>
+<li>Kasihkan raja di atas usungan.</li>
+<li>Kasturi mati karena baunya. (kasutri = tikus kecil yang harum baunya).</li>
+<li>Kata berjawab, gayung bersambut.</li>
+<li>Kata biarlah kota.</li>
+<li>Kata dulu bertepati, kata kemudian berceraian (= bercari).</li>
+<li>Kata periuk belanga hitam.</li>
+<li>Kata seorang dibulati, kata bersama diperiakan.</li>
+<li>Kata yang benar ditidakkan, rahmat Tuhan dilarikan. (rahmat = belas kasih).</li>
+<li>Katak di bawah tempurung.</li>
+<li>Katak ditimpa kemarau.</li>
+<li>Katak hendak jadi lembu.</li>
+<li>Katak menggigit telunjuk, melihatkan ular sudah menjadi belut.</li>
+<li>Katib (khatib) lalu katib (khatib) mati, bilal lalu bilal mati.</li>
+<li>Kawin (kawin) naik basuh kaki saja.</li>
+<li>Kayu besar di tengah padang, tempat bernaung kepanasan, tempat berlindung kehujanan, uratnya tempat bersila, batangnya tempat bersandar.</li>
+<li>Kayu bongkok kura-kurapun boleh memanjat.</li>
+<li>Kayu buruk tiada bercendawan, lumut tumbuh.</li>
+<li>Kayu dikatakan batu, langit hendak dicapai dengan tangan.</li>
+<li>Kayu mati berpunggur, manusia mati biar bernama.</li>
+<li>Kayu yang banyak akarnya, tak takutkan ribut.</li>
+<li>Kayu yang berakar tunjang tak endahkan ribut. (tunjangan = Kr Yng di atas tanah).</li>
+<li>Kayu yang besar jugalah yang bersakat. (sakat = bendalu, pasilan).</li>
+<li>Kayu yang tumbang itu, kura-kura pun hendak memanjatnya.</li>
+<li>Ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digerek (= dilarik) kumbang.</li>
+<li>Ke bukit sama didaki, ke laut sama direnangi; adat tiada bertukar, Rahasia tidak berubah.</li>
+<li>Ke dalam sumpit tak muat, ke dalam ambung longgar. (ambung = keranjang).</li>
+<li>Ke gunung emas pasir baiduri, ke padang zamrud habis diedari; terbang bangau sepanjang hari, ke tasik juga akhirnya dicari.</li>
+<li>Ke gunung tak dapat angin.</li>
+<li>Ke hilir kena kutuk sultan, ke mudik kena kutuk raja.</li>
+<li>Ke hulu kena bubu, ke hilir kena tengkalak. (tengakalak = luka yang panjang).</li>
+<li>Ke langit tak sampai, ke bumi tak nyata (= tak terjejak).</li>
+<li>Ke laut meracik ikan, tersenyum siput; ke hutan memancing punai, tertawa badak. (racik = jerat).</li>
+<li>Ke mana angin yang deras, ke situ condongnya.</li>
+<li>Ke mana condong, ke mana rebah.</li>
+<li>Ke mana dialih, lesung berdedak juga.</li>
+<li>Ke mana kelok lilin, ke sana kelok loyang.</li>
+<li>Ke mana tumpah kuah, kalau tidak ke nasi.</li>
+<li>Ke mudik tentu hulunya, ke hilir tentu muaranya.</li>
+<li>Ke sawah tidak berluluk, ke ladang tidak berarang.</li>
+<li>Ke sungai sambil mandi.</li>
+<li>Ke tengah boleh, ke tepi pun boleh.</li>
+<li>Kebakaran janggut.</li>
+<li>Kebanyakan halilintar kurang hujan.</li>
+<li>Kebenaran di hujung lidah.</li>
+<li>Kecambah kayu ara takkan jadi pulut-pulut.</li>
+<li>Kecek anak Melaka.</li>
+<li>Kecek bagai bunyi merendang kacang.</li>
+<li>Kecek bagai ketiak ular.</li>
+<li>Kecil anak besar onak.</li>
+<li>Kecil api menjadi kawan, besar ia menjadi lawan.</li>
+<li>Kecil bahan besar penimpanya.</li>
+<li>Kecil dikandung ibu, besar dikandung adat, mati dikandung tanah.</li>
+<li>Kecil gunung dipandang, besar hutang disandang.</li>
+<li>Kecil hutang diansur, habis hutang dibayar.</li>
+<li>Kecil jangan (= tak boleh) di sangka anak, besar jangan (= tak boleh) disangka bapa.</li>
+<li>Kecil tapak tangan, nyiru ditadahkan.</li>
+<li>Kecil teranja-anja, besar terbawa-bawa, sudah tua terubah tidak.</li>
+<li>Kecil umpan besar ikan.</li>
+<li>Kecil-kecil anak harimau.</li>
+<li>Kecil-kecil anak sudah besar menjadi onak.</li>
+<li>Kecil-kecil beliung, tumbang juga kempas yang besar.</li>
+<li>Kecil-kecil cabai rawit.</li>
+<li>Kecil-kecil cili Melaka (= api).</li>
+<li>Kecil-kecil lada api, besar-besar limau abung.</li>
+<li>Kecil-kecil pun api.</li>
+<li>Kecubung berulam ganja.</li>
+<li>Kehendak kucinglah bertemu dengan panggang.</li>
+<li>Kejap (= kerling) bagai pelitakan padam.</li>
+<li>Keladi muda, muda buahnya; menurut hati muda, berkelahi sudahnya.</li>
+<li>Kelakatu hendak terbang ke langit.</li>
+<li>Kelalaian menjemput pencuri.</li>
+<li>Kelam bagai malam dua puluh tujuh.</li>
+<li>Kelam disigi, lekung ditinjau. (sigi = suluh, obor; lekung = lekuk).</li>
+<li>Kelapa ditebuk tupai.</li>
+<li>Kelapa muda tak berminyak.</li>
+<li>Kelapa tebal sabut, terhempas ke batu tak pecah, dibuang ke laut tak tenggelam.</li>
+<li>Kelarai sesat taja. (taja = permulaan)</li>
+<li>Kelebihan ikan radai, kelebihan manusia akal. (radai = sirip).</li>
+<li>Keledai (keldai) hendak dijadikan kuda.</li>
+<li>Kelekati memanjat peran, sebelum mati belum jeran.</li>
+<li>Keli dua selubang.</li>
+<li>Kelik-kelik dalam baju. (kelik-kelik = semut yang berbisa).</li>
+<li>Kelimpanan mata dek pengelan. (kelimpanan = kelilipan; mata kemasukan debu atau sebagainya; pengelan = galah buat menjolok buah-buahan.)</li>
+<li>Kelip-kelip terbang malam.</li>
+<li>Keluar tak mengganjilkan, masuk tak menggenapkan.</li>
+<li>Keluh (kesah) tidur di kasur, berkeruh di lapik penjemuran.</li>
+<li>Keluk paku asam (= kacang) belimbing; anak dipangku kemanakan dibimbing.</li>
+<li>Kemahiran itu sebaik-baik guru.</li>
+<li>Kemarau setahun rusak oleh hujan sepagi.</li>
+<li>Kemenyan sebesar lutut jika tiada dibakar manakan berbau.</li>
+<li>Kemiri jatuh ke pangkalnya.</li>
+<li>Kemudi di haluan, bergilir ke rusuk.</li>
+<li>Kemudi patah perahu tembuk.</li>
+<li>Kena kecipak orang berbelut. (kecipak = gerak tangan ketika merenggutkan belut yang tertangkap dilubangnya.)</li>
+<li>Kena luluk kandang kering.</li>
+<li>Kena parang bermata dua.</li>
+<li>Kena pukul di punggung (= di pantat), gigi habis tanggal.</li>
+<li>Kena-kena seperti santan bergula, tak kena-kena bagai antan pukul kepala.</li>
+<li>Kenal dadanya, tak kenal mukanya (= rupanya).</li>
+<li>Kendur mengusut, tegang memutus.</li>
+<li>Kepala ke bawah, kaki ke atas.</li>
+<li>Kepala rebah mata melayang, bantal bangkit main wayang.</li>
+<li>Kepala sama berbulu (= hitam), pendapat (= hati) berlain-lain.</li>
+<li>Kepala tersangkut dengan kulit babi.</li>
+<li>Kepala yu, ekor babi.</li>
+<li>Kera (= monyet) kena belacan .</li>
+<li>Kera dapat bunga.</li>
+<li>Kera memanjat pohon, kura-kura pun hendak memanjat pula.</li>
+<li>Kera menegurkan tahinya.</li>
+<li>Kera menjadi monyet.</li>
+<li>Kerambil tumbuh di matanya.</li>
+<li>Kerap sang berudu hendak berenang di laut lebar, awak masih juga di kubangan.</li>
+<li>Keras bagai batu, tinggi bagai langit.</li>
+<li>Keras ditakik, lunak disudu.</li>
+<li>Kerat rotan, patah arang.</li>
+<li>Kerbau (= lembu) diberi berpelana, kuda diberi berpasangan.</li>
+<li>Kerbau (= lembu) tanduk panjang, tiada menanduk pun dikata orang menanduk juga.</li>
+<li>Kerbau bertanduk, rotan beronak.</li>
+<li>Kerbau dipegang tali hidungnya, manusia dipegang pada katanya.</li>
+<li>Kerbau jangan dimaling orang, ayam jangan dimusangi. (dimusangi = dimakan musang)</li>
+<li>Kerbau kandang, emas berpura.</li>
+<li>Kerbau menanduk, kerbau pergi.</li>
+<li>Kerbau pembulang tali. (membulang = mengikat tali ke kepala).</li>
+<li>Kerbau punya susu, sapi punya nama.</li>
+<li>Kerbau sakit, sapi beroleh nama.</li>
+<li>Kerbau sekandang dapat digembalakan, manusia seorang tiada terjaga.</li>
+<li>Kering pengayuh di tangan, kering uang di pinggang.</li>
+<li>Kering tempayan, cebok pun jauhlah.</li>
+<li>Keris panjang berkeluk, ke mana bawa ke mana olok.</li>
+<li>Keris pedang (= lembing) tiada tajam, lebih tajam mulut manusia.</li>
+<li>Keris tersisip di dinding, pedang tajam dalam sarungnya.</li>
+<li>Kerja baik berimbauan, datang buruk (= malang) berhamburan.</li>
+<li>Kerja raja dijunjung, kerja kita (= sendiri) dikelek.</li>
+<li>Kerja sebarang hebat, kasih sebarang tempat.</li>
+<li>Kerja sebarang hubah, kasih sebarang tempat.</li>
+<li>Kerosok ular di rumpun bambu.</li>
+<li>Kesat daun pimping.</li>
+<li>Kesat-kesat daun pimping, kalau kesat daun labu boleh dicelur.</li>
+<li>Ketam (= kepiting) menyuruhkan anaknya berjalan betul.</li>
+<li>Ketika ada jangan dimakan, telah habis (= tiada) maka dimakan.</li>
+<li>Ketika gagak putih, bangau hitam.</li>
+<li>Kicang-kecoh ciak. (kicang-kecoh = tipu daya; ciak = dakwa).</li>
+<li>Kijang jika ditambat dengan rantai emas sekalipun, bila terlepas ke hutan juga larinya.</li>
+<li>Kikir pari belulang kering, direndam tujuh hari tak basah.</li>
+<li>Kilangan patah awak itulah menghimpitnya. (kilangan = apitan tebu).</li>
+<li>Kilat beliung sudah di kaki, kilat pisau sudah ke tangan, kilat cermin sudah ke muka.</li>
+<li>Kilat di dalam kilau, kabus di dalam hujan.</li>
+<li>Kini gatal besok digaruk.</li>
+<li>Kita baru mencapai pengayuh, orang sudah tiba ke seberang.</li>
+<li>Kita membawa jarum, dia menyambut dengan gunting.</li>
+<li>Kita semua (= sekalian) mati, tetapi kubur masing-masing.</li>
+<li>Kodok dapat bunga sekuntum.</li>
+<li>Kokok berderai-derai, ekor bergelumang tahi. (bergelumang = kotor berlumur.)</li>
+<li>Korek lubang ulat.</li>
+<li>Kotor dicuci, berabu dijentik.</li>
+<li>Koyak baju mau ukur badan.</li>
+<li>Koyak tak berbunyi.</li>
+<li>Kuah sama dihirup, sambal sama dicolek.</li>
+<li>Kuah tertunggang ke nasi, nasi akan dimakan juga.</li>
+<li>Kuah tumpah (= tertuang) ke nasi.</li>
+<li>Kuali mengatakan belanga hitam.</li>
+<li>Kuat akar karena tunjang, kuat tunjang karena akar.</li>
+<li>Kuat berdiri pohon karena akarnya, kuat akar karena tanah.</li>
+<li>Kuat burung karena sayap; kuat ikan karena radai.</li>
+<li>Kuat gajah terdorong, kuat harimau terlompat-lompat.</li>
+<li>Kuat ikan karena radai, kuat burung karena sayap, kuat ketam karena sepit.</li>
+<li>Kuat lilit karena simpulnya.</li>
+<li>Kuat sepit karena kempa. (kempa = apitan.)</li>
+<li>Kuat tertawa koyak bibir.</li>
+<li>Kubur kata mari, rumah kata nanti.</li>
+<li>Kucing lalu, tikus tiada berdecit lagi.</li>
+<li>Kucing melompat, orang terkejut daripada tidurnya, ayam berkokok hari pun siang.</li>
+<li>Kuda itu kuda juga, keldai itu keldai juga.</li>
+<li>Kuda pelejang bukit.</li>
+<li>Kuda tua: diperkerjakan tak boleh, nak dibunuh sayang.</li>
+<li>Kuda yang baik tak bercerai daripada pelananya.</li>
+<li>Kuda yang pantas tiada berkehendakkan cemeti.</li>
+<li>Kudis menjadi tokak.</li>
+<li>Kukur apa kepada kukur, nyiur juga yang binasa.</li>
+<li>Kulai-balai bagai cangkul sisa pengait (= dikait). (kulai-balai = tergantung lemah, terayun-ayun.)</li>
+<li>Kulit hitam orang tengok, tulang putih siapa jenguk.</li>
+<li>Kuman di seberang lautan tampak, gajah di pelupuk mata tiada tampak.</li>
+<li>Kuman menjadi barah (= pekung).</li>
+<li>Kumbang terbang tak bersaing.</li>
+<li>Kundur tidak melata pergi, labu tidak melata mari.</li>
+<li>Kuning oleh kunyit, hitam oleh arang.</li>
+<li>Kura-kura (hendak) memanjat kayu.</li>
+<li>Kura-kura di atas dahan.</li>
+<li>Kura-kura di dalam perahu, pura-pura tidak tahu.</li>
+<li>Kura-kura di kaki ditinggalkan, burung terbang dikejar.</li>
+<li>Kura-kura di kaki ditinggalkan, penyu di pantai dikejar.</li>
+<li>Kura-kura kakinya tiada basah.</li>
+<li>Kura-kura pandai kerabat kayu. (kerabat = panjat).</li>
+<li>Kurang budi teraba-raba, tidak ilmu suluh padam.</li>
+<li>Kurang kerat, rengkuh yang lebih.</li>
+<li>Kurang luas tapak tangan, nyiru saya tampungkan.</li>
+<li>Kurang sesayat (= seiris) sebelanga.</li>
+<li>Kurang sisik, tinggal lidi di buku; selidik, tinggal kaji di guru. (sisik = menyisik, membuang sisik; di guru = pada guru.)</li>
+<li>Kurang taksir hilang laba.</li>
+<li>Kurang tambah menambah, senteng bilai-membilai.</li>
+<li>Kurang-kurang bubur, lebih-lebih sudu (= sudu yang lebih).</li>
+<li>Kurus kering seperti bayang; siapa pun tiada menaruh sayang.</li>
+<li>Kusut di hujung dengan pangkal, karena salah memulai.</li>
+<li>Kusut di hujung, lari (= bawa) ke pangkal.</li>
+<li>Kusut diselesaikan, keruh diperjernih.</li>
+<li>Kutu mati di atas kepala, tuma mati di tepi kain.</li>
+<li>Laba sama dibagi, rugi sama diterjuni.</li>
+<li>Laba tertinggal, harta lingkap.</li>
+<li>Labu dikerbuk tikus.</li>
+<li>Ladang yang berpunya.</li>
+<li>Lading tajam sebelah. (lading = sejenis alat perang).</li>
+<li>Lading tak tahu akan majalnya. (majal = tumpul, tidak tajam.)</li>
+<li>Lagak Padang, omong Betawi.</li>
+<li>Lagi jatuh ditimpa tangga.</li>
+<li>Lagi lebai lagi berjanggut.</li>
+<li>Lagi murah, lagi ditawar.</li>
+<li>Lagi teduh lagi berkajang.</li>
+<li>Lagi terang lagi bersuluh.</li>
+<li>Lagi tongkat lagi senjata.</li>
+<li>Lah baris nan berpahat, 'lah jalan nan berturut.</li>
+<li>Lah karam maka bertimba.</li>
+<li>Lah ke tengah makan api.</li>
+<li>Lah panas hari, kacang lupa akan kulitnya.</li>
+<li>Lah sesak alam tempat diam, tak berbumi tempat tegak.</li>
+<li>Lah tampak jalan tempat lalu, lupa batu akan menarung. (menarung = menyentuh, menyerandung.)</li>
+<li>Lain bengkak lain bernanah.</li>
+<li>Lain biduk lain digalang.</li>
+<li>Lain di mulut, lain di hati.</li>
+<li>Lain diniat lain ditakdir, lain diacah lain yang jadi.</li>
+<li>Lain dulang lain kaki, lain orang lain hati.</li>
+<li>Lain galang, lain perahu yang disorong.</li>
+<li>Lain gatal lain digaruk.</li>
+<li>Lain lubuk, lain ikannya.</li>
+<li>Lain luka lain menyiuk, lain sakit lain mengaduh.</li>
+<li>Lain mangkuk lain cawan.</li>
+<li>Lain orang memperanakkan, lain orang dipanggil bapa.</li>
+<li>Lain orang yang makan inangka, lain orang yang kena getah.</li>
+<li>Lain orang, lain pendapat.</li>
+<li>Lain padang lain belalang.</li>
+<li>Lain sakit lain diubat, lain luka lain dibebat.</li>
+<li>Lain teringat lain disebut; bertukar angguk dengan ilallah.</li>
+<li>Lain yang bengkak, lain yang bernanah; lain yang untut, lain yang mengisut.</li>
+<li>Laki pulang kelaparan, dagang lalu ditanakkan.</li>
+<li>Laksana antah lemukut (= melukut), lapar sangat baru berguna.</li>
+<li>Laksana apung di tengah laut; dipukul ombak jatuh ke tepi.</li>
+<li>Laksana apung dipermainkan gelombang.</li>
+<li>Laksana barang derham, sedia ada suratan Istanbul.</li>
+<li>Laksana barang yang disadur.</li>
+<li>Laksana batang manau, seribu kali embat haram tak putus.</li>
+<li>Laksana batik lasam.</li>
+<li>Laksana binatang umang-umang di mana sarang udang di situ tempat menumpang.</li>
+<li>Laksana buah bemban, masak jatuh ke lumpur.</li>
+<li>Laksana buah masak lum, dihinggut perdu luruh sendiri. (lum = ranum).</li>
+<li>Laksana bunga dedap, sungguh merah berbau tidak.</li>
+<li>Laksana buntal kembung, perut buncit di dalamnya kosong.</li>
+<li>Laksana burung diam dalam sangkar.</li>
+<li>Laksana cempedak mambung, pulur saja jual tak laku.</li>
+<li>Laksana golok kayu, ditetakkan tak makan, dijual tak laku.</li>
+<li>Laksana janda baru bangun tidur.</li>
+<li>Laksana jauk penjauk yang kerap.</li>
+<li>Laksana jentayu menantikan hujan. (jentayu = burung garuda yang besar).</li>
+<li>Laksana kain (= benang) putih.</li>
+<li>Laksana kain tiga hasta.</li>
+<li>Laksana kasihkan bunga seceper, terbuang bunga sekaki.</li>
+<li>Laksana katak di harung ular.</li>
+<li>Laksana kedidi: di mana pantai tercunggit-cunggit (= terjengit-jengit).</li>
+<li>Laksana kedidi: sedikit hujan banyak bermain.</li>
+<li>Laksana kerbau: di mana rumput hijau di sana menerkam.</li>
+<li>Laksana kumbang menyeri bunga, kumbang pun terbang bunga pun layu.</li>
+<li>Laksana layang-layang melawan angin.</li>
+<li>Laksana layang-layang putus teraju.</li>
+<li>Laksana layang-layang salah teraju.</li>
+<li>Laksana lembu dogol (= dungkul), tak boleh ditanduk hanya (= cuma) disondol.</li>
+<li>Laksana lembu kasi: galak saja tiada melawan.</li>
+<li>Laksana lemping terbuang.</li>
+<li>Laksana mencari sungai yang tiada berhulu.</li>
+<li>Laksana pencalang tersarat, tiada ke timur tiada ke barat.</li>
+<li>Laksana pohon kayu tiada berbuah.</li>
+<li>Laksana sampan pukat.</li>
+<li>Laksana sebuku gaharu, sukat dibakar makin berbau.</li>
+<li>Laksana taji dibentuk.</li>
+<li>Laksana terung bertunang ikan kering.</li>
+<li>Lalang yang terbakar, sicerek menumpang mati.</li>
+<li>Lalat langau mengerumuni bangkai.</li>
+<li>Lalat memanglah mencari puru.</li>
+<li>Lalu hangus, surut layu.</li>
+<li>Lalu penjahit, lalu kelindan.</li>
+<li>Lambat laga asalkan menang.</li>
+<li>Lampai bagai pimping di lereng, lemah bagai lenggundi muda.</li>
+<li>Lampu kekurangan minyak.</li>
+<li>Lamun ada ubi, ubi; tiada ubi, gadung jadilah.</li>
+<li>Lamun takut dilanggar batang, jangan duduk di kepala pulau.</li>
+<li>Lancar kaji karena diulang, pasar jalan karena diturut. (pasar = licin, mati rumput).</li>
+<li>Lang pungguk lang berikan, tidur siang berjaga malam.</li>
+<li>Langau di ekor kerbau, debu di atas tunggul.</li>
+<li>Langit akan disigai, tebat akan disiar.</li>
+<li>Langit berkelikir, bumi bertemberang; salah-salah fikir menjadi hamba orang.</li>
+<li>Langit dapat dilukis, sudut kambut diserayakan.</li>
+<li>Langit menimpa kepala, bumi memegang kaki.</li>
+<li>Langit menyungkup kepala.</li>
+<li>Langit runtuh, bumi cair.</li>
+<li>Langit runtuh, bumi telah terban. (terban = runtuh).</li>
+<li>Langit yang tinggi hendak ditampar, bumi yang dipijak tak dapat dicapai.</li>
+<li>Langkah yang telah terlangkahkan.</li>
+<li>Langkas buah papaya.</li>
+<li>Lantai dan dinding bertelinga belaka.</li>
+<li>Lapuk oleh kain sehelai.</li>
+<li>Lapuk-lapuk diganti, usang-usang dibarui.</li>
+<li>Laut budi tepian akal (= ilmu).</li>
+<li>Laut datang memunggah mutiara.</li>
+<li>Laut ditembak, darat kena.</li>
+<li>Laut ditimba akan kering.</li>
+<li>Laut madu berpantaikan sakar (= gula).</li>
+<li>Laut mana yang tak berombak, bumi mana yang tak ditimpa hujan.</li>
+<li>Laut tidak membuang sungai, rimba tidak membuang latah.</li>
+<li>Lautan dapat diduga, hati manusia siapakah cakap (= dapat) menduganya.</li>
+<li>Lautan yang dalam sudah diselam rata, buyung di dapur tak tahu apa isinya.</li>
+<li>Lautan yang dalam sudah diselami, ini pula air dalam terenang.</li>
+<li>Lawak-lawak main, bunga tahi.</li>
+<li>Layang-layang putus talinya.</li>
+<li>Layar menimpa tiang.</li>
+<li>Layu bunga digenggam, layu rumput di halaman.</li>
+<li>Lebai berjanggut kambing pun berjanggut juga.</li>
+<li>Lebih baik berputih tulang daripada berputih mata.</li>
+<li>Lebih baik seekor singa di padang yang luas, daripada seekor ular di dalam rumput.</li>
+<li>Lebih berharga mutiara sebutir daripada pasir sepantai.</li>
+<li>Lebih pucuk, lebih pelepah?</li>
+<li>Lebuh sempit kuda penyepak, jalan licin tebing berkelok.</li>
+<li>Lecah di kaki.</li>
+<li>Leka di kerak jarang, kuku habis perut tak kenyang, burung terbang dipipiskan lada. (leka = asyik, lalai.)</li>
+<li>Leka senantiasa di lipatan sanggul; fikiran singkat akal pun tumpul.</li>
+<li>Lekuk batu dititik air selalu.</li>
+<li>Lelar makan di upih, lagi putih lagi dikeruk.</li>
+<li>Lemah (= lunak) tersudu, keras tak tertakik.</li>
+<li>Lemah liat kayu akar, dilentur boleh dipatah tak dapat.</li>
+<li>Lemah melapis condong menopang.</li>
+<li>Lemah-lembut lintah, melekat payah lucut.</li>
+<li>Lemah-lembut santan berlada.</li>
+<li>Lemak manis jangan ditelan, pahit jangan dimuntahkan.</li>
+<li>Lemak manis pada dialah, pahit maung pada orang.</li>
+<li>Lemak penyelar daging. . (penyelar = penggoreng.)</li>
+<li>Lembah diraih, pantai dititi.</li>
+<li>Lembu dogol jangan dibalun.</li>
+<li>Lempar bunga dibalas lempar tahi.</li>
+<li>Lempar(kan) batu sembunyi(kan) tangan.</li>
+<li>Lemukut di tepi gantang.</li>
+<li>Lengan bagai lilin dituang.</li>
+<li>Lenggang bagai sirih jatuh, tak tahu di tampuk layu.</li>
+<li>Lenggang lenggok bagai cupak hanyut.</li>
+<li>Lenggang patah sembilan.</li>
+<li>Lengkuas di tepi kandang, tekak (= tegak) puas badan menyandang.</li>
+<li>Lepas bantal berganti tikar.</li>
+<li>Lepas kaki leher terjerat.</li>
+<li>Lepas putih hitam tak dapat.</li>
+<li>Lepas topan (taufan) paksa baik. (paksa = kesempatan waktu).</li>
+<li>Lesung mencari antan (= alu).</li>
+<li>Lewat di manis, masam; lewat di harum, busuk.</li>
+<li>Licin bagai basuh perahu.</li>
+<li>Licin bagai belut.</li>
+<li>Licin karena minyak berminta, elok karena kain berselang.</li>
+<li>Lidah bercabang.</li>
+<li>Lidah biawak.</li>
+<li>Lidah terganjal.</li>
+<li>Lidah terkalang.</li>
+<li>Lidah tidak bertulang, salah petik jiwa hilang. (petik = gerak lidah).</li>
+<li>Lidah tidak bertulang.</li>
+<li>Lidahnya masin.</li>
+<li>Lihat anak pandang menantu.</li>
+<li>Limau masak sebelah, perahu karam sekerat.</li>
+<li>Linggi diserang, Riau yang alah.</li>
+<li>Longgar sendat, lapang bertukul.</li>
+<li>Lonjak sebagai labu dibenam.</li>
+<li>Lubuk (men)jadi pantai, pantai (men)jadi lubuk.</li>
+<li>Lubuk akal lautan (= tepian) ilmu (= budi).</li>
+<li>Lubuk dalam si kitang-kitang yang empunya.</li>
+<li>Luka di tangan dapat diubat (= tampak berdarah), luka di hati siapa tahu?</li>
+<li>Luka sudah hilang, parutnya tinggal juga.</li>
+<li>Luka tangan karena berebutkan tembikar pecah.</li>
+<li>Lulus (= lalu) jarum, lulus (= lalu) kelindan.</li>
+<li>Lulus tabuh perhatian.</li>
+<li>Lulus tidak berselam, hilang tidak bercari.</li>
+<li>Lunak disudu, keras ditakik.</li>
+<li>Lunak gigi daripada lidah.</li>
+<li>Lupa ketinggalan, terlelap kemalingan.</li>
+<li>Lupa mengingatkan, terlelap menjagakan.</li>
+<li>Lupak (men)jadi perigi (= telaga).</li>
+<li>Lurah dituruni, bukit didaki.</li>
+<li>Lurah juga diturut air, bukit juga dilejang panas.</li>
+<li>Lurah tidak terturuni, bukit tidak terdaki.</li>
+<li>Luruh upih pergam datang; suruh putih hitam datang.</li>
+<li>Lurus bagai piarit. (piarit = serampangan, seruit).</li>
+<li>Lurus lubang lurus penjolok. (penjolok = galah untuk menjolok).</li>
+<li>Lurus sebagai sumpitan.</li>
+<li>Lurus sumpitan hendak mengena.</li>
+<li>Lurus-lurus ekor anjing, walau bagaimanapun ada juga bengkoknya.</li>
+<li>Lurus-lurus sumpitan.</li>
+<li>Lutung (lotong) kekah kumput jarinya; kembung sengal kentut jadinya.</li>
+<li>Mabuk di enggang lalu.</li>
+<li>Mabuk karena beruk berayun.</li>
+<li>Macam anak dara tak datang tunangnya.</li>
+<li>Macam betung seruas.</li>
+<li>Macam daun terap: bunyinya degah-deguh, degah-deguh jatuh ke bawah.</li>
+<li>Macam kepiting jalan.</li>
+<li>Macam kera kelaparan.</li>
+<li>Macam kikir besi.</li>
+<li>Macam memegang tali layang-layang.</li>
+<li>Macam orang biduk.</li>
+<li>Macam terambil di nan kurang.</li>
+<li>Macam timun dengan durian: menggelek luka, kena gelek pun luka.</li>
+<li>Macam ular kekenyangan.</li>
+<li>Madu satu tong jika rembes; rembesnya madu juga.</li>
+<li>Mahal dibeli sukar dicari.</li>
+<li>Mahal imam murahlah kitab; mahal demam murah sakit.</li>
+<li>Mahal tak dapat dibeli, murah tak dapat diminta.</li>
+<li>Main air basah, main api letur, main pisaui luka.</li>
+<li>Main akal (= budi).</li>
+<li>Main badar, main gerundang.</li>
+<li>Majlis di tepi air, merdesa di perut kenyang. (majlis = bersih; merdesa = orang pemilih makanan.)</li>
+<li>Makan bersabitkan.</li>
+<li>Makan bubur panas-panas.</li>
+<li>Makan di luar berak di dalam.</li>
+<li>Makan hati, berulam jantung.</li>
+<li>Makan keringat orang.</li>
+<li>Makan masak mentah.</li>
+<li>Makan nasi kawah.</li>
+<li>Makan nasi suap-suapan, tetapi menyambut puan kosong.</li>
+<li>Makan upas berulam racun.</li>
+<li>Makanan enggang hendak dimakan oleh pipit.</li>
+<li>Makin banyak orang, makin banyak niat.</li>
+<li>Makin murah, makin menawar.</li>
+<li>Maksud bagai maksud manau.</li>
+<li>Maksud hati memeluk gunung, apa daya tangan tak sampai.</li>
+<li>Malam berselimut embun, siang bertudung awan.</li>
+<li>Malang celaka Raja Genggang, tuak terbeli tunjang hilang.</li>
+<li>Malang Pak Kaduk, ayamnya menang kampung tergadai.</li>
+<li>Malang tak berbau.</li>
+<li>Malang tak boleh ditolak, mujur tak boleh diraih.</li>
+<li>Malang tiada datang tunggal.</li>
+<li>Malas bergarit, perut perit.</li>
+<li>Malu berani, mati takut.</li>
+<li>Malu bertanya sesat di jalan, malu berdayung (= berkayuh) perahu hanyut.</li>
+<li>Malu makan, perut lapar.</li>
+<li>Malu, kalau (= jikalau) anak harimau menjadi anak kambing.</li>
+<li>Mamah dulu kemudian telan.</li>
+<li>Mana ada buluh tidak berbuku?</li>
+<li>Mana busuk yang tidak berbau?</li>
+<li>Mana kerbau yang bencikan kubangnya?</li>
+<li>Mana sungai yang tiada berhulu?</li>
+<li>Mana tali berpunca tak berhujung?</li>
+<li>Mandi dalam cupak.</li>
+<li>Mandi di telaga di tepi jalan, bersunting bunga tahi ayam.</li>
+<li>Mandi tak basah.</li>
+<li>Manikam selalu juga didapati di dalam lipatan kain buruk yang robek.</li>
+<li>Manikam sudah menjadi sekam.</li>
+<li>Manis bagai gula Jawa.</li>
+<li>Manis laksana gula Sarawak.</li>
+<li>Manis seperti (= laksana) gula derawa.</li>
+<li>Manis udang, maka ketam direbus tak merah?</li>
+<li>Manusia punya asa, Tuhan punya kuasa.</li>
+<li>Manusia tahan kias, binatang tahan palu.</li>
+<li>Manusia tertarik oleh tanah airnya, anjing tertarik oleh piringnya.</li>
+<li>Mara hinggap mara terbang, mara bergesel sambil lalu, enggang lalu ranting patah.</li>
+<li>Mara jangan dipikat (= dipukat), rezeki jangan ditolak.</li>
+<li>Marahkan pijat kelambu dibakar, tidur terdedah.</li>
+<li>Marahkan telaga yang kering, timba dipecahkan.</li>
+<li>Marahkan tikus rengkiang dibakar.</li>
+<li>Masa lagi rebunglah hendak dilentur, jangan dinantikan sampai menjadi [[buluh|aur]].</li>
+<li>Masak di luar mentah di dalam.</li>
+<li>Masak durian, masak manggis.</li>
+<li>Masak malam mentah pagi (= siang).</li>
+<li>Masam bagai nikah tak suka.</li>
+<li>Masih berbau pupuk jerangau.</li>
+<li>Masin lagilah garam sendiri.</li>
+<li>Masuk ambung tak masuk bilang.</li>
+<li>Masuk bagai (= sebesar) lubang penjahit, keluar bagai (= sebesar) lubang tabuh.</li>
+<li>Masuk di dalam kawan gajah berdering.</li>
+<li>Masuk geronggang bawa pelita.</li>
+<li>Masuk ke dalam kandang [[kambing]] mengembik, masuk ke dalam kandang kerbau menguak.</li>
+<li>Masuk ke kampung orang bawa ayam betina, jalan di tepi-tepi, benang arang orang jangan dipijak, duduk di tapak tangga, mandi di hilir orang, berdiri di luar-luar gelanggang.</li>
+<li>Masuk ke negeri orang bertanamlah ubi, jangan bertanam tembilang.</li>
+<li>Masuk ke telinga kanan, keluar ke telinga kiri.</li>
+<li>Masuk langau ke mulutnya.</li>
+<li>Masuk lima keluar sepuluh.</li>
+<li>Masuk meliang penjahit, keluar meliang tabuh.</li>
+<li>Masuk sarang harimau.</li>
+<li>Masuk tak genap, keluar tak ganjil.</li>
+<li>Nafsu tidak bertepi.</li>
+<li>Nafsu tidak bertepi.</li>
+<li>Nafsu-nafsu, raja di mata sultan di hati.</li>
+<li>Naga ditelan ular lidi.</li>
+<li>Naik basuh kaki saja.</li>
+<li>Naik dari janjang, turun dari tangga. (janjang = jenjang.)</li>
+<li>Naik di janjang, turun di tangga.</li>
+<li>Naik ke rumah bercuci kaki saja.</li>
+<li>Naik melompat, turun terjun.</li>
+<li>Naik membilang anak tangga turun selangkah jejaklah ke bumi.</li>
+<li>Naik seperti Kelip-kelip, turun seperti ribut.</li>
+<li>Naik tak bertangga, turun tak berpintu.</li>
+<li>Naik tangga dari bawah.</li>
+<li>Nak ditelan termengkelan, nak diludah tak keluar.</li>
+<li>Nak kaya berdikit-dikit, nak ramai bertabur urai.</li>
+<li>Nak menangguk ikan, tertangguk ke batang.</li>
+<li>Nak tahu jahat orang tanyakan kepada seterusnya, nak tahukan baik orang tanyakan kepada sahabatnya.</li>
+<li>Nampak gabak di hulu.</li>
+<li>Nampak kulitnya tahulah isinya.</li>
+<li>Nan berat tidak terpikul, nan ringan tidak terjinjing.</li>
+<li>Nan berseluk urat, nan berjumbai akar, nan berlambai pucuk. (seluk = lilit, belit; lambai = berayun-ayun turun naik.)</li>
+<li>Nan dekat panggilan tiba, nan jauh kulangsing lepas. (kulangsing = sirih pemanggil.)</li>
+<li>Nan dimaksud sampai, nan diamal pecah.</li>
+<li>Nan lurah (= rendah) juga diturut air.</li>
+<li>Nan pekak pelepas bedil, nan buta pengembus lesung, nan bisu penggera ayam, nan lumpur penghuni rumah.</li>
+<li>Nasi basi penolak nafsu.</li>
+<li>Nasi basi penolak nafsu.</li>
+<li>Nasi disaji pula digaduhkan, padi di ladang dilanyak gajah tidak disusahkan.</li>
+<li>Nasi masak periuk pecah.</li>
+<li>Nasi sama ditanak, kerak dimakan seorang.</li>
+<li>Nasi sedap gulai mentah, gulai sedap nasi mentah.</li>
+<li>Nasi sudah menjadi bubur.</li>
+<li>Nasi tak dingin, pinggan tak retak.</li>
+<li>Nasi tersaji di lutut.</li>
+<li>Nasi tersenduk tidak termakan.</li>
+<li>Nasib penyapu, banyak jasa turun darjat.</li>
+<li>Negeri besar, rumah besar, berapa pun panjang perian takkan terantuk.</li>
+<li>Neraca berbatu intan.</li>
+<li>Neraca palingan Allah, mata palingan setan.</li>
+<li>Neraca palingan bungkal, hati palingan Tuhan.</li>
+<li>Neraca yang palingan, bungkal yang piawai.</li>
+<li>Niat di hati hendak memeluk gunung, sudah terpeluk biawak celaka (= sial).</li>
+<li>Niat hati hendak memancing ikan, tak mau membuang umpan.</li>
+<li>Niat hati hendak memancing temenung, sudah terpancing ikan setoka.</li>
+<li>Niat hati nak getah bayan, sudah tergetah burung serindit.</li>
+<li>Niat hati nak peluk gunung, apakan daya tangan tak sampai.</li>
+<li>Nibung bangsai bertaruk muda. (bangsai = rapuh dan buruk.)</li>
+<li>Nikah maharaja bumi (= Boma).</li>
+<li>Nyamuk lepas pijat-pijat kena pirik.</li>
+<li>Nyamuk mati, gatal tak lepas.</li>
+<li>Nyawa bergantung di hujung kuku (= rambut).</li>
+<li>Nyiur setandan tetapi berlain-lain jadinya.</li>
+<li>Orang berbudi kita berbahasa, orang memberi kita merasa.</li>
+<li>Pacat ingin menjadi ular.</li>
+<li>Pahit di luar manis di dalam.</li>
+<li>Patah tumbuh hilang berganti</li>
+<li>Pelanduk dua serupa.</li>
+<li>Pelanduk lupakan jerat tetapi jerat tidak pernah lupakan pelanduk.</li>
+<li>Pinang pulang ketampuk.</li>
+<li>Pipih boleh dilayang, bulat boleh diguling.</li>
+<li>Pipit meminang anak enggang.</li>
+<li>Pipit pekak makan berhujan.</li>
+<li>Pipit sama pipit enggang sama enggang.</li>
+<li>Raja adil raja disembah, raja lalim raja disanggah.</li>
+<li>Rajin menngais tembolok berisi.</li>
+<li>Rajin pangkal pandai, hemat pangkal kaya.</li>
+<li>Ramai beragam, rimbun menyelara.</li>
+<li>Rambut sama hitam, hati masing-masing.</li>
+<li>Rambut sama hitam, pikiran berlain-lainan.</li>
+<li>Ranap pertulang, ijuk penebal.</li>
+<li>Rasa air ke air, rasa minyak ke minyak.</li>
+<li>Rasa di bibir tepi cawan.</li>
+<li>Rasa pedih cuping telinga.</li>
+<li>Rasa tak ngapa, hidung dikeluani.</li>
+<li>Rebung tidak jauh dari rumpun.</li>
+<li>Rebung tidak miang, bembam pula yang miang.</li>
+<li>Redup atau panas kerak.</li>
+<li>Rendah dianjung tinggi, kecil diambak besar.</li>
+<li>Rendah dibilang-bilang diseluduki, tinggi kayu ara dilangkahi.</li>
+<li>Rendah gunung, tinggi harapan.</li>
+<li>Rendam sesajak air, berpaut sejengkal tali.</li>
+<li>Retak kayu boleh disimpai, retak pinggan susah hilangnya.</li>
+<li>Retak menanti belah.</li>
+<li>Retak tanda akan pecah.</li>
+<li>Retak-retak bulu ayam, lama-lama bercantum pula.</li>
+<li>Retak-retak mentimun.</li>
+<li>Rezeki elang tak akan dapat dimakan oleh musang.</li>
+<li>Rezeki elang takkan dimakan musanng.</li>
+<li>Rezeki harimau.</li>
+<li>Rezeki jangan ditolak, musuh jangan dicari.</li>
+<li>Rezeki mata.</li>
+<li>Rindu akan jadi batas, maka manis tidak jadi cuka.</li>
+<li>Ringan sama dijinjing, berat sama dipikul.</li>
+<li>Ringan tulang, berat perut.</li>
+<li>Roda yang berpaling, kuda sudah bergerindin.</li>
+<li>Rugi menentang laba, jerih menentang boleh.</li>
+<li>Rumah buruk disapu cat.</li>
+<li>Rumah gadang ketirisan.</li>
+<li>Rumah gendang bersendi perak.</li>
+<li>Rumah sudah tukul berbunyi.</li>
+<li>Rumah terbakar tikus habis ke luar.</li>
+<li>Runcing tanduk bengkak kening.</li>
+<li>Runcing telunjuk memalit sambal.</li>
+<li>Runding banyak nan disebut.</li>
+<li>Rupa bagai pulut, ditanak berderai.</li>
+<li>Rupa sebagai yang-yang kesuma.</li>
+<li>Rupa seperti cindaku.</li>
+<li>Rupa yang tak dapat diubah, tabiat dapat diubah.</li>
+<li>Rusa di hutan,kancah sudah terjerang.</li>
+<li>Rusak anak karena menantu.</li>
+<li>Rusak badan karena penyakit, rusak bangsa karena laku.</li>
+<li>Rusak bangsa karena laku.</li>
+<li>Rusak bauang ditiup jambak.</li>
+<li>Sabuung selepas hari petang.</li>
+<li>Sahaja basahan jadi air mandi.</li>
+<li>Sakit hati berulam jantung.</li>
+<li>Sakit kepala panjang rambut, patah selera banyak makan.</li>
+<li>Sakit sama mengaduh, luka sama menyiuk.</li>
+<li>Salah bunuh memmberi balas, salah cencang memberi pampas.</li>
+<li>Salah cencang memberi pampas, salah bunuh memberi bangun.</li>
+<li>Salah cetok melantingkan.</li>
+<li>Salah cotok berkerudung paruh, salah telan belah perut.</li>
+<li>Salah cotok melantingkan.</li>
+<li>Salah gelok hulu malang, pandai berrtenggang hulu baik.</li>
+<li>Salah lebur sama binasa.</li>
+<li>Salah makan memuntahkan, salah tarik mengembalikan, salah langkah surut kembali.</li>
+<li>Salah wesel.</li>
+<li>Salai tidak berapi.</li>
+<li>Salangkan bah kapar yak hanyut, ini kemarau panjang.</li>
+<li>Sama naik bagai gelombang, sama turrun bakk kapencong.</li>
+<li>Sama rasa sama rata.</li>
+<li>Sama turun dengan malim.</li>
+<li>Sambang jala terletak, laut kering ikan terhempas,</li>
+<li>Sambang jala terletak, laut kering terhempas.</li>
+<li>Sambang penuh jala terletak, laurt kering ikan terhempas.</li>
+<li>Sambil berdendang biduk hilir.</li>
+<li>Sambil berdendang nasi masak.</li>
+<li>Sambil berdiang nasi masak, sambil beredendang biduk hilir.</li>
+<li>Sambil diang nasi masak.</li>
+<li>Sambil menyelam minum air, sambil menyeruduk galas lalu.</li>
+<li>Sambil menyelam minum air.</li>
+<li>Samir tak habis, kajang pula.</li>
+<li>Sampah jangan ditendang sepak.</li>
+<li>Sampai titik darah yang penghabisan.</li>
+<li>Sampan ada pengayuh tidak.</li>
+<li>Sampan upih berdayung bilah.</li>
+<li>Samun berdarah dingin.</li>
+<li>Samun sakal berdarah tangan.</li>
+<li>Santan masak pasu, ampasnya tumpah ke tanah.</li>
+<li>Saputangan menali ayam.</li>
+<li>Sarak itu adik mati.</li>
+<li>Sarang tabuhan jangan dijolok.</li>
+<li>Sarang unam dimasuki ketam jadi umang-umang.</li>
+<li>Sarap sehelai dituilkan, batu sebungkah digulingkan.</li>
+<li>Satu bertelur, ayam sekandang ikut ribut.</li>
+<li>Satu biduk nahkoda dua.</li>
+<li>Satu jentik sepuluh rebah.</li>
+<li>Satu juga gendang berbunyi.</li>
+<li>Satu nyawa dua badan.</li>
+<li>Satuu pintu bila tertutup, sepuluh pintu lagi kan terbuka.</li>
+<li>Sauk air mandikan diri.</li>
+<li>Sawah berpematang, ladang berbintralak.</li>
+<li>Sawah luas tahan tua, rumah gedang tahan tonggak.</li>
+<li>Sayang aak badak tampung, cucu konon badak raya.</li>
+<li>Sayang akan baju, badan binasa.</li>
+<li>Sayang akan garam secacah, dibusukkan kerbau seekor.</li>
+<li>Sayang anak, tangan-tangani, syang bini tinggal-tinggalkan.</li>
+<li>Sayang buah kepayang dimakan mabuk dibuang sayang.</li>
+<li>Sayang di anak dilecut, sayang negeri ditinggalkan.</li>
+<li>Sayang garamsecacah, busuk kerbau seekor.</li>
+<li>Sayap patah bertongkat paruh.</li>
+<li>Sebab berkelahi jangan perigi akhirnya mati dahaga.</li>
+<li>Sebab budi boleh kedapatan.</li>
+<li>Sebab karena cendrawasih, merak emas dilepaskan.</li>
+<li>Sebab kasih akan bunga setangkai, dibuang bunga seceper.</li>
+<li>Sebab mutiara sebiji, lautan dalam diselam orang.</li>
+<li>Sebab nila setitik rusak susu sebelanga.</li>
+<li>Sebab pijat-pijat tuma mati.</li>
+<li>Sebab pulut santan binasa, sebab mulut badan binasa.</li>
+<li>Sebab tiada tahu menari dikatakan tanah lembab.</li>
+<li>Sebagai ayam diasak malam.</li>
+<li>Sebagai cendawan dibasuh.</li>
+<li>Sebagai duri landak.</li>
+<li>Sebagai kunyit dengan dapur.</li>
+<li>Sebagai si bisa mimpi terasa ada terkatakan tidak.</li>
+<li>Sebaik-baik tinggal di rantau, baikmjuga di negeri sendiri.</li>
+<li>Sebelum ajal berpantang maut.</li>
+<li>Sebelum ajal berpantang-pantang mati.</li>
+<li>Sebelum ajalnya pantang mati.</li>
+<li>Seberapa panjang sarungnya begitulah panjang matanya.</li>
+<li>Seberapa tajam parang, masih tajam mulut manusia.</li>
+<li>Seberat-berat beban, laba jangan ditinggalkan.</li>
+<li>Seberat-berat kayu, terapung juga di air.</li>
+<li>Sebesar-besar bumi dilempar tak kena.</li>
+<li>Sebuah lesung, seekor ayam gedangnya.</li>
+<li>Sebusuk-busuk daging dikincah dimakan juga, seharum-harum tulang dibuang.</li>
+<li>Sebusuk-busuk telunjuk, telunjuk juga mencolek tahi mata.</li>
+<li>Sebut aku pasti datang, sebut dia penantian.</li>
+<li>Secicip bagai ayam, sedncing bagai besi.</li>
+<li>Sedangkan bah kapur tak hanyut, ini pula kemarau panjang.</li>
+<li>Sedangkan cacing diinjak bergerak apalagi manusia.</li>
+<li>Sedangkan gajah yang besar dan berkaki empat lagi terkadang tersrondong dan jatuh tersungkur ke bumi.</li>
+<li>Sedangkan pucuk lagi tak merah, konon pula selerranya.</li>
+<li>Sedangkan tupai lagi gawal.</li>
+<li>Sedap dahulu pahit kemudian.</li>
+<li>Sedap manis jangan ditelan, pahit jangan segera dimuntahkan.</li>
+<li>Sedatar saja lurah dengan bukit.</li>
+<li>Sedekat-dekat tepi kain, dekat juga dengan bebat.</li>
+<li>Sedencing bagai besi, seciap bagai ayam.</li>
+<li>Sedepa jalan ke muka, selangkah jalan kedepan.</li>
+<li>Sedepa tanduk yang datang, sejengkal tanduk yang menanti, payah juga yang datang</li>
+<li>Sedia payung sebelum hujan</li>
+<li>Sedikit bicara banyak bekerja</li>
+<li>Sedikit hujan, banyak yang basah.</li>
+<li>Sedikit kerja banyak beruntung.</li>
+<li>Seekor cacing menelan naga.</li>
+<li>Seekor kerbau berkubang, sekandung kena luluknya.</li>
+<li>Seekor kerbau berlumpur semuanya berlabur.</li>
+<li>Seekor kerbau membawa lumpur, semua habis terpalit.</li>
+<li>Seembus naik, seembus turun.</li>
+<li>Segala yang baik ada cacatnya.</li>
+<li>Segan bergalah hanyut serantau.</li>
+<li>Segan berkayuh perahu hanyut.</li>
+<li>Segan berkayuh, hanyut serantau.</li>
+<li>Segan bertanya sasat dijalan, segan bergalah hanyut serantau.</li>
+<li>Segan menurut rundingan orang lain.</li>
+<li>Segantang tak akan jadi secupak.</li>
+<li>Segar dipakai, layu dibuang.</li>
+<li>Sehabis kelahi teringat silat.</li>
+<li>Sehabis rabuk, sehabis putaran.</li>
+<li>Sehari sehelai benang, lama-lama jadi sehelai kain.</li>
+<li>Sehelai sepinang.</li>
+<li>Seidas bagai benang, sebentuk bagai cincin.</li>
+<li>Seikat bagai sirih, serumpun bagai serai.</li>
+<li>Seikat diulas, panjang dikerat.</li>
+<li>Seiring bertukar jalan, beria bertukar sebut.</li>
+<li>Seiring bertukar jalan, sekadang tidak sebau.</li>
+<li>Sejahat-jahatnya harimau tak akan memakan anaknya sendiri.</li>
+<li>Sejengkal tak akan jadi sehasta, secupak tak akan jadi sesukat.</li>
+<li>Sekain sebaju, selauk senasi.</li>
+<li>Sekali lancing ke ujian, seumur hidup orang tak percaya.</li>
+<li>Sekali lancing ke ujian, seumur hidup orang takkan percaya.</li>
+<li>Sekali membuka pura, dua tiga utang terbayar.</li>
+<li>Sekali merengkuh dayung, dua, tiga pulau terlampaui.</li>
+<li>Sekam menjadi hampa berat.</li>
+<li>Sekebat bagai sirih.</li>
+<li>Sekejam-kejamnya harimau ia takkan makan anaknya.</li>
+<li>Sekejap bagai pelita akan padam.</li>
+<li>Sekeras-kerasnnya batu bila tertimpa hujan akan retak juga.</li>
+<li>Sekerat ular sekerat belut.</li>
+<li>Sekudung llimbat sekudung lintah.</li>
+<li>Sekutuk beras basah.</li>
+<li>Selam hujan akan panas.</li>
+<li>Selama air hilir, selama gagak hitam.</li>
+<li>Selama capung cebok.</li>
+<li>Selama enggan mengeram.</li>
+<li>Selama gagak hitam, selama air hilir.</li>
+<li>Selama hayat dikandung badan, budii baik diingat pula.</li>
+<li>Selama hayat dikandung badan.</li>
+<li>Selangkah berpantang surut, setapak berpantang mundur.</li>
+<li>Selapik seketiduran, sebantal sekalang hulu.</li>
+<li>Selapit ketiduran sebantal sekalang gulu.</li>
+<li>Selembab-lembab puntung di dapur, ditiup menyala juga.</li>
+<li>Selepas bedil berbunyi, mencebur ikan dalam laut, berkokok ayam dalam hutan.</li>
+<li>Selera bagai taji, tulang bagai kanji.</li>
+<li>Selera bagai taji, tulang bagai sayap.</li>
+<li>Selera tajam bagai tali, tulang lemah bagai kanji.</li>
+<li>Selimat kain tiga hasta, ditarik ke atas bawah terbuka, ditarik ke bawah atas pula terbuka.</li>
+<li>Selisih berujung kerja berjunjung.</li>
+<li>Selompat hidup selompat mati.</li>
+<li>Seluas dada tuma.</li>
+<li>Seludang menolak mayang.</li>
+<li>Seludang menolakkan mayangan.</li>
+<li>Seluduk sama bangkok, melompat sama patah.</li>
+<li>Semahal-mahal gading, kalau patah tak berguna.</li>
+<li>Semak-semak disaingi, rimbun-rimbun ditutuh.</li>
+<li>Semalam di bawah nyiur pinang orang, kala di turut.</li>
+<li>Semalam di bawah nyiur pinang orang, kata di turut.</li>
+<li>Semangat harimau.</li>
+<li>Semangat kambing.</li>
+<li>Semanis-manis gula, ada pasir di dalamnya.</li>
+<li>Semanis-manisnya gula ada pasir di dalamnya, sepahit-pahitnya mambu kelatnya menjadi obat.</li>
+<li>Sembahyang diberi waktu, janji diberi berketika.</li>
+<li>Sembahyang mencari akal, rusuk mencari kira-kira.</li>
+<li>Sembelih ayam dengan pisau, sembelih orang denngan kapak.</li>
+<li>Sembunyi tuma kepala tersorok, ekor kelihatan.</li>
+<li>Sementara suruk ekor habis.</li>
+<li>Semir tak habis kajang pula.</li>
+<li>Semut gatal gonggong gunung, bagaimana dunia takkan sunyi.</li>
+<li>Semut terpijak tidak mati, alu bertarung patah tiga.</li>
+<li>Sendok berdngar-dengar, nasi habis budi dapat.</li>
+<li>Sengsara membawa nikmat.</li>
+<li>Senjata makan tuan.</li>
+<li>Seorang budi-budian, seorang tabung seruas.</li>
+<li>Seorang dicecak, semuanya merasa pedih.</li>
+<li>Seorang ke hilir seorang ke mudik.</li>
+<li>Seorang makan nangka, semua kena getahnya.</li>
+<li>Sepala-pala mandi biarlah basah.</li>
+<li>Sepandai-pandai bungkus, yang busuk berbau juga.</li>
+<li>Sepandai-pandai mencecang, landasan juga yang akan habis.</li>
+<li>Sepandai-pandai tupai melompat akhirnya jatuh ke tanah jua.</li>
+<li>Sepandai-pandai tupai melompat sekali akan gagal juga.</li>
+<li>Sepantun elang dengan ayam, lambat laun disambar jua.</li>
+<li>Sepedih-pedihnya mata memandang, pedih juga kulit merasai.</li>
+<li>Sepenggalah matahari.</li>
+<li>Seperi embacong buruk kulit.</li>
+<li>Seperti mencari kutu dalam ijuk.</li>
+<li>Seperti abu diatas tunggul</li>
+<li>Seperti air dalam talam.</li>
+<li>Seperti air dalam terenang.</li>
+<li>Seperti alu penumbuk emping.</li>
+<li>Seperti anai-anai makan kayu.</li>
+<li>Seperti anak ayam kehilangan induknya.</li>
+<li>Seperti anak panah lepas dari busurnya.</li>
+<li>Seperti anjing bertemu pasir.</li>
+<li>Seperti api makan lalang kering, tidak dapat dipadamkan.</li>
+<li>Seperti api dengan asap.</li>
+<li>Seperti api di dalam sekam.</li>
+<li>Seperti aur ditarik sungsang.</li>
+<li>Seperti ayam beranak itik.</li>
+<li>Seperti ayam, kais pagi makan pagi, kais petang makan petang.</li>
+<li>Seperti badak makan anaknya.</li>
+<li>Seperti bangsi buluh perindu.</li>
+<li>Seperti baranak besar, hidung dikeluani.</li>
+<li>Seperti batang mengkudu, dahulu buah dari bunga.</li>
+<li>Seperti Belanda miinta tanah, diberi sehasta minta sedepa.</li>
+<li>Seperti benang putih.</li>
+<li>Seperti beras lembab, dijual tak laku, ditanak tak mual.</li>
+<li>Seperti bergalah dii tengah arus.</li>
+<li>Seperti bergendang ke Sirukam, perut kenyang emas dapat.</li>
+<li>Seperti berjejak di atas bara.</li>
+<li>Seperti biji saga rambat di atas talam.</li>
+<li>Seperti buah bemban masask.</li>
+<li>Seperti buku gaharu.</li>
+<li>Seperti bunyi gong pecah.</li>
+<li>Seperti bunyi gong tengkurap.</li>
+<li>Seperti burung gagak pulang ke benua.</li>
+<li>Seperti cacing kepanasan.</li>
+<li>Seperti cecak makan kapur.</li>
+<li>Seperti cembul dengan tutupnya.</li>
+<li>Seperti cendawan tumbuh di musim hujan.</li>
+<li>Seperti cincin dengan permata.</li>
+<li>Seperti cincin dengan permata.</li>
+<li>Seperti daun delima dengan bunganya.</li>
+<li>Seperti dedahlu api hinggap dipohon kayu, hinggap di batangnya mati, hinggap di ranting, rantingnya patah.</li>
+<li>Seperti delima merekah.</li>
+<li>Seperti denak mencari lawan.</li>
+<li>Seperti durian menunjukkan pangsanya.</li>
+<li>Seperti elang menyongsong angin.</li>
+<li>Seperti emas baru disepuh.</li>
+<li>Seperti embun di daun keladi.</li>
+<li>Seperti gajah masuk kampung.</li>
+<li>Seperti gajah putih ditambat.</li>
+<li>Seperti garam dengan asam.</li>
+<li>Seperti gerundang kekeringan.</li>
+<li>Seperti gula dalam mulut.</li>
+<li>Seperti gunting makan di ujung.</li>
+<li>Seperti harimau kena kucing pekak.</li>
+<li>Seperti harimau menyembunyikan kukunya.</li>
+<li>Seperti ikan dalam belanga.</li>
+<li>Seperti ikan kena tuba.</li>
+<li>Seperti ilmu padi, makin tua makin merunduk.</li>
+<li>Seperti inai dengan kuku.</li>
+<li>Seperti itik mendengar guntur.</li>
+<li>Seperti jana belum bersuami.</li>
+<li>Seperti janggut pulang ke dagu.</li>
+<li>Seperti kaduk kena air tahi.</li>
+<li>Seperti kain buruk, dibakar tak berbau.</li>
+<li>Seperti kain kasa diatas duri.</li>
+<li>Seperti kambing dengan harimau.</li>
+<li>Seperti kambing dihalau ke air.</li>
+<li>Seperti kambing putus tali.</li>
+<li>Seperti kapak menyelam beliung.</li>
+<li>Seperti kapak naik ke pemindangan.</li>
+<li>Seperti kapal tiga tiang.</li>
+<li>Seperti kapas yang dibusur.</li>
+<li>Seperti kapur di ujung telunjuk.</li>
+<li>Seperti katak di bawah tempurung.</li>
+<li>Seperti katak minta hujan.</li>
+<li>Seperti kebau berendam, sekandang kena luluknya.</li>
+<li>Seperti kecek ular.</li>
+<li>Seperti kelekati masuk api, tiada tahu akan mati.</li>
+<li>Seperti kelekatu masuk api.</li>
+<li>Seperti kelopak pandan.</li>
+<li>Seperti kepiting tidak tahu bungkuknya, sebagai udang tak tahu bungkuknya.</li>
+<li>Seperti kera dengan monyet.</li>
+<li>Seperti kerbau dicocok hidungnya.</li>
+<li>Seperti kerbau menanduk anak dengan kapar tanduk tidak dengan ujung.</li>
+<li>Seperti kerbau menanduk anak dengan papar bukan dengan tanduk.</li>
+<li>Seperti keris makan tuan.</li>
+<li>Seperti kersik di pulau.</li>
+<li>Seperti ketiak ular, panjang lanjut.</li>
+<li>Seperti kiambanng dilepas.</li>
+<li>Seperti kijang lepas ke rimba.</li>
+<li>Seperti kodok ditimpa kemarau.</li>
+<li>Seperti kodok merindukan bulan.</li>
+<li>Seperti kucing dapat tikus.</li>
+<li>Seperti kucing dengan tikus.</li>
+<li>Seperti kucing dibawakan lidi.</li>
+<li>Seperti kucung terkena balur.</li>
+<li>Seperti kuda lepas dari pingitan.</li>
+<li>Seperti kulit badak.</li>
+<li>Seperti kumbang dijolok.</li>
+<li>Seperti laba-laba cinta kepada telurnya.</li>
+<li>Seperti lalat mencari puru.</li>
+<li>Seperti lampu kekurangan minyak.</li>
+<li>Seperti lebah, mulut bawa madu, pantat bawa penyengat.</li>
+<li>Seperti limau masak seluas.</li>
+<li>Seperti lipas kudung.</li>
+<li>Seperti lonjak alu penumbuk padi.</li>
+<li>Seperti manau, seribu kali empat haram tak patah.</li>
+<li>Seperti mayang menolak selundang.</li>
+<li>Seperti mayang terurai.</li>
+<li>Seperti melukut di tepi gantang.</li>
+<li>Seperti melukut di tepi gunung, keluar tidak mengurangi, masuk tidak memenuhi.</li>
+<li>Seperti memalu ular dengan benih, ular jangan mati, benih jangan rusak.</li>
+<li>Seperti membangkitkan bangkai ular.</li>
+<li>Seperti memegang tali layang-layang.</li>
+<li>Seperti menarik rambut dalam tepung, rambut jangan putus, tepung jangan bergoyang.</li>
+<li>Seperti menegakkan benang basah.</li>
+<li>Seperti menepung tiada betas.</li>
+<li>Seperti menggantang anak ayam, masuk dua keluar tiga.</li>
+<li>Seperti mentimun dengan durian, menggolek rusak, kena golek binasa.</li>
+<li>Seperti menuangkan minyak tanah dalam api.</li>
+<li>Seperti minyak dengan air.</li>
+<li>Seperti monyet dipakaikan sutra.</li>
+<li>Seperti negeri dikalahkan garuda.</li>
+<li>Seperti ombak darat jolong menurun.</li>
+<li>Seperti orang mabuk gadung.</li>
+<li>Seperti orang mati bila tiada orang yang mengankat bilakah bergerak.</li>
+<li>Seperti orang mati jika tidak diangjat tidak bergerak.</li>
+<li>Seperti orang penghisap candu, dengan candu sampai mati.</li>
+<li>Seperti pacat kenyang.</li>
+<li>Seperti pacat melompat.</li>
+<li>Seperti padi hampa, makin lama makin mencongak.</li>
+<li>Seperti paru dengan kepak.</li>
+<li>Seperti pelandak lepas dari jerat.</li>
+<li>Seperti peluru dua setuangan.</li>
+<li>Seperti perahu tidak berjuragan.</li>
+<li>Seperti pikat kehilangan mata.</li>
+<li>Seperti pinang pulang ketampyk.</li>
+<li>Seperti pinggan dengan mangkuk, salah sedikit hendak berantuk.</li>
+<li>Seperti pinggan putih retak sedikit kelihatan.</li>
+<li>Seperti polong kena sembur.</li>
+<li>Seperti pucuk dengan pelepah.</li>
+<li>Seperti pucuk eru, ke mana angin yanng keras ke sana condongnya.</li>
+<li>Seperti puyuh mau yang betina dari yang jantan.</li>
+<li>Seperti rusa masuk kampung.</li>
+<li>Seperti santan dengan tenggulli.</li>
+<li>Seperti sebuah biji tersesat dalam rrumput.</li>
+<li>Seperti sembunyi puyuh, kepada tersorok, ekor kelihatan.</li>
+<li>Seperti sendok dengan periuk sentuh-menyentuh.</li>
+<li>Seperti si buta baru melihat.</li>
+<li>Seperti si cebot hendak mencapai bulan.</li>
+<li>Seperti sir in pulang ke gagangnya.</li>
+<li>Seperti sumpit ditegakkan.</li>
+<li>Seperti sutra dalam lukisan.</li>
+<li>Seperti tabuhan dalam tukil.</li>
+<li>Seperti talam dua muka.</li>
+<li>Seperti tebu, airnya dimakan, ampasnya dibuang.</li>
+<li>Seperti tempayan tertiarap.</li>
+<li>Seperti tikus jatuh di beras.</li>
+<li>Seperti tikus jatuh ke beras.</li>
+<li>Seperti tikus masuk perangkap.</li>
+<li>Seperti tikus masuk roman.</li>
+<li>Seperti tudung dengan delamak.</li>
+<li>Seperti tulis di atas air.</li>
+<li>Seperti tuma, di kain putih, dia putih, di kain hitam, dia hitam.</li>
+<li>Seperti ular dicubit ekor.</li>
+<li>Sepuluh batang bertindih, yang bawah juga yang luluh.</li>
+<li>Sepuluh kapal datang, anjing pun bercawat ekor.</li>
+<li>Serak tak sudah.</li>
+<li>Serasa di liang lahat.</li>
+<li>Serba guruh serba putus.</li>
+<li>Serigala berbulu domba.</li>
+<li>Sering bertukar jalan, sering bertukar sebut.</li>
+<li>Serta lalu kucing, tikus tiada berdecit lagi.</li>
+<li>Seruas tebu yang berulat, sebatang yang dibuang.</li>
+<li>Serumpun bagai serai, tentu maung.</li>
+<li>Serumpun bagai serasi, seliang bagai tebu.</li>
+<li>Serupa paham perempuan.</li>
+<li>Sesal dahulu pendapatan, sesal kemudian tiada gunanya.</li>
+<li>Sesal dahulu yang bertuah, sesal kemudian yang celaka.</li>
+<li>Sesat di ujung jalan, balik ke pangkanlnya.</li>
+<li>Sesat di ujung jalan, lebih baik ke pangkal jalan.</li>
+<li>Sesipai bagai lidi.</li>
+<li>Sesiuk kuaran terbang, selayang kuda berlari.</li>
+<li>Setajam-tajamnya parang, tajam juga mulut orang.</li>
+<li>Setali tiga uang.</li>
+<li>Setampar seemas, dua tampar seemas, baik ditampar benar.</li>
+<li>Setapak jangan lalu, setapak jangan surut.</li>
+<li>Setelah hujan akan panas jua.</li>
+<li>Setempuh lalu, sebondong surut.</li>
+<li>Setiap tunas akan tumbuh ke atas dan akar akan tumbuh ke bawah.</li>
+<li>Setinggi-tingginya melanting, jatuh juga ke tanah.</li>
+<li>Setinggi-tingginya terbang bangau hinggap di bubungan juga.</li>
+<li>Setolok bagai gelang setempa bagai cincin.</li>
+<li>Seukur berbaur, bertopang bercerai.</li>
+<li>Seumpama telur sesarang dierami induknya.</li>
+<li>Seumur-umur belum pernah megalami.</li>
+<li>Si bungsu pengindang antah.</li>
+<li>Sia-sia menjaring angin.</li>
+<li>Sia-sia utang tumbuh.</li>
+<li>Sial bercampur malang.</li>
+<li>Siang bagai hari, terang bagai bulan.</li>
+<li>Siang bernapas, malam berembun.</li>
+<li>Siapa berkotek siapa bertelur.</li>
+<li>Siapa bermakan lada, ialah berasa pedas.</li>
+<li>Siapa cepat boleh dulu, siapa kemudian putih mata.</li>
+<li>Siapa cepat dialah yang dapat.</li>
+<li>Siapa cerdik naik tinggi, siapa calak menang terhitung.</li>
+<li>Siapa gatal, dia yang menggaruk.</li>
+<li>Siapa lama tahan, menang.</li>
+<li>Siapa makan cabai dialah yang terasa pedas.</li>
+<li>Siapa makan nangka, akan terkena getahnya.</li>
+<li>Siapa melalah, siapa patah.</li>
+<li>Siapa menjala, siapa terjun.</li>
+<li>Siapa patah siapa melejang.</li>
+<li>Siapa pun menjadi raja, tangan ke dahi juga.</li>
+<li>Siapa yang gatal, dialah yang menggaruk.</li>
+<li>Siapa yang kena cubit, akan merasa pedih.</li>
+<li>Siapa yang makan nangka dia yang terkena getahnya.</li>
+<li>Siapa yanng berketuk, dia yang bertelur.</li>
+<li>Siapakah yang mau menghujankan garamnya?</li>
+<li>Sigai dua berseragai.</li>
+<li>Silang berpangkal, kerja berjunjung.</li>
+<li>Silap cakap kena radak, hilang jiwa percuma saja.</li>
+<li>Silap mata, pecah kepala.</li>
+<li>Silih berganti bagai ombak di tepi pantai.</li>
+<li>Sinar ikan dalam air, sudah tahu jantan betinanya.</li>
+<li>Singkat diulas, panjang dikerat.</li>
+<li>Singkat tidak terluas, panjang tidak terkerat.</li>
+<li>Singkat untuk tabuh, panjang untuk gendang.</li>
+<li>Sirih berlipat datang sendiri.</li>
+<li>Sirih naik junjungannya naik.</li>
+<li>Sirih naik, junjungan patah.</li>
+<li>Sirih pulang ke gagang.</li>
+<li>Sisih antah dengan beras.</li>
+<li>Sudah baik kedudukannya, tidak tempatnya.</li>
+<li>Sudah banyak makan asam garam.</li>
+<li>Sudah basah kehujanan.</li>
+<li>Sudah bergulung lapik saja.</li>
+<li>Sudah bertarah berdongkol pula.</li>
+<li>Sudah bungkuk seperti wau.</li>
+<li>Sudah calit jangan palit.</li>
+<li>Sudah dapat gading bertuah, tanduk tiada berguna lagi.</li>
+<li>Sudah dianjung dihempaskan.</li>
+<li>Sudah dieban dihela pula.</li>
+<li>Sudah dikecek, dikecong pula.</li>
+<li>Sudah diludahkan, dijilat kembali.</li>
+<li>Sudah gaharu cendana pula, sudah tahu bertanya pula.</li>
+<li>Sudah gaharu cendana pula.</li>
+<li>Sudah genap bilangannya.</li>
+<li>Sudah jatuh tertimpa tangga.</li>
+<li>Sudah kelihatan belangnya.</li>
+<li>Sudah keluar kering keringatnya.</li>
+<li>Sudah kenyang makan kerak.</li>
+<li>Sudah ketinggalan zaman.</li>
+<li>Sudah lepas dari bahunya.</li>
+<li>Sudah lulus maka hendak melantai.</li>
+<li>Sudah merasai makna santun.</li>
+<li>Sudah panas berbaju pula.</li>
+<li>Sudah seayun bagai berbuai.</li>
+<li>Sudah suratan takdir.</li>
+<li>Sudah tahu akan ragi kain.</li>
+<li>Sudah tahu asam garamnya.</li>
+<li>Sudah tahu di asam garam.</li>
+<li>Sudah tahu di kain beragi.</li>
+<li>Sudah tahu peria pahit.</li>
+<li>Sudah terantuk baru tengadah.</li>
+<li>Sudah terantuk, baru tengadah.</li>
+<li>Sudah terijuk awak.</li>
+<li>Sudah terlalu hi Mr malam, apa hendak dikata lagi.</li>
+<li>Sudah tidak bersudu oleh angsa, baharu diberikan kepada itik.</li>
+<li>Sudah tujuh janda berduduk, sembilan neranak tiri, tercecah uban di gigi.</li>
+<li>Sudah uban baru berguam.</li>
+<li>Sudu-sudu di tepi jalan dipanjat kena durinya, disinggung kena rabasnya, ditakik kena getahnya.</li>
+<li>Sukakan gaharu karena baunya, sukakan guru karena ilmunya.</li>
+<li>Sukar kaji pada orang alim, sukar uang pada orang kaya.</li>
+<li>Sukat air menjadi batu.</li>
+<li>Sukat darah bertimbang daging.</li>
+<li>Suku tak boleh diajak, malu tak boleh diagih.</li>
+<li>Sumbing melalui ratak melampaui garis.</li>
+<li>Sumbing menitik, patah mengimpal.</li>
+<li>Sumur digali air terbit.</li>
+<li>Sungguh berjanggut tiada berjubah.</li>
+<li>Sungguh bersubang tiada berdara.</li>
+<li>Sungguh pun batang merdeka, ingat pucuk akan terhempas.</li>
+<li>Sungguhpun kawat yang dibentuk, ikan ditebat diagak.</li>
+<li>Sungguhpun lemak santan akhirnya basi jua.</li>
+<li>Supaya tahu akan pedas lada, supaya tahu asin garam.</li>
+<li>Surat di atas batu.</li>
+<li>Suruh putih, hitam datang.</li>
+<li>Susu di dada tak dapat dielakkan.</li>
+<li>Syarak yang mengata, adat yang memaksa.</li>
+<li>Syariat palu memalu, hakikat balas membalas.</li>
+<li>Tabir sudah tergantung, tikar sudah terbentang.</li>
+<li>Tabuhan meminang anak laba-laba.</li>
+<li>Tabuhan meminang anak labah-labah.</li>
+<li>Tabung seruas.</li>
+<li>Tahan baji oleh kelidai.</li>
+<li>Tahan jerat di tempat genting.</li>
+<li>Tahan jerat sorong kepala.</li>
+<li>Tahan-tahan larat.</li>
+<li>Tahu diereng dengan gendeng.</li>
+<li>Tahu makan tahu simpan.</li>
+<li>Tajam lidah dari pada pedang.</li>
+<li>Tajam pisau karena diasah.</li>
+<li>Tak ada beras yang akan ditanak.</li>
+<li>Tak ada busuk yang tak berbau.</li>
+<li>Tak ada dekar yang tak bulus.</li>
+<li>Tak ada gading yang tak retak.</li>
+<li>Tak ada gunung tinggi yang ta runtuh, tak ada lurah yang dalam yang tak dapat dituruni.</li>
+<li>Tak ada guru pada orang pekak, tak ada kilat pada orang buta.</li>
+<li>Tak ada guruh bagi orang pekak, tak ada kilat bagi si buta.</li>
+<li>Tak ada kubangan yang tak berkatak,</li>
+<li>Tak ada macan yang makan anaknya.</li>
+<li>Tak ada padi bernas setangkai.</li>
+<li>Tak ada pendekar yang tak bulus, tak ada juara yang tak kalah.</li>
+<li>Tak ada rotan akar pun jadi.</li>
+<li>Tak ada tanaman menolak hujan.</li>
+<li>Tak ada terlawan jika buaya menyelam air.</li>
+<li>Tak air talang dipancung.</li>
+<li>Tak akan lari gunung dikejar, hilang kabut tampaklah dia.</li>
+<li>Tak akan serik luka dimakan tajak, esok lusa kebendang juga.</li>
+<li>Tak benang batu digilas.</li>
+<li>Tak beras antak dikisik.</li>
+<li>Tak berasak lenggang dari ketiak.</li>
+<li>Tak berasak lenggang di ketiak.</li>
+<li>Tak berkain sehelai benang.</li>
+<li>Tak berpucuk di atas enau.</li>
+<li>Tak berudang di balik batu, tak berorang di balik aku.</li>
+<li>Tak bolah tanduk telinga dipulas.</li>
+<li>Tak boleh bertemu roma.</li>
+<li>Tak emas bungkal diasah.</li>
+<li>Tak empang peluru di lalang.</li>
+<li>Tak jauh lenggang dari ketiak.</li>
+<li>Tak jemu-jemu seperti ombak memecah.</li>
+<li>Tak kaya oleh emas pembawa, tak gadis oleh kain bersalang.</li>
+<li>Tak kayu jejang dikeping, tak emas bungkal diasah.</li>
+<li>Tak kenal maka tak sayang.</li>
+<li>Tak keruh laut oleh ikan, tak runtuh gunung oleh kabut.</li>
+<li>Tak kuning oleh kunyit, tak putih oleh kapur.</li>
+<li>Tak lain dandang di air, di gurun ditanjakkan.</li>
+<li>Tak lapuk oleh hujan, tak lekang oleh panas.</li>
+<li>Tak lari gunung dikejar.</li>
+<li>Tak lekang di bibr.</li>
+<li>Tak lekang oleh panas, tak lapuk oleh hujan.</li>
+<li>Tak mau koyak kulit, koyak kain mau juga.</li>
+<li>Tak mengenal pasang surut.</li>
+<li>Tak menghangat mendingin.</li>
+<li>Tak pernah masuk gelanggang bergoyang.</li>
+<li>Tak putus dirundang malang.</li>
+<li>Tak sama getah daun dengan getah batang.</li>
+<li>Tak sungguh getah daun, yang sebenarnya getah batang juga.</li>
+<li>Tak tahu di bongkok tidur.</li>
+<li>Tak tahu ujung pangkalnya.</li>
+<li>Tak tentu hilir mudiknya.</li>
+<li>Tak tentu hilirnya.</li>
+<li>Tak tentu kepala ekornya.</li>
+<li>Tak termakan oleh anjing kata-katanya.</li>
+<li>Tak timbuh tak melata, tak sungguh orang dikata.</li>
+<li>Tak usah bimbang, gula dalam mulut, tinggal telan saja.</li>
+<li>Tak usah diajar anak buaya berenang, ia sudah pandai juga.</li>
+<li>Tak usah diajar itik berenang.</li>
+<li>Takarran sudah hampir punuh.</li>
+<li>Takkan ada katak beranak ular.</li>
+<li>Takkan dua kali orangtua kehilangan tongkat.</li>
+<li>Takkan pasang selalu di mana surut senantiasa.</li>
+<li>Takkan pisang berbuah dua kali.</li>
+<li>Takut akan bayang-bayang sendiri.</li>
+<li>Takut akan kutu dibuang kain.</li>
+<li>Takut akan Lumpur, lari keduri.</li>
+<li>Takut dihantu, terpeluk di bangkai.</li>
+<li>Takut dilanggar batang, jangan duduk di kepala pulau.</li>
+<li>Takut hantu, terpeluk bangkai.</li>
+<li>Takut kepada ular terkejut kepada bengkarung.</li>
+<li>Takut titik lalu tumpah.</li>
+<li>Takutkan tuma, dibuang kain.</li>
+<li>Tali busur tidak selamanya dapat direnggang.</li>
+<li>Tali di dalam bungkusan, digerek tikus apa gunanya.</li>
+<li>Tali jangan diputus, kaitan jangan diserkah.</li>
+<li>Tali jangan diputus, pengait tinggal di atas.</li>
+<li>Tali terentang tidak putus, sangkutan tergantung tidak rekah.</li>
+<li>Tamak hilang malu, loba dapat kebiasaan.</li>
+<li>Tambah air tambah sagu.</li>
+<li>Tampak benar lurah tak berbatu, ijuk tak bersagar.</li>
+<li>Tampak jalan tempat lalu, lupa batu akan menarung.</li>
+<li>Tampak ranggas tak akan melenting.</li>
+<li>Tampan sudah langgam terbawa.</li>
+<li>Tampuknya masih bergetah.</li>
+<li>Tanah lembah kandungan air, kayu bengkok titian kera.</li>
+<li>Tanah tumpah darahku.</li>
+<li>Tanam cempedak tumbuh nangka.</li>
+<li>Tanam ilalang tak akan tumbuh padi.</li>
+<li>Tanduk di kepala takkan dapat digelengkan.</li>
+<li>Tangan kanan jangan percaya akan tangan kiri.</li>
+<li>Tangan mencencang bahu memikul.</li>
+<li>Tangan singkat hendak mengulur.</li>
+<li>Tangan yang celaka, kerja jatuh.</li>
+<li>Tangguk rapat, keruntung bubus.</li>
+<li>Tarik puntung padamlah bara.</li>
+<li>Taruh beras dalam padi.</li>
+<li>Tebal kulit muka.</li>
+<li>Tebu setuntung masuk geraham gajah.</li>
+<li>Teduhkan di bawah betung.</li>
+<li>Tegak berpaling, duduk berkisar.</li>
+<li>Tegak meninjau jarak, duduk meraut ranjau.</li>
+<li>Tegak pada yang datar.</li>
+<li>Tegak seperti alif.</li>
+<li>Tegak tapak bayang-bayang.</li>
+<li>Tegang dinanti kendur, keras dinanti lunak.</li>
+<li>Telaga di bawah gunung.</li>
+<li>Telaga mencari timba.</li>
+<li>Telah baris berpahat, telah jalan yang tertutur.</li>
+<li>Telah busuk makan peda.</li>
+<li>Telah dapat gading bertua, terbuang tanduk kerbau mati.</li>
+<li>Telah karam maka ditimba.</li>
+<li>Telah mati yang bergading.</li>
+<li>Telah mendapat gading bertuah, terbuang tanduk kerbau mati.</li>
+<li>Telah menjadi darah daging.</li>
+<li>Telah meraba-raba tepi kain.</li>
+<li>Telah panas hari, lupa kacang akan kulitnya.</li>
+<li>Telah penuh sebagai sukat.</li>
+<li>Telentang sama diminum airnya, telungkup sama termakan tanah.</li>
+<li>Telentang sama menadah embun, tertiarap sama memakan pasir.</li>
+<li>Telinga rrabit dipasang gelang, kaki untuk dipakaikan gelang, jari kudung dimasukan gelang.</li>
+<li>Telunjuk lurus, kelingking berkait.</li>
+<li>Telunjuk mencolok mata.</li>
+<li>Telur dua sebandung pecah satu pecah kedua.</li>
+<li>Tempat makan jangan diberaki.</li>
+<li>Tempayan tertiarap di air.</li>
+<li>Tepuk berbalas, alang berjawat.</li>
+<li>Tepuk dada tanya selera.</li>
+<li>Tepuk perut tanya selera.</li>
+<li>Tepuk sebelah tangan tidak akan berbunyi.</li>
+<li>Teracak bagai lembing tergadai.</li>
+<li>Teralang-alang bagaikan sampah di mata.</li>
+<li>Terang kabut tenanglah hari.</li>
+<li>Terang kabut, teduhlah hujan.</li>
+<li>Terapung sama hanyut, terendam sama basah.</li>
+<li>Terapung tak hanyut, tenggelam tak basah.</li>
+<li>Teras terhujam gubal melayang, bertingting bertampi beras, gubal melayang teras tinggal.</li>
+<li>Terbakar kampung kelihatan asap, terbakar hati siapa tahu.</li>
+<li>Terbakar kampung kelihatan asap, terbakar hati siapa tahu.</li>
+<li>Terbang bertumpu, hinggap mencekam.</li>
+<li>Terbangkit batanng terendam.</li>
+<li>Terbulang ayam betina.</li>
+<li>Tercacak bagai lembing tergadai.</li>
+<li>Tercencang puar, tergerak andilau.</li>
+<li>Terconteng arang di muka.</li>
+<li>Terdorong gajah karena besarnya.</li>
+<li>Terendam sama basah, terampai sama kering.</li>
+<li>Tergali pada bajana emas.</li>
+<li>Tergeser karena miang, terlanggar karena rebas.</li>
+<li>Tergolek pada yang indah.</li>
+<li>Terhengit-hengit bagaikan rumput di tengah jalan, mati segan hidup tak hendak.</li>
+<li>Terkalang di mata, terasa di hati.</li>
+<li>Terkatung-katung bagai biduk patah kemudi.</li>
+<li>Terkena luluk kandang kering.</li>
+<li>Terkena pada ikan bersorak, terkena pada batang masam.</li>
+<li>Terkilat ikan dalam air, tahu jantan atau betina.</li>
+<li>Terkilat-kilat bagai katak disemburi.</li>
+<li>Terlalu panggan jadi hangus.</li>
+<li>Terlalu panggang hangus.</li>
+<li>Terlalu tinggi jatuh, terlalu panjang patah.</li>
+<li>Terlampau cepat jadi lambat.</li>
+<li>Terlampau dikandang, mentah.</li>
+<li>Terlampau lurus kurus, terlampau cerdik terkedik.</li>
+<li>Terlangsung perahu boleh balik, terlangsung cakap tak dapat balik.</li>
+<li>Terlayang-layang bagai bulu berisi tanah.</li>
+<li>Terlentang sama makan abu, tengkurap sama makan tanah.</li>
+<li>Terlihat ikan dalam air, tahu jantan atau betinanya.</li>
+<li>Terlindung oleh sanggul.</li>
+<li>Terloncat-loncat bagai ulat pinang.</li>
+<li>Termakan cirit berendang.</li>
+<li>Termakan hati pukang.</li>
+<li>Ternak gembala, parak berpagar.</li>
+<li>Terpanggang bagai kodok dalam lubang.</li>
+<li>Terpanjat di hutan dadap.</li>
+<li>Terpaut bertali, teerlambang berlantak.</li>
+<li>Terpecak peluh di muka.</li>
+<li>Terpelannting memilihi, tersesak malampungkan.</li>
+<li>Terpijak bayang-bayang.</li>
+<li>Terpijak benang arang, hitam tapak.</li>
+<li>Terpijak di tanah kapur putih tapak, terpijak di tanah hitam arang hitam tapak.</li>
+<li>Tersaukkan ikan suka, tersakkan batang masam.</li>
+<li>Tersendeng-sendeng bagai sepat di bawah mengkuang.</li>
+<li>Tersesak bagai undang kepada yang runcing, tak dapat bertenggang lagi.</li>
+<li>Tersesak padang ke tebing.</li>
+<li>Tersesat padang ke rimba.</li>
+<li>Tersinggung lebih bagai kena.</li>
+<li>Tersingit-singit bagai katung di bawah raba.</li>
+<li>Tersuruh kepada orang yang akan pergi terimbau pada orang yang aka datang.</li>
+<li>Tertanam di biji hampa.</li>
+<li>Tertangguk pada ikan dikeruntungkan, terangguk pada ular dikeruntungkan juga.</li>
+<li>Tertangkap di air kalang.</li>
+<li>Tertangkap kain.</li>
+<li>Tertangkap sama termakan tanah, terlentang sama terminum air.</li>
+<li>Tertarung kaki boleh diinai, tertarung hati susah diobati.</li>
+<li>Tertimbuk-biduk dikelolakkan, tertumbuk kata dipikiri.</li>
+<li>Tertimbun dikais, terbenam di selam.</li>
+<li>Tertumbuk biduk dibelokkan, tertumbuk kala dipikiri.</li>
+<li>Tertumbuk biduk dikelokkan, tertumbuk hati dikelokkan.</li>
+<li>Tertumpang di biduk tiris.</li>
+<li>Tiada air sungai mengalir ke hulu.</li>
+<li>Tiada akan licin katak puru walaupun berhujan sekalipun.</li>
+<li>Tiada angin bertiup masakan daun kan bergoyang.</li>
+<li>Tiada beban batu digalas.</li>
+<li>Tiada berpucuk di atas enau.</li>
+<li>Tiada berudang di balik batu.</li>
+<li>Tiada biduk karam sebelah.</li>
+<li>Tiada buruk yang tak elok.</li>
+<li>Tiada dibawa orang sehilir semuara.</li>
+<li>Tiada dibawa orang sehilir semudik.</li>
+<li>Tiada disangka akan karam, ombak yang kecil diabaikan.</li>
+<li>Tiada ilmu suluh padam.</li>
+<li>Tiada kayu janjang dikeping.</li>
+<li>Tiada kekal bunga di karrang.</li>
+<li>Tiada kubang yang tiada berkodok.</li>
+<li>Tiada lepas dari bibir.</li>
+<li>Tiada mengetahui hulu hilirnya.</li>
+<li>Tiada patah yang tak timpang.</li>
+<li>Tiada ragam kunyit, resan serai.</li>
+<li>Tiada rotan akar pun jadi.</li>
+<li>Tiada teerbawa sekam segatang.</li>
+<li>Tiada terbungkam tahi mata dengan empu jari.</li>
+<li>Tiada terempang peluru oleh ilalang.</li>
+<li>Tiada umpat yang membunuh, tiada sanjung yang mengenyang.</li>
+<li>Tiang pandak hendak menyamai tiang panjang.</li>
+<li>Tiap gila tiap berkongkong, tiap mandi tiap bergosok.</li>
+<li>Tiap-tiap celaka pasti ada gunanya.</li>
+<li>Tiba di mata dipejamkan, tiba di perut dikempiskan.</li>
+<li>Tiba di perut dikempiskan, tiba di mata dipincingkan, tiba di dada dibusungkan.</li>
+<li>Tidak ada kusut yang sehelai, tak ada keruh yang tak jernih.</li>
+<li>Tidak ada kusut yang tak selesai.</li>
+<li>Tidak ada lalat langau.</li>
+<li>Tidak ada orang yang menggaruk keluar badan.</li>
+<li>Tidak ada pendekar yang tak bulus, tak ada juara yang tak kalah.</li>
+<li>Tidak ada ribut masakan daun ta bergoyang.</li>
+<li>Tidak alang kepalang tanggung.</li>
+<li>Tidak berasak tuunas dari tunggal.</li>
+<li>Tidak berdaging lagi.</li>
+<li>Tidak beringsut dari bibir.</li>
+<li>Tidak berisi lagi, tinggal koyakan.</li>
+<li>Tidak bernasi di balik kerak.</li>
+<li>Tidak bisa dipegang ekornya.</li>
+<li>Tidak dapart menaruh muka.</li>
+<li>Tidak dibawa orang makan sejambar.</li>
+<li>Tidak dihambat akar dihambat dahan.</li>
+<li>Tidak hujan lagi becek, ini kan pula hujan.</li>
+<li>Tidak laku diikat.</li>
+<li>Tidak mudah membuat kanji, kurang haru cirit-kambingan.</li>
+<li>Tidak tahu alif.</li>
+<li>Tidak tahu dikeluani orang.</li>
+<li>Tidak tanahnya akan menjadi padi.</li>
+<li>Tidak terindang dedak basah.</li>
+<li>Tidak terindang dedak berbiak lagi.</li>
+<li>Tidak terkayuhkan lagi biduk hilir.</li>
+<li>Tidak termakan peluru.</li>
+<li>Tidak usak kerbau oleh penyembelihnya.</li>
+<li>Tidakk tampak batang hidungnya.</li>
+<li>Tidaklah gajah dapat ke tangan manusia.</li>
+<li>Tidaklah gajah yang besar da diam di hhutan itu ke tangan manusia.</li>
+<li>Tidur bertilam air mata.</li>
+<li>Tidur bertilam pasir.</li>
+<li>Tidur diatas miang.</li>
+<li>Tidur orang alim lebih baik daripada puasa orang jahat.</li>
+<li>Tidur tak nyenyak, makan tak kenyang.</li>
+<li>Tikar emas bantal suasa sama dengan berbantalkan lengan.</li>
+<li>Tikus jatuh ke dalam gudang beras.</li>
+<li>Timbangan berat sebelah.</li>
+<li>Tinggal di tabung diuntungkan, tinggal di aweh dikiraikan.</li>
+<li>Tinggal jangat pembalut tulang.</li>
+<li>Tinggal keolpak salak.</li>
+<li>Tinggal kulit pembalut tulang.</li>
+<li>Tinggal nadi.</li>
+<li>Tinggal sehelai pinggang.</li>
+<li>Tinggal tulang dengan kulit.</li>
+<li>Tinggi banir tempat berlindung.</li>
+<li>Tinggi di laga, rendah geleparnya.</li>
+<li>Tinggi dianjang besar dilambuk.</li>
+<li>Tinggi dianjung, besar dipupuk.</li>
+<li>Tinggi gelapur, rendah laga.</li>
+<li>Tinggi kayu ara dilangkahi, rendah bilang-bilang diseluduki.</li>
+<li>Tinggi kayu ara dilompati, rendah bilang-bilang disyukuri.</li>
+<li>Tinggi tampak jauh, yang dekat julung bersua.</li>
+<li>Tinggi terbawa oleh ruasnya.</li>
+<li>Titah dijunjung, perintah dijalankan.</li>
+<li>Titian biasa lapuk, janji bisa mungkir.</li>
+<li>Tohok lembing ke semak.</li>
+<li>Tohok raja tidak dapat diledakakan.</li>
+<li>Tohok tunggang ke baruh.</li>
+<li>Tolak tangga berayun kaki, peluk tubuh mengajar diri.</li>
+<li>Tong kosong nyaring bunyinya.</li>
+<li>Tong penuh trak berguncang, tong setengah berguncang.</li>
+<li>Tongkat hati hubungan nyawa.</li>
+<li>Tongkat membawa rebah.</li>
+<li>Tua-tua keladi, semakin tua semakin jadi.</li>
+<li>Tua-tua kelapa, makin tua banyak santannya.</li>
+<li>Tuah anjing celaka kuda.</li>
+<li>Tuah ayam boleh dillihat, tuah manusia siapa tahu.</li>
+<li>Tuah melambung tinggi, celaka menimpa badan.</li>
+<li>Tuah sebesar bukit, celaka sebesar gunung.</li>
+<li>Tuak terbeli, tunjang hilang.</li>
+<li>Tuak terbeli, tunjang hilang.</li>
+<li>Tuba habis ikan tak dapat.</li>
+<li>Tukang tiak membuang kayu.</li>
+<li>Tumbuh pada alur sudah diturut, tumbuh pada jalan sudah ditempuh.</li>
+<li>Tumbuk tanak terserah kepada badan seorang.</li>
+<li>Tunggang hilang berani maati.</li>
+<li>Tunggul kayu ditaruh pelicin elok juga, jangankan manusia.</li>
+<li>Tunggul terbakar di tengah huma.</li>
+<li>Tuntutlah ilmu dari ayunan sampai ke liang lahat.</li>
+<li>Tuntutlah ilmu walau ke negeri Cina.</li>
+<li>Turut hatinyang geram, hilang takut tiimbul keberanian.</li>
+<li>Turut rasa binasa, turut harti mati.</li>
+<li>Uang mudah dicari, sahabat sulit didapat.</li>
+<li>Ubun-ubun masih bergerak sudah angkuh.</li>
+<li>Ubur-ubur airnya hitam</li>
+<li>Ucap habis niat sampai.</li>
+<li>Udang hendak mengatai ikan.</li>
+<li>Udang merentak dalam tangguk.</li>
+<li>Udang tak tahu di bongkoknya.</li>
+<li>Udang tak tahu di bungkuknya, orang tak tahu buruknya.</li>
+<li>Ugut-ugut beruk saja.</li>
+<li>Uir-uir minta getah. (uir-uir - sebangsa belalang atau jengkerik yang biasa berbunyi di dalam rimba)</li>
+<li>Ujung (hujung) lurus, pangkal berkait.</li>
+<li>Ujung jarum halus kelindan sutera.</li>
+<li>Ukur baju di badan sendiri.</li>
+<li>Ukur berbaur, bertopang bercerai.</li>
+<li>Ukur mata dengan telinga.</li>
+<li>Ulam mencari sambal.</li>
+<li>Ular bercampur dengan belut, tak akan hilang bisanya.</li>
+<li>Ular berkepala dua.</li>
+<li>Ular berlingkar di gulungan tikar.</li>
+<li>Ular biar mati, tanah jangan lekuk, buluh jangan pukah.</li>
+<li>Ular bukan, ikan pun bukan.</li>
+<li>Ular dipalu biar mati.</li>
+<li>Ular dipukul jangan mati, kayu pemukul jangan patah.</li>
+<li>Ular menyusur akar.</li>
+<li>Ular telan babi, cacing yang bengkak perut.</li>
+<li>Ulat dalam batu pun hidup juga.</li>
+<li>Ulat di dalam batu, apa dimakannya?</li>
+<li>Ulat lupakan daun.</li>
+<li>Umpama air digenggam tiada tiris.</li>
+<li>Umpama anjing makan muntahnya.</li>
+<li>Umpama ayam menetaskan telur itik, anaknya itu ke air juga.</li>
+<li>Umpama batik lasum, makin dibasuh makin berbau.</li>
+<li>Umpama Belanda kesiangan.</li>
+<li>Umpama bilah atau lidi yang terselat pada dinding, dapat juga diambil akan pencungkil gigi atau pencungkil telinga.</li>
+<li>Umpama buah kepayang, dimakan mabuk di buang sayang.</li>
+<li>Umpama gula dalam mulut.</li>
+<li>Umpama kayu buruk, buruk di panas, reput di hujan.</li>
+<li>Umpama memerah nyiur, santan diambil ampas dibuang.</li>
+<li>Umpamanyakan dawai.</li>
+<li>Umpan habis ikan tak kena.</li>
+<li>Umpan habis pancing putus, puca terlepas dari tangan.</li>
+<li>Umpan menyembunyikan pancing.</li>
+<li>Umpan seumpan, kail sebentuk.</li>
+<li>Umpat dan puji tiada bercerai.</li>
+<li>Umpat tak membunuh, puji tak menyerang.</li>
+<li>Umur setahun jagung, darah setampuk pinang.</li>
+<li>Umur setahun jagung.</li>
+<li>Undang-undang berbatu hitam.</li>
+<li>Unjuk yang tak diberrikan.</li>
+<li>Untuk baja kait, untuk cangkul ujur,</li>
+<li>Untuk tak dapat diraih, malang tak dapt ditolak.</li>
+<li>Untung bagai roda pedati, sekali ke bawah sekali ke atas.</li>
+<li>Untung bagai untung kapas.</li>
+<li>Untung batu tenggelam.</li>
+<li>Untung melambung, malang menimpa.</li>
+<li>Untung sabut timbul, untung batu tenggelam.</li>
+<li>Untung sebagai roda pedati.</li>
+<li>Untung sepanjang jalan, malang sepanjang mata.</li>
+<li>Untut bertambah kulitnya.</li>
+<li>Upah bidan pun tak terbayar.</li>
+<li>Upah lalu, bandar tak masuk.</li>
+<li>Upas berulam racun.</li>
+<li>Ural malang pangkal celaka.</li>
+<li>Usahlah teman dimandikan pagi.</li>
+<li>Usang dibarui, lapuk dikajangi.</li>
+<li>Usul menunjukkan asal.</li>
+<li>Usul-usul; asal-asal; asal jangan ditinggalkan.</li>
+<li>Utang (hutang) (pinjam) kayu ara.</li>
+<li>Utang (hutang) biduk belum langsai, utang (hutang) pengayuh datang pula.</li>
+<li>Utang (hutang) emas dapat (boleh) dibayar, utang (hutang) budi dibawa mati.</li>
+<li>Utang (hutang) samir belum selesai, hutang kajang tumbuh pula.</li>
+<li>Utang (hutang) sebelit (selilit) pinggang.</li>
+<li>Utang (hutang) tembilang belum langsai, utang (hutang) tajak bila pula.</li>
+<li>Utang (hutang) tiap helai bulu.</li>
+<li>Utang darah dibayar dengan darah, utang nyawa dibayar dengan nyawa.</li>
+<li>Utang jiwa di bayar dengan jiwa.</li>
+<li>Waktu adalah uang.</li>
+<li>Waktu garuda dikalahkan ular.</li>
+<li>Walau bagaimana minyak dicampur dengan air, minyak juga yang timbul.</li>
+<li>Walau disepuh emas lancung, kilat tembaga tampak juga.</li>
+<li>Walau ikan diam di dalam tujuh lautan sekalipun, termasuk ke dalam pukat juga.</li>
+<li>Walau ikan yang diam di dalam tujuh lautan juga, termasuk dalam pukat juga.</li>
+<li>Walau seribu anjing menyalak, gunung takkan runtuh.</li>
+<li>Walau sungai mengalir ke laut, laut tiada akan bertambah.</li>
+<li>Walaupun ada umpan, belum tentu ada ikan.</li>
+<li>Walaupun disepuh emas lanncung, kilat tembaga tampak.</li>
+<li>Walaupun setandan bagi kepala, namun untung berkelainan.</li>
+<li>Warta dibawa pikat dan langau.</li>
+<li>Wau melawan angin.</li>
+<li>Wayang kepadaman damar.</li>
+<li>Ya sepanjang hari, janji sepanjang jalan.</li>
+<li>Yag bulat datang berguling, yang picak datang melayang.</li>
+<li>Yang benar bawa lalu, yang salah bawa surut.</li>
+<li>Yang berbaris yang berpahat, yang bertakuk yang bertebang.</li>
+<li>Yang berhutang terjerat di kaki, yang menjamin terjerat di leher.</li>
+<li>Yang berpayung yang ditembak. (ditembak - dituju)</li>
+<li>Yang bertakuk yang ditebang, yang bergaris yang dipahat.</li>
+<li>Yang bingung makanan yang cerdik, yang tidur makanan yang jaga.</li>
+<li>Yang bisu pengejut ayam.</li>
+<li>Yang bulat datang bergolek, yang pipih datang melayang.</li>
+<li>Yang bungkuk (bongkok) juga dimakan sarung.</li>
+<li>Yang buntal kutil mengutil, yang jerung luluh meluluh.</li>
+<li>Yang dijolok tiada jatuh, penjolok tinggal di atas.</li>
+<li>Yang dikejar tiada datang yang dikandung berceceran.</li>
+<li>Yang dikejar tidak dapat, yang dikendong berciciran.</li>
+<li>Yang dimakan rasa, yang dilihat rupa, yang didengar bunyi.</li>
+<li>Yang disangka tidak menjadi, yang diam boleh ke dia.</li>
+<li>Yang disuruh tenggelam, yang menyuruh pun tenggelam.</li>
+<li>Yang dulu mendapat, yang kemudian ketinggalan.</li>
+<li>Yang elok budi yang indah bahasa.</li>
+<li>Yang elok rupa, yang elok bahasa.</li>
+<li>Yang enggang sama enggang juga, yang pipit sama pipit juga.</li>
+<li>Yang hampa biar terbang, yang bernas biar tinggal.</li>
+<li>Yang hidup sesarkan mati.</li>
+<li>Yang jauh berpanggilan, yang dekat berimbauan.</li>
+<li>Yang lahir memperlihatkan yang batin.</li>
+<li>Yang lumpuh pengejut ayam.</li>
+<li>Yang memberi tangan di atas, yang menerima ( meminta) tangan di bawah.</li>
+<li>Yang menanti padang tak berumput, yang mendatang kurus kedut-kedut.</li>
+<li>Yang mencencang memampas.</li>
+<li>Yang merah saga, yang kurik kundi.</li>
+<li>Yang merah saga, yang kurik kundi; yang indah bahasa, yang baik budi.</li>
+<li>Yang ombak itu ombak juga, yang air itu air juga.</li>
+<li>Yang pberpuru salalu hendak menggarruk.</li>
+<li>Yang pipit sama pipit, yang enggang, sama enggang.</li>
+<li>Yang rebah ditindih.</li>
+<li>Yang rendah terpendek sangat, yang tinggi terunjur sangat.</li>
+<li>Yang secupak tak akan menjadi segantang.</li>
+<li>Yang secupak takkan jadi sesukat, yang sejengkal takkan jadi sehasta.</li>
+<li>Yang sehasta takkan jadi sedepa.</li>
+<li>Yang sejengkal tidak dapat jadi sedepa.</li>
+<li>Yang seorang memeram batu, yang seorang memeram pisang.</li>
+<li>Yang sesukat takkan jadi segantang.</li>
+<li>Yang tajam tumpul, yang bisa tawar.</li>
+<li>Yang tak diarah dapat, yang diarah tak kena.</li>
+<li>Yang tegak disokong, yang lemah ditopang.</li>
+<li>Yang teguh disokong, yang rebah ( rendah) ditindih.</li>
+<li>Yang terbujur lalu, yang terlintang patah.</li>
+<li>Yang terkalang-kalang di mata, yang terasa-rasa di hati.</li>
+<li>Yang tinggi tampak jauh, yang dekat jolong bersua.</li>
+<li>Yang tua dimuliakan, yang kecil dikasihi.</li>
+<li>Yang untut lain, yang mengensot lain.</li>
+<li>Yang terpelanting akan dipilih, yang terserat tidak di kampungkan lagi.</li>
+<li>Zaman beralih, musim bertukar.</li>
+<li>Zaman beredar musim berganti.</li>
+<li>Zaman Tuk Nadur berkajang kain.</li>
+<li>Zikir-zikir saja jatuhkah rezeki jatuh dari langit?</li>
+</random>
+</template>
+</category>
+
+</aiml>

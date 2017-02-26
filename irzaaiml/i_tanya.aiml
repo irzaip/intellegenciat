@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+
+<category>
+<pattern>_ nya *</pattern>
+<template>nya</template>
+</category>
+
+<category>
+<pattern>LAKI *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">laki</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>PEREMPUAN *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">perempuan</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>PRIA *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">laki</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>STATUS</pattern>
+<template>Bahasa: <get name="language"/>Nama : <get name="nama"/>umur : <get name="umur"/>j kel: <get name="gender"/>bekerja: <get name="bekerja"/>p.jauh: <get name="berpergian"/>film: <get name="filmfav"/></template>
+</category>
+
+<category>
+<pattern>TANYA</pattern>
+<template>
+<random>
+<li>Siapa nama anda?</li>
+<li>Berapa umur anda?</li>
+<li>Anda masih bekerja?</li>
+<li>Apa nama panjang anda?</li>
+<li>Anda laki-laki atau perempuan?</li>
+<li>Apa film bioskop favorit anda?</li>
+<li>Apakah anda pernah berpergian jauh?</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>WANITA *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">perempuan</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>ANDA MASIH BEKERJA</that>
+<template>
+ok.<think><set name="it"><set name="bekerja"><person/></set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>APA FILM BIOSKOP FAVORIT ANDA</that>
+<template>
+Hmm, pilihan menarik..<think><set name="it"><set name="filmfav"><person/></set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>APA NAMA PANJANG ANDA</that>
+<template>
+Nama yang indah sekali.<think><set name="it"><set name="nama"><person/></set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>APAKAH ANDA PERNAH BERPERGIAN JAUH</that>
+<template>
+wow, enak ya..<think><set name="it"><set name="berpergian"><person/></set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>BERAPA UMUR ANDA</that>
+<template>
+ok.<think><set name="it"><set name="umur"><person/></set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>SIAPA NAMA ANDA</that>
+<template>
+Nama yang indah.<think><set name="it"><set name="nama"><person/></set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* LAKI</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">laki</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* LAKI *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">laki</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* PEREMPUAN</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">perempuan</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* PEREMPUAN *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">perempuan</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* PRIA</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">laki</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* PRIA *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">laki</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WANITA</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">perempuan</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WANITA *</pattern>
+<that>ANDA LAKI-LAKI ATAU PEREMPUAN</that>
+<template>
+ok.<think><set name="it"><set name="gender">perempuan</set></set></think>
+<srai>PICKME</srai>
+</template>
+</category>
+
+</aiml>

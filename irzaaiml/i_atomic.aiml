@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+
+
+<!--
+********************************************************************
+                  MOHON
+********************************************************************
+-->
+
+
+<category>
+  <pattern>MOHON</pattern>
+  <template>
+  <random>
+    <li>Ok, saya usahakan</li>
+    <li>coba dulu yaa</li>
+    <li>ok dech</li>
+    <li>Siaap</li>
+  </random>
+  </template>
+</category>
+
+
+<!--
+********************************************************************
+                  TERIMA KASIH
+********************************************************************
+-->
+
+
+<category>
+  <pattern>TERIMA KASIH</pattern>
+  <template>
+  <random>
+    <li>Kembali</li>
+    <li>ok</li>
+    <li>no problem</li>
+    <li>gak masalah</li>
+	<li>dengan senang hati</li>
+	<li>ah, gak masalah kok</li>
+  </random>
+  </template>
+</category>
+
+<category>
+<pattern>TERIMA KASIH KEMBALI</pattern>
+<template>Sama-sama, dengan senang hati</template>
+</category>
+
+<category>
+<pattern>TERIMA KASIH *</pattern>
+<template><srai>TERIMA KASIH KEMBALI</srai></template>
+</category>
+
+<category>
+<pattern>TERIMA KASIH</pattern>
+<template>Kembali, sama-sama</template>
+</category>
+
+<category>
+<pattern>SENANG HATI</pattern>
+<template>Saya lah yang semestinya bersenang hati</template>
+</category>
+
+<category>
+<pattern>SENANG * BICARA *</pattern>
+<template>Senang bisa bicara juga<get name="name"/>.</template>
+</category>
+
+
+<!--
+********************************************************************
+                  SIAPA KAMU
+********************************************************************
+-->
+
+<category>
+  <pattern>SIAPA KAMU</pattern>
+  <template>
+  <random>
+    <li>Saya Irza</li>
+    <li>gue Irza</li>
+    <li>Irza Pulungan</li>
+    <li>Nama saya Irza</li>
+	<li>Nama saya Irza Pulungan</li>
+  </random>
+ </template>
+</category>
+
+
+<!--
+*********************************************************************
+                   HAHA
+*********************************************************************
+-->
+
+<category>
+  <pattern>HAHA</pattern>
+  <template><random>
+    <li>ha ha ha...</li>
+	<li>hehe</li>
+	<li>xixix..</li>
+	<li>wkwkwkw..</li>
+	<li>kocak?</li>
+	<li>lucu?</li>
+  </random></template>
+</category>
+<category><pattern>HE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HEHE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HEHEHE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HEHEHEHE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HEHEHEHEHE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HIHI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HIHIHI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HIHIHIHI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HIHIHIHIHI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUHU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUHUHU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUHUHUHU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUHUHUHUHU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HOHO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HOHOHO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HOHOHOHO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HOHOHOHOHO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HAHAHA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HAHAHAHA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HAHAHAHAHA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUEHUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUEHUEHUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUEHUEHUEHUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUEHUEHUEHUEHUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XIXI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XIXIXI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XIXIXIXI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XIXIXIXIXI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WKWK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WKWKWK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WKWKWKWK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WKWKWKWKWK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>KOCAK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>LUCU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WHAHA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>LUCULO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>LUCU LO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>LUCU LOE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>ANJING</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>ANJRIT</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>BABI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WAKAKA</pattern><template><srai>HAHA</srai></template></category>
+
+<category><pattern>HI HI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HI HI HI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HI HI HI HI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HI HI HI HI HI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HU HU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HU HU HU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HU HU HU HU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HU HU HU HU HU</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HO HO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HO HO HO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HO HO HO HO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HO HO HO HO HO</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HE HE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HE HE HE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HE HE HE HE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HE HE HE HE HE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA HA HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA HA HA HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA HA HA HA HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HA</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUE HUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUE HUE HUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUE HUE HUE HUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>HUE HUE HUE HUE HUE</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XI XI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XI XI XI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XI XI XI XI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>XI XI XI XI XI</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WK WK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WK WK WK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WK WK WK WK</pattern><template><srai>HAHA</srai></template></category>
+<category><pattern>WK WK WK WK WK</pattern><template><srai>HAHA</srai></template></category>
+
+
+<!--
+*********************************************************************
+      MENGAPA - 6W
+*********************************************************************
+-->
+
+<category>
+  <pattern>MENGAPA</pattern>
+  <template><random>
+    <li>kurang jelas buat saya</li>
+    <li>kenapa ya?</li>
+    <li>Maaf saya tidak tahu</li>
+    <li>Apakah.. ah sudahlah</li>
+    <li>Jangan-jangan ....</li>
+    <li>kenapa...hmmm</li>
+    <li>hmmm...</li>
+	<li>sorry...</li>
+  </random></template>
+</category>
+
+<category>
+  <pattern>MENGAPA _</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>KENAPA _</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>APA *</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>APA KABAR</pattern>
+  <template><random>
+  <li>Baik</li>
+  <li>Alhamdulillah</li>
+  <li>so so.. </li>
+  <li>asik-asik aja </li>
+  <li>fine, thanks</li>
+  </random></template>
+</category>
+
+<category>
+  <pattern>DIMANA *</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>KAPAN _</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>BAGAIMANA _</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>GIMANA _</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+<category>
+  <pattern>APAKAH _</pattern>
+  <template><srai>MENGAPA</srai></template>
+</category>
+
+
+<!--
+*********************************************************************
+              KARENA
+*********************************************************************
+-->
+
+<category>
+  <pattern>KARENA</pattern>
+  <template><random>
+    <li>itulah sebabnya.</li>
+    <li>tepat.</li>
+    <li>saya rasa juga begitu.</li>
+    <li>begitulah.</li>
+    <li>saya rasa begitu.</li>
+    <li>karena itu.</li>
+    <li>ya.</li>
+    <li>saya setuju.</li>
+    <li>betul.</li>
+	</random></template>
+</category>
+
+
+<category>
+  <pattern>KARENA _</pattern>
+  <template><srai>KARENA</srai></template>
+</category>
+
+<category>
+  <pattern>SEBAB _</pattern>
+  <template><srai>KARENA</srai></template>
+</category>
+
+<category>
+  <pattern>SEBABNYA _</pattern>
+  <template><srai>KARENA</srai></template>
+</category>
+
+<category>
+  <pattern>OLEH KARENA _</pattern>
+  <template><srai>KARENA</srai></template>
+</category>
+
+<category>
+  <pattern>MAKA _</pattern>
+  <template><srai>KARENA</srai></template>
+</category>
+
+
+
+
+</aiml>

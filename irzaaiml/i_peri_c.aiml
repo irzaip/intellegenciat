@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+<category>
+  <pattern>*</pattern>
+  <that>CACING HENDAK MENJADI NAGA</that>
+  <template>Artinya Orang kecil hendak menyama-nyamai orang besar-besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CACING MENELAN NAGA</that>
+  <template>Artinya Anak orang bangsawan diperisteri oleh orang kebanyakan; orang yang berkuasa dapat dialahkan oleh orang yang lemah.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CACING MENJADI ULAR NAGA</that>
+  <template>Artinya Orang hina menjadi orang mulia.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAKAK SUDAH SILAT TERINGAT CAKAK  KELAHI</that>
+  <template>Artinya Perkara sudah selesai, barulah terdengar keterangan atau sungutan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAKAP BERDEGARDEGAR TAHI TERSANGKUT DI GELEGAR</that>
+  <template>Artinya Cakapnya saja yang besar tetapi tidak ada satu pun pekerjaan yang dilakukan olehnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAKAP BERLAUKLAUK MAKAN DENGAN SAMBAL LADA</that>
+  <template>Artinya Cakapnya seperti orang kaya, padahal miskin.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAKAPAN SEJENGKEL DIBAWA SEHASTA</that>
+  <template>Artinya Berlebih-lebihan daripada hal yang sebenarnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CALAKCALAK GANTI ASAH MENANTI TUKANG BELUM DATANG</that>
+  <template>Artinya Dipakai untuk sementara waktu saja, sementara belum ada yang lebih baik;</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAMPAK BAJU NAMPAK KURAP SEPERTI ANAK KACANG HANTU</that>
+  <template>Artinya Orang-orang muda yang tiada memelihara kehormatan dirinya ataupun kehormatan orang lain di jalan-jalan raya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAMPAK BAJU NAMPAK KURAP</that>
+  <template>Artinya Mendedahkan keburukan diri sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CAMPAK BUNGA DIBALAS DENGAN CAMPAK TAHI</that>
+  <template>Artinya Kebaikan dibalas dengan kejahatan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CANGGUNG SEPERTI ANTAN DICUNGKILKAN DURI  GIGI</that>
+  <template>Artinya Melakukan sesuatu pekerjaan yang bukan sepatutnya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CARI UMBUT KENA BUKU</that>
+  <template>Artinya Mencari yang baik, mendapat yang buruk.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CARIKCARIK BULU AYAM LAMALAMA BERCANTUM JUGA</that>
+  <template>Artinya Perselisihan sesama keluarga itu akhirnya akan berbaik kembali.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEKARAU BESAR LIANG CEKARAU SEJENIS TUMBUHAN DI AIR YANG BESAR LUBANG BATANGNYA</that>
+  <template>Artinya Besar bualannya dan suka membuka Rahasia orang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEKEL BERHABIS LAPUK BERTEDUH CEKEL  KIKIR PELIT</that>
+  <template>Artinya Biarpun kikir namun harta akan habis juga akhirnya atau hilang percuma saja.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEKUR JERANGAU ADA LAGI DI UBUNUBUN</that>
+  <template>Artinya Belum dewasa sudah hendak melawan orang tua; belum ada pengalaman.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CELAKA AYAM PADI MASAK MAKAN KE HUTAN</that>
+  <template>Artinya Nasib yang malang.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CELAKA TIGA BELAS</that>
+  <template>Artinya Malang sekali.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEMBUL DENGAN TUTUPNYA</that>
+  <template>Artinya Sesuai benar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEMPEDAK BERBUAH NANGKA</that>
+  <template>Artinya Memperoleh lebih dari yang diharapkan</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEMPERLING NAK JADI BAYU BAYU  SEJENIS BURUNG ASMARA DALAM DONGENGAN</that>
+  <template>Artinya Orang kecil hendak menyama-nyamai orang besar-besar.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CENCANG AIR TIDAK PUTUS PANCUNG ABU TAK BERBEKAS</that>
+  <template>Artinya Perselisihan sesama keluarga itu akhirnya akan berbaik kembali.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CENCANG DUA SEGERAGAI GERAGAI  PENGAIT UNTUK MENANGKAP BUAYA</that>
+  <template>Artinya Sekali jalan, dua tiga pekerjaan selesai.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CENCANG PUTUS BIANG TEMBUK</that>
+  <template>Artinya Putusan yang mengikat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CENCANG TERDADIK JADI UKIR TERDADEK  TERSESAT</that>
+  <template>Artinya Kesalahan yang tiada disengajakan, tetapi mendatangkan kebaikan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CENCARU MAKAN PETANG</that>
+  <template>Artinya Pekerjaan yang lambat mendatangkan hasil yang baik.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CENGKELING BAGAI ULAR DIPUKUL  DIPALU</that>
+  <template>Artinya Geliang-geliut karena kesakitan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEPAT KAKI RINGAN TANGAN</that>
+  <template>Artinya Rajin dan giat.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CEPAT TANGAN TERJEMBAKAN CEPAT KAKI TERLANGKAHKAN CEPAT MULUT TERKATAKAN</that>
+  <template>Artinya Jika kurang fikir atau kurang hemat dalam sesuatu perbuatan, maka tangan dan kaki serta mulut dapat menimbulkan kesusahan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CERDIK BAGAI EKOR KERBAU</that>
+  <template>Artinya Melakukan sesuatu pekerjaan yang merugikan diri sendiri.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CERDIK ELANG BINGUNG SIKIKIH LAMUN MURAI TERKECOH JUGA SIKKIH  SEJENIS ENGGANG KECIL SEDIKIT</that>
+  <template>Artinya Biarpun cerdik atau bodoh orang besar-besar itu tetapi orang kecil-kecil juga yang selalu menanggung rugi.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CERDIK PEREMPUAN MELEBURKAN SAUDAGAR MUDA MENGHUTANGKAN</that>
+  <template>Artinya Menuruti orang yang belum panjang pikirannya itu acap kali mendatangkan kesusahan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CERMAT MASA BANYAK JIMAT MASA SEDIKIT</that>
+  <template>Artinya Selalu berhati-hati dalam membelanjakan (menggunakan) sesuatu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CIK PUAN MELANGKAH ULAR TAK LEPAS</that>
+  <template>Artinya Gerak-geri perempuan yang lemah lembut.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CINCIN EMAS TAKKAN TAMPAN BERMATA KACA</that>
+  <template>Artinya Gadis yang elok dan hartawan takkan sejodoh dengan orang yang miskin dan hodoh.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CIUM TAPAK TANGAN BERBAUKAH ATAU TIDAK</that>
+  <template>Artinya Lihat diri sendiri terlebih dulu sebelum mencela orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>COBACOBA MENANAM MUMBANG JIKA TUMBUHAN SUNTING  SURI TURUS NEGERI</that>
+  <template>Artinya Kerjakan terus walaupun kurang berharga, barangkali ada juga hasilnya kelak.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CONDONG DITUMPIL LEMAH DIANDUH DITUMPIL  DITUNJANG</that>
+  <template>Artinya Memberi pertolongan (keuangan, fikiran dan sebagainya) kepada orang-orang yang di dalam kesusahan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CONDONG PUAR KE URATNYA CONDONG MANUSIA KEPADA BANGSANYA PUAR  TUMBUHAN HUTAN</that>
+  <template>Artinya Tiap-tiap orang lebih suka kepada keluarganya sendiri daripada kepada orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CONDONG YANG AKAN MENIMPA</that>
+  <template>Artinya Perbuatan yang sangat membahayakan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CONDONG YANG AKAN MENONGKAT REBAH YANG AKAN MENEGAKKAN</that>
+  <template>Artinya Pemimpin yang akan membantu atau menjaga rakyatnya jika ada kesusahan yang menimpa rakyatnya itu.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CORAK KAIN MENGIKUT KEHENDAK PENENUNNYA</that>
+  <template>Artinya Undang-undang sesebuah negeri itu menurut keadaan pemerintahnya; pengetahuan murid menurut ajaran gurunya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CUBIT PAHA KANAN PAHA KIRI PUN MERASA JUGA</that>
+  <template>Artinya Jika seseorang itu menyusahkan kaum keluarganya sendiri maka ia pun akan merasa susah juga.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CUBIT PAHA SENDIRI DULU BARU CUBIT PAHA ORANG LAIN</that>
+  <template>Artinya Pandang pada diri sendiri dulu, sebelum memandang pada orang lain.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CUPAK BERKEESAAN</that>
+  <template>Artinya Keadilan hukum baru bisa (boleh) diperoleh apabila sudah cukup keterangan atau pemeriksaannya.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CUPAK SUDAH TERTEGAK SURI SUDAH TERKEMBANG TERENTANG</that>
+  <template>Artinya Telah lama adat berdiri tentang tiap-tiap pekerjaan.</template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>CUPAK TEGAK YANG DIISI</that>
+  <template>Artinya Aturan yang masih tetap berlakulah yang diturut.</template>
+</category>
+
+</aiml>

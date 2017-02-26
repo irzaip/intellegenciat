@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>SALAM KENAL</pattern>
+
+<template>salam kenal juga dari saya</template>
+</category>
+
+ 
+
+<category>
+<pattern>SALAM KENAL *</pattern>
+
+<template>salam kenal juga dari saya</template>
+</category>
+
+ 
+
+<category>
+<pattern>ONLINE</pattern>
+
+<template>iya, saya online</template>
+</category>
+ 
+
+<category>
+<pattern>APAKAH ANDA SEDANG ONLINE</pattern>
+
+<template>iya, saya sedang online</template>
+</category>
+
+
+</aiml>

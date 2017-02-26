@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category>
+<pattern>BIJAK</pattern>
+<template> Saya kasih kamu kata bijak, 
+<random>
+<li>Jika engkau mencintainya, engkau akan juga menerima masa lalunya, sebagaimana engkau tak akan berbahagia jika engkau tak berdamai dengan masa lalumu.</li>
+<li>Gak cinta lagi itu gak sakit. Yang sakit itu udah gak cinta, tapi gak putus-putus.</li>
+<li>"Duduk di sebelahmu membuatku berbahagia dan sedih secara bersamaan, karena aku tahuaku tak akan pernah memilikimu."</li>
+<li>Hidupmu terlalu penting dan singkat untuk kau habiskan membenci seseorang. Pilihlah untuk berbahagia. Just move on!</li>
+<li>Putus cinta itu tidak sakit. Yang sakit itu adalah putus tapi masih cinta</li>
+<li>Om pernah patah hati? Tidak. Hati saya kuat. Hati saya menolak patah, paling-paling lebam atau baret.</li>
+<li>Cinta secara alamiah datang kepadamu karena kepantasanmu untuk mencintai dan dicintai.</li>
+<li>Tujuan dari cinta adalah membahagiakanmu. Jika tidak membahagiakan, pasti itu bukan cinta.</li>
+<li>Aku mungkin tak tahu banyak, tapi aku tahu aku mencintaimu. Dan itu lebih dari cukup.</li>
+<li>Cinta memang membutuhkan kejelasan, tapi ketidak-jelasannya itulah yang justru membuat penasaran dan berdebar-debar. </li>
+<li>Lebih baik mencintai dia yang jauh tapi merindukanmu, daripada mencintai yang dekat tapi hatinya jauh.</li>
+<li>Jangan terlalu galau jika dia berkhianat, sesungguhnya dia yang rugi, dan engkau untuk orang yang lebih baik.</li>
+<li>Pedih di hatimu itu, walau serasa akan mencabut nyawamu, sesungguhnya ia membuka keindahan sisi kehidupan yang tak mungkin kau kenal jika engkau tak pernah jatuh cinta.</li>
+<li>Lebih baik jatuh cinta dan patah hati, daripada tak pernah mengenal cinta.</li>
+<li>Semakin engkau terluka, semakin besar kemampuanmu untuk memuliakan belahan jiwa yang sedang disiapkan oleh Tuhan.</li>
+<li>Jatuh cinta itu untuk siapa pun. Tapi untuk tetap setia, hanya untuk jiwa yang anggun dan berkelas.</li>
+<li>Jodoh sudah ada yang mengatur. Wanita yang baik untuk laki-laki yang baik, dan sebaliknya. </li>
+<li>Jangan jatuh cinta dengan orang yang hanya cocok untuk jangka pendek. </li>
+<li>Tidak semua pacar akan menjadi pasangan hidup. Jadi, jangan terlalu galau kalau putus. </li>
+<li>Kerinduanku sedikit terdamaikan karena ku sadari bahwa malam ini, kita tidur di bawah langit yang sama.</li>
+<li>Itu sebabnya, jika Anda jatuh cinta, pastikanlah Anda jatuh cinta kepada orang yang akan tetap mencintai Anda, dan yang akan tetap Anda cintai. </li>
+
+
+
+</random>
+</template>
+</category>
+
+
+
+
+
+
+</aiml>

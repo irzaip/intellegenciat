@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category>
+<pattern>APA PRODUK</pattern>
+<template>
+<random>
+<li>Apanya yang anda ingin ketahui? jenis? daftar?</li>
+<li>Tepatnya apa yang anda ingin ketahui?</li>
+<li>ada yang lebih spesifik ingin di ketahui tentang produk kami?</li>
+</random>
+</template>
+</category>
+
+<topic name="PRODUK">
+<category>
+<pattern>CUKUP*</pattern>
+<template><srai>BANTU</srai></template>
+</category>
+
+</topic><category>
+<pattern>PRODUK</pattern>
+<template>
+produk,<think><set name="topic">PRODUK</set></think>
+<srai>APA PRODUK</srai>
+</template>
+</category>
+
+<category>
+<pattern>PRODUK*</pattern>
+<template><srai>PRODUK</srai></template>
+</category>
+
+<topic name="PRODUK">
+<category>
+<pattern>TIDAK ADA</pattern>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<template>
+<random>
+<li>Maaf, saya kalau saya kurang mengerti</li>
+<li>Ada lagi?</li>
+<li><srai>BANTU</srai></li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>* APA *</pattern>
+<template>macam macam,...</template>
+</category>
+
+</topic><category>
+<pattern>*PRODUK</pattern>
+<template><srai>PRODUK</srai></template>
+</category>
+
+<topic name="PRODUK">
+<category>
+<pattern>*PRODUK*</pattern>
+<template>Banyak...</template>
+</category>
+
+</topic><category>
+<pattern>*PRODUK*</pattern>
+<template><srai>PRODUK</srai></template>
+</category>
+
+</aiml>

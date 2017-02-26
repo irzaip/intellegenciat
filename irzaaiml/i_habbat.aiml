@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category>
+<pattern>_ HABBAT *</pattern>
+<template><srai>HABBAT</srai></template>
+</category>
+
+<category>
+<pattern>_ HABBATUSSAUDA</pattern>
+<template><srai><star/> HABBAT</srai></template>
+</category>
+
+<category>
+<pattern>APA HABBAT</pattern>
+<template>
+<random>
+<li>Apanya yang anda ingin ketahui? manfaat? atau penyakit yang bisa di sembuhkan?</li>
+<li>Tepatnya apa yang anda ingin ketahui?</li>
+<li>ada yang lebih spesifik ingin di ketahui tentang habbat?</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>APA ITU HABBAT</pattern>
+<template>Habbat merupakan tanaman biji bijian yang ada</template>
+</category>
+
+<topic name="HABBAT">
+<category>
+<pattern>ENGGAK</pattern>
+<that>ada yang lebih spesifik ingin di ketahui tentang habbat</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>ENGGAK</pattern>
+<that>Apanya yang anda ingin ketahui *</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+</topic><category>
+<pattern>HABBAT *</pattern>
+<template><srai>HABBAT</srai></template>
+</category>
+
+<category>
+<pattern>HABBAT</pattern>
+<template>
+habatussauda,<think><set name="topic">HABBAT</set></think>
+<srai>APA HABBAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>MANFAAT HABBAT</pattern>
+<template>Manfaatnya habbat banyak sekali pak...</template>
+</category>
+
+<topic name="HABBAT">
+<category>
+<pattern>NO</pattern>
+<that>ada yang lebih spesifik ingin di ketahui tentang habbat</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>NO</pattern>
+<that>Apanya yang anda ingin ketahui *</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+</topic><category>
+<pattern>PENYAKIT YANG DI SEMBUHKAN HABBAT</pattern>
+<template>untuk menyembuhkan segala penyakit mas,...</template>
+</category>
+
+<topic name="HABBAT">
+<category>
+<pattern>TERIMA KASIH</pattern>
+<that>ada yang lebih spesifik ingin di ketahui tentang habbat</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TERIMA KASIH</pattern>
+<that>Apanya yang anda ingin ketahui *</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TIDAK</pattern>
+<that>ada yang lebih spesifik ingin di ketahui tentang habbat</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TIDAK</pattern>
+<that>Apanya yang anda ingin ketahui *</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TIDAK ADA</pattern>
+<that>ada yang lebih spesifik ingin di ketahui tentang habbat</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TIDAK ADA</pattern>
+<that>Apanya yang anda ingin ketahui *</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TRIMS</pattern>
+<that>ada yang lebih spesifik ingin di ketahui tentang habbat</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>TRIMS</pattern>
+<that>Apanya yang anda ingin ketahui *</that>
+<template><srai>BANTU</srai></template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<template>
+<random>
+<li>Apanya yang anda ingin ketahui? manfaat? atau penyakit yang bisa di sembuhkan?</li>
+<li>Tepatnya apa yang anda ingin ketahui?</li>
+<li>ada yang lebih spesifik ingin di ketahui tentang habbat?</li>
+</random>
+</template>
+</category>
+
+</topic><category>
+<pattern>* HABBAT</pattern>
+<template><srai>HABBAT</srai></template>
+</category>
+
+</aiml>

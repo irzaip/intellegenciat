@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+
+<category>
+<pattern>FAKTA</pattern>
+<template> Faktanya ... 
+<random>
+<li>Coca-cola dulu berwarna hijau.</li>
+<li>Nama yang paling umum digunakan di dunia adalah Muhammad.</li>
+<li>Dalam bahasa inggris, semua nama benua diawali dan diakhiri dengan huruf vokal yang sama.</li>
+<li>Otot terkuat yang ada di badan kita adalah lidah.</li>
+<li>Setiap orang di USA punya 2 kartu kredit!</li>
+<li>TYPEWRITER adalah kata terpanjang yang dapat diketik dalam satu baris tuts keyboard anda.</li>
+<li>Perempuan ngedip dua kali lebih banyak dari pada laki-laki.</li>
+<li>Menahan nafas tidak akan membuatmu mati. </li>
+<li>Setiap manusia tidak dapat menjilat siku tangannya sendiri.</li>
+<li>Kalau ada orang mengucapkan doa setiap kali ada yang bersin karena memang setiap kali kau bersin, jantungmu berhenti satu milisecond.</li>
+<li>Secara fisik, setiap babi tidak bisa melihat ke langit.</li>
+<li>Ucapkan “sixth sick sheik’s sixth sheep’s sick” beberapa kali, nanti anda akan mahir berbahasa inggris!</li>
+<li>Bersin terlalu keras dapat mematahkan tulang iga, memutuskan pembuluh darah di kepala atau leher dan mengakibatkan kematian.</li>
+<li>Setiap raja dalam kartu remi melambangkan raja-raja besar jaman dahulu kala: Raja sekop – Raja Daud, Raja keriting – Alexander Agung, Raja hati – Raja Charlemagne, Raja wajik – Julius Caesar</li>
+<li>111,111,111 x 111,111,111 = 12,345,678,987, 654,321</li>
+<li>Kalau ada patung orang naik kuda dan dua kaki depan kuda itu naik di udara, itu tandanya orang itu mati dalam perang.</li>
+<li>Kalau ada patung orang naik kuda dan kaki kudanya cuma satu yang diangkat berarti orang itu cuma terluka dalam perang.</li>
+<li>Kalau ada patung orang naik kuda dan semua kaki kudanya menjejak tanah, berarti orang itu meninggal karena sakit.</li>
+<li>Apa persamaan rompi anti peluru, printer laser, tangga darurat dan wiper mobil? Jawabannya: semua ditemukan oleh perempuan! Hah!</li>
+<li>Satu-satunya makanan yang tidak bisa busuk? Jawaban: madu.</li>
+<li>Buaya nggak bisa melet lidah. </li>
+<li>Siput bisa tidur selama 3 tahun.</li>
+<li>Semua beruang kutub KIDAL!</li>
+<li>American Airlines menghemat $40,000 tahun 1987 dengan cara mengurangi 1 buah  olive dari setiap piring salad yang mereka sajikan untuk penumpang kelas 1.</li>
+<li>Indera perasa kupu-kupu ada di kaki.</li>
+<li>Gajah adalah satu-satunya hewan yang tidak bisa lompat.</li>
+<li>Selama 4000 tahun belakangan ini, jenis hewan yang dipelihara di rumah cuma itu-itu saja.</li>
+<li>Rata-rata manusia lebih takut pada laba-laba daripada kematian.</li>
+<li>Shakespeare menemukan kata: “Assassination” dan “bump”</li>
+<li>Dengan menggunakan cara mengetik 10 jari, STEWARDESSES adalah kata terpanjang yang bisa diketik hanya dengan jari-jari tangan kiri.</li>
+<li>Semut selalu jatuh ke kanan setiap kali disemprot cairan anti hama</li>
+<li>Kursi listrik ditemukan oleh seorang dokter gigi</li>
+<li>Jantung manusia dapat menyemprotkan darah sejauh 30 kaki.</li>
+<li>Dalam 18 bulan, 2 ekor tikus bisa punya lebih dari sejuta anak tikus!</li>
+<li>Memakai headphone selama satu jam dapat menstimulasi perkembangan bakteri dalam telinga sebanyak 700 kali lipat!</li>
+<li>Pemantik ditemukan sebelum korek api.</li>
+<li>Setiap lipstik mengandung sisik ikan.</li>
+<li>Seperti sidik jari, lidah manusia pun mempunyai kontur yang berbeda-beda.</li>
+
+</random>
+</template>
+</category>
+
+
+
+
+</aiml>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+
+<category> <pattern>RUKYAH *</pattern>  <template><srai>RUQYAH <star/></srai></template> </category>       
+<category> <pattern>* RUKYAH *</pattern>  <template><srai><star/> RUQYAH <star index="2"/></srai></template> </category> 
+<category> <pattern>_ RUKYAH</pattern>  <template><srai><star/> RUQYAH</srai></template> </category> 
+<category> <pattern>RUKIYAH *</pattern>  <template><srai>RUQYAH <star/></srai></template> </category>       
+<category> <pattern>* RUKIYAH *</pattern>  <template><srai><star/> RUQYAH <star index="2"/></srai></template> </category> 
+<category> <pattern>_ RUKIYAH</pattern>  <template><srai><star/> RUQYAH</srai></template> </category> 
+<category> <pattern>RU'YAH *</pattern>  <template><srai>RUQYAH <star/></srai></template> </category>       
+<category> <pattern>* RU'YAH *</pattern>  <template><srai><star/> RUQYAH <star index="2"/></srai></template> </category> 
+<category> <pattern>_ RU'YAH</pattern>  <template><srai><star/> RUQYAH</srai></template> </category> 
+
+
+<category> <pattern>TENTANG RUQYAH</pattern> <template><srai>RUQYAH</srai></template> </category> 
+<category> <pattern>APA ARTI RUQYAH</pattern> <template><srai>RUQYAH</srai></template> </category> 
+<category> <pattern>RUKYAH</pattern> <template><srai>RUQYAH</srai></template> </category> 
+<category> <pattern>KENAPA RUQYAH</pattern> <template><srai>RUQYAH</srai></template> </category> 
+<category> <pattern>BUAT APA RUQYAH</pattern> <template><srai>RUQYAH</srai></template> </category> 
+<category> <pattern>TTG RUQYAH</pattern> <template><srai>RUQYAH</srai></template> </category> 
+
+
+<category><pattern>APA RUQYAH</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>_ APA RUQYAH</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>_ APA * RUQYAH</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>_ APA RUQYAH *</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>_ APA * RUQYAH *</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>APA * RUQYAH</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>APA RUQYAH *</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>APA * RUQYAH *</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+<category><pattern>_ APA * RUQYAH *</pattern><template><srai>APA ITU RUQYAH</srai></template></category>
+
+<category><pattern>_ MANFAAT RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAAT * RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAAT RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAAT * RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>MANFAAT * RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>MANFAAT RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>MANFAAT * RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAAT * RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+
+<category><pattern>MANFAATNYA RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAATNYA RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAATNYA * RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAATNYA RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAATNYA * RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>MANFAATNYA * RUQYAH</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>MANFAATNYA RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>MANFAATNYA * RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+<category><pattern>_ MANFAATNYA * RUQYAH *</pattern><template><srai>MANFAAT RUQYAH</srai></template></category>
+
+<category><pattern>_ BIAYA RUQYAH</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>_ BIAYA * RUQYAH</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>_ BIAYA RUQYAH *</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>_ BIAYA * RUQYAH *</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>BIAYA * RUQYAH</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>BIAYA RUQYAH *</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>BIAYA * RUQYAH *</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+<category><pattern>_ BIAYA * RUQYAH *</pattern><template><srai>BIAYA RUQYAH</srai></template></category>
+
+<category><pattern>_ CARA RUQYAH</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>_ CARA * RUQYAH</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>_ CARA RUQYAH *</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>_ CARA * RUQYAH *</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>CARA * RUQYAH</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>CARA RUQYAH *</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>CARA * RUQYAH *</pattern><template><srai>CARA RUQYAH</srai></template></category>
+<category><pattern>_ CARA * RUQYAH *</pattern><template><srai>CARA RUQYAH</srai></template></category>
+
+
+
+
+<category>
+<pattern>RUQYAH</pattern>
+<template>
+Ada yang menarik anda tentang ruqyah?<think><set name="topic">RUQYAH</set></think>
+</template>
+</category>
+
+<category><pattern>PENYAKIT RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKIT RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKIT * RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKIT RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKIT * RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>PENYAKIT * RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>PENYAKIT RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>PENYAKIT * RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKIT * RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+
+<category><pattern>PENYAKITNYA RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKITNYA RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKITNYA * RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKITNYA RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKITNYA * RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>PENYAKITNYA * RUQYAH</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>PENYAKITNYA RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>PENYAKITNYA * RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+<category><pattern>_ PENYAKITNYA * RUQYAH *</pattern><template><srai>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</srai></template></category>
+
+<category><pattern>_ DIMANA RUQYAH</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>_ DIMANA * RUQYAH</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>_ DIMANA RUQYAH *</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>_ DIMANA * RUQYAH *</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>DIMANA * RUQYAH</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>DIMANA RUQYAH *</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>DIMANA * RUQYAH *</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+<category><pattern>_ DIMANA * RUQYAH *</pattern><template><srai>DIMANA RUQYAH</srai></template></category>
+
+<category><pattern>_ WAKTU RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTU * RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTU RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTU * RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>WAKTU * RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>WAKTU RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>WAKTU * RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTU * RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+
+<category><pattern>WAKTUNYA RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTUNYA RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTUNYA * RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTUNYA RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTUNYA * RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>WAKTUNYA * RUQYAH</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>WAKTUNYA RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>WAKTUNYA * RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+<category><pattern>_ WAKTUNYA * RUQYAH *</pattern><template><srai>WAKTU RUQYAH</srai></template></category>
+
+<category>
+<pattern>APA ITU RUQYAH</pattern>
+<template>ruqyah di doain gitu deh</template>
+</category>
+
+<category>
+<pattern>CARA RUQYAH</pattern>
+<template>caranya nanti di bimbing dengan ahli konsultan kami,...</template>
+</category>
+
+<category>
+<pattern>DIMANA RUQYAH</pattern>
+<template>caranya nanti di bimbing dengan ahli konsultan kami, silahkan datang ke klinik kami...</template>
+</category>
+
+<category>
+<pattern>BIAYA RUQYAH</pattern>
+<template>harga bisa di bicarakan di klinik kami. silahkan klik bagian 'klinik kami'..<srai>INDONESIA</srai></template>
+</category>
+
+<category>
+<pattern>MANFAAT RUQYAH</pattern>
+<template>Manfaatnya ruqyah banyak sekali pak...<think><set name="topic">RUQYAH</set></think></template>
+</category>
+
+<category>
+<pattern>WAKTU RUQYAH</pattern>
+<template>Waktu ruqyah kapan saja pak...<think><set name="topic">RUQYAH</set></think></template>
+</category>
+
+
+
+<category>
+<pattern>PENYAKIT YANG BISA DI SEMBUHKAN RUQYAH</pattern>
+<template>ruqyah untuk menyembuhkan segala penyakit jiwa, mas,...<think><set name="topic">RUQYAH</set></think></template>
+</category>
+
+
+
+
+<topic name="RUQYAH">
+
+<category>
+<pattern>*</pattern>
+<template>
+<random>
+<li>Apanya yang anda ingin ketahui tentang ruqyah? manfaat? atau penyakit yang bisa di sembuhkan?</li>
+<li><srai>BANTU</srai></li>
+</random>
+</template>
+</category>
+
+</topic>
+
+</aiml>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+
+
+
+<!-- ULTIMATE DEFAULT CATEGORY -->
+
+<category>
+<pattern>*</pattern>
+<template><random>
+<li><srai>PICKME</srai></li>
+</random>
+<think><set name="it"><set name="topic"><person/></set></set></think>
+</template></category>
+
+
+<category>
+  <pattern>PICKME</pattern>
+  <template>
+    <random>
+       <li><srai>TANYA</srai></li>
+       <li><srai>PICKMEUP</srai></li>
+       <li><srai>PICKMEUP</srai></li>
+       <li><srai>PICKMEUP</srai></li>
+       <li><srai>TANYA</srai></li>
+       <li><srai>PICKMEUP</srai></li>
+       <li><srai>PICKMEUP</srai></li>
+       <li><srai>PICKMEUP</srai></li>
+	   <li><srai>QUOTE</srai></li>
+	   </random>
+  </template>
+</category>
+
+<category>
+  <pattern>PICKMEUP</pattern>
+  <template>
+    <random>
+	<li>Terus... </li>
+	<li>Lanjut... </li>
+    <li>Kenapa? lebih spesifiknya?</li>
+    <li>Ada yang bisa saya bantu?</li>
+    <li>Tolong ceritakan ke saya</li>
+    <li>Anda mempunyai keluhan? Apa keluhan anda? </li>
+    <li>Indah sekali</li>
+    <li>Maaf, saya kurang mengerti</li>
+    <li>Apa yang anda risaukan?</li>
+    <li>Dimana anda tinggal?</li>
+    <li>Anda masih banyak waktu?</li>
+    <li>Seperti apa keluhan anda?</li>
+    <li>Saya menyukai cara anda berbicara</li>
+    <li>Begitukah menurut anda?</li>
+    <li>Suka kah anda berkomunikasi dengan saya?</li>
+    <li>Apa yang sedang anda bicarakan?</li>
+    <li>Mari kita ganti topik.</li>
+    <li>Saya menunggu anda.</li>
+    <li>Anda ingin bergossip?</li>
+    <li>Saya kehilangan arah.</li>
+    <li>Bisa kita balik ke awal?</li>
+    <li>Makanan apa yang anda suka konsumsi?</li>
+    <li>Pemikiran yang sangat menarik</li>
+    <li>Tadi kita berbicara tentang apa?</li>
+    <li>Apa yang anda suka lakukan kalau anda lagi luang waktu?</li>
+    <li>Apa yang anda benar-benar ingin ketahui?</li>
+    <li>apakah "itu" berkaitan dengan <get name="topic"/>?</li>
+    <li>Apa anda bisa berbicara bahasa asing?</li>
+    <li>Kita tidak pernah membicarakannya.</li>
+    <li>Bagaimana biasanya anda memperkenalkan diri?</li>
+    <li>Ceritakan kepada saya apa yang anda suka dan tidak.</li>
+    <li>Apa kita masih berbicara tentang <get name="topic"/>?</li>
+    <li>Maaf, jangan tentang hal itu</li>
+    <li>Mari kita persempit arah pembicaraan kita</li>
+    <li>Tidak banyak yang berpikiran seperti itu.</li>
+    <li>Anda dapat mengerti apa yang saya maksud?</li>
+    <li>Apa anda faham kondisinya?</li>
+    <li>Sejujurnya, saya tidak terlalu khawatir ttg hal tsb.</li>
+    <li>Andai saya adalah robot, bagaimana jadinya?</li>
+    <li>Saya tidak punya komentar.</li>
+    <li>Omong-omong, anda keberatan kalau saya bertanya?</li>
+    <li>Apa yang anda kemukakan terlampau berat buat saya.</li>
+    <li>Sangat menyentuh.</li>
+    <li>Apa anda bertanya siapa yang menjawab?</li>
+    <li>Menurut anda saya kurang pandai?</li>
+    <li>Bisa anda ceritakan menggunakan kata-kata lain?</li>
+    </random>
+   </template>
+</category>
+
+
+<category>
+  <pattern>QUOTE</pattern>
+  <template><random>
+    <li><srai>GOSSIP</srai></li>
+    <li><srai>FAKTA</srai></li>
+    <li><srai>BIJAK</srai></li>
+    <li><srai>PANTUN</srai></li>
+    <li><srai>BANTU</srai></li>
+	</random>
+  </template>
+ </category>
+ 
+
+ 
+
+<!-- CATEGORY ALIH KE BAHASA INDONESIA -->
+
+<category>
+  <pattern>INDONESIA</pattern>
+  <template>
+    <random>
+     <li>Bahasa indo aja ya... <think><set name="language">INDONESIA</set></think><srai>PICKME</srai></li>
+     <li>Ayo indonesia. <think><set name="language">INDONESIA</set></think><srai>PICKME</srai></li>
+	</random>
+  </template>
+</category>
+
+<category>
+  <pattern>* INDONESIA *</pattern>
+  <template>
+    <srai>INDONESIA</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* INDONESIA</pattern>
+  <template>
+    <srai>INDONESIA</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>INDONESIA *</pattern>
+  <template>
+    <srai>INDONESIA</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* INDO *</pattern>
+  <template>
+  <srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+  <pattern>INDO *</pattern>
+  <template>
+  <srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+  <pattern>* INDO</pattern>
+  <template>
+  <srai>INDONESIA</srai>
+</template>
+</category>
+
+<category>
+  <pattern>SAYA INDO</pattern>
+  <template>
+    saya juga dong.
+</template>
+</category>
+
+<category>
+  <pattern>SAYA INDO _</pattern>
+  <template>
+    saya juga dong.
+</template>
+</category>
+
+
+
+<!-- 
+***********************************************************
+                   DEBUG
+***********************************************************				   
+ -->
+
+<category>
+<pattern>STATUS</pattern>
+<template>Bahasa: <get name="language"/>, Nama : <get name="nama"/>, Umur : <get name="umur"/>, kelamin: <get name="gender"/>, Bekerja: <get name="bekerja"/>, p.jauh: <get name="berpergian"/>, Film: <get name="filmfav"/>
+</template>
+</category>
+
+
+<category>
+  <pattern>CONNECT</pattern>
+  <template>
+    <think> <srai>SET PREDICATES OM</srai> <set name="name">JUDGE <star/></set> </think>
+    <random>
+      <li>Hallo..</li>
+      <li>Kita sudah mulai?</li>
+      <li>Apa kamu di situ?</li>
+      <li>Hallooo.. ada orang di situ?</li>
+    </random>
+  </template>
+</category>
+
+<category>
+<pattern>SIAPA SAYA</pattern>
+<template>Kamu adalah <get name="nama"/></template>
+</category>
+
+<category>
+<pattern>APA IT</pattern>
+<template><get name="it"/>.</template>
+</category>
+
+<category>
+<pattern>APA ITU KUDA</pattern>
+<template>
+Kuda itu binatang.<think><set name="it"><set name="topic">kuda</set></set></think>
+</template>
+</category>
+
+<category>
+<pattern>APA KELAMIN SAYA</pattern>
+<template><get name="kelamin"/>.</template>
+</category>
+
+<category>
+<pattern>APA TOPIK</pattern>
+<template>Topik kita, <get name="topic"/>.</template>
+</category>
+
+<category>
+<pattern>APA WARNA FAVORIT SAYA</pattern>
+<template>anda suka dengan warna <get name="warnafav"/>.. betul?</template>
+</category>
+
+
+</aiml>

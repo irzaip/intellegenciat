@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+
+<category>
+<pattern>GOSSIP</pattern>
+<template>
+<random>
+<li>GOSIPNYA SBY utangnya banyak sekali...</li>
+<li>GOSIPNYA Meriam Bellina mau main filem</li>
+</random>
+</template>
+</category>
+
+</aiml>
